@@ -5,5 +5,6 @@ Coordination ellipsis is a linguistic phenomenon particularly abundant in scienc
 
 
 ## Resources
-PubMedPhrase2vec model used in RECEEM.
-https://drive.google.com/open?id=14a3_8rK9vDosWYL9w9wo77w8WuKoqyAO
+
+### [PubMedPhrase2vec model](https://drive.google.com/open?id=14a3_8rK9vDosWYL9w9wo77w8WuKoqyAO)
+
