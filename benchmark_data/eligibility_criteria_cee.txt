@@ -1,0 +1,979 @@
+TAC and EVR trough levels	tac trough levels|evr trough levels
+Type I or II diabetes	Type i diabetes|Type ii diabetes
+Phalen's and Tinel's signs	phalen's signs|tinel's signs
+general and regional anesthesia	general anesthesia|regional anesthesia
+bone marrow, and renal function	bone marrow function|renal function
+Ability to ambulate with or without assistive devices	Ability to ambulate with assistive devices|Ability to ambulate without assistive devices
+Ability to follow verbal or visual commands	Ability to follow verbal commands|Ability to follow visual commands
+liver or renal disfunction	liver disfunction|renal disfunction
+plasma and CSF HIV RNA concentration	plasma concentration|csf hiv rna concentration
+loco-regional or lymph node metastasis	loco-regional metastasis|lymph node metastasis
+cutaneous or visceral metastasis	cutaneous metastasis|visceral metastasis
+B and C hepatitis	b hepatitis|c hepatitis
+HBsAg and HBeAg positive	hbsag positive|hbeag positive
+urologic or orthopedic procedure	urologic procedure|orthopedic procedure
+verbal or pictorial pain assessment tools and techniques	verbal pain assessment tools|pictorial pain assessment tools|verbal pain assessment techniques|pictorial pain assessment techniques
+living-donor or deceased-donor liver transplantation	living-donor liver transplantation|deceased-donor liver transplantation
+crepitate and/or fine bubble rales	crepitate rales|fine bubble rales
+partial or full resection of the pancreas	partial resection of pancreas|full resection of pancreas
+benign or malignant tumor	benign tumor|malignant tumor
+normal organ and marrow function	normal organ function|normal marrow function
+organ and marrow function	organ function|marrow function
+Ischemic and nonischemic etiology	ischemic etiology|nonischemic etiology
+cardiac or systemic cause of hypertrophy	cardiac cause of hypertrophy|systemic cause of hypertrophy
+stress urinary or urgency incontinence	stress urinary incontinence|urgency incontinence
+cardiovascular and respiratory disease	cardiovascular disease|respiratory disease
+substance / alcohol use disorder	substance use disorder|alcohol use disorder
+GSV or SSV vein reflux	gsv vein reflux|ssv vein reflux
+dual or triple antiplatelet therapy	dual antiplatelet therapy|triple antiplatelet therapy
+rectal or vaginal gonorrhea	rectal gonorrhea|vaginal gonorrhea
+gastrointestinal, gynecological, prostate or bladder surgery	gastrointestinal surgery|gynecological surgery|prostate surgery|bladder surgery
+hearing and vision impairment	hearing impairment|vision impairment
+IVF / ICSI fertilisation	IVF fertilisation|ICSI fertilisation
+Measurable or non-measurable disease	measurable disease|non-measurable disease
+fluoropyrimidine-, oxaliplatin-, and irinotecan-containing chemotherapy	fluoropyrimidine-containing chemotherapy|oxaliplatin-containing chemotherapy|irinotecan-containing chemotherapy
+irinotecan or oxaliplatin containing regimen	irinotecan containing regimen|oxaliplatin containing regimen
+venovenous or venoarterial ECMO	venovenous ECMO|venoarterial ECMO
+Fasting or postprandial plasma C-peptide	fasting plasma C-peptide|postprandial plasma C-peptide
+major impairment of renal or hepatic function	major impairment of renal function|major impairment of hepatic function
+psychiatric or addictive disorder	psychiatric disorder|addictive disorder
+renal or cardiac transplantation	renal transplantation|cardiac transplantation
+left and right catheterization	left catheterization|right catheterization
+Modified Allen or Barbeau test	modified allen test|barbeau test
+relapsed or refractory disease	relapsed disease|refractory disease
+BCR and/or BCL2 inhibitors	bcr inhibitors|bcl2 inhibitors
+progressive / refractory disease	progressive disease|refractory disease
+nodal or mass lesions	nodal lesions|mass lesions
+Primary or secondary infertility	primary infertility|secondary infertility
+endometrial or epithelial ovarian cancer	endometrial ovarian cancer|epithelial ovarian cancer
+Endoscopic and surgical treatment	endoscopic treatment|surgical treatment
+Clinical / Histological / cytological / Imaging examination	clinical examination|histological examination|cytological examination|imaging examination
+liver, kidney function	liver function|kidney function
+cervical, thoracic, or lumbar facet or sacroiliac joint pain	cervical joint pain|thoracic joint pain|lumbar facet joint pain|sacroiliac joint pain
+height / weight measurement	height measurement|weight measurement
+Lobar and sublobar resections	lobar resections|sublobar resections
+thoracoscopic or robotic surgeries	thoracoscopic surgeries|robotic surgeries
+Diagnostic or therapeutic procedures	diagnostic procedures|therapeutic procedures
+ascending, arch and/or proximal descending aorta surgery	ascending aorta surgery|arch aorta surgery|proximal descending aorta surgery
+GRE or CRE bacteria	gre bacteria|cre bacteria
+pleural or pericardial effusion	pleural effusion|pericardial effusion
+estrogen receptor or progesterone receptor positive	estrogen receptor positive|progesterone receptor positive
+hormone or trastuzumab therapy	hormone therapy|trastuzumab therapy
+urine or serum pregnancy test	urine pregnancy test|serum pregnancy test
+Adequate hepatic and renal function	adequate hepatic function|adequate renal function
+gastro-intestinal or other organ bleeding	gastro-intestinal bleeding|other organ bleeding
+peripheral and central venous congestion	peripheral venous congestion|central venous congestion
+intramural or subserosal leiomyomas	intramural leiomyomas|subserosal leiomyomas
+Serum or plasma aminotransferases	serum aminotransferases|plasma aminotransferases
+SLN mapping and surgical excision is indicated	sln mapping is indicated|surgical excision is indicated
+prostacyclin or prostacyclin analog	prostacyclin|prostacyclin analog
+Hailey Hailey or Darier disease	hailey hailey disease|darier disease
+central or mixed central and obstructive sleep apnea	central sleep apnea|mixed central sleep apnea|obstructive sleep apnea
+Blunt or penetrating trauma	blunt trauma|penetrating trauma
+Stable or unstable angina	stable angina|unstable angina
+normal liver and kidney function	normal liver function|normal kidney function
+Intracranial or cerebral haemorrhage	intracranial haemorrhage|cerebral haemorrhage
+runny / blocked / itchy nose	runny nose|blocked nose|itchy nose
+internal and surgical disease	internal disease|surgical disease
+Alcohol or drug abuse	alcohol abuse|drug abuse
+Type 1 or 2 diabetes	Type 1 diabetes|Type 2 diabetes
+systemic or neurological diseases	systemic diseases|neurological diseases
+psychiatric or addictive disorders	psychiatric disorders|addictive disorders
+hematological, hepatic, and renal function	hematological function|hepatic function|renal function
+oral or i.v. therapy	oral therapy|i.v. therapy
+unipolar or bipolar depression	unipolar depression|bipolar depression
+Class I or III antiarrhythmic drugs	class i antiarrhythmic drugs|class iii antiarrhythmic drugs
+deceased-donor or living donor kidney transplantation	deceased-donor kidney transplantation|living donor kidney transplantation
+renal and hepatic function	renal function|hepatic function
+Induced / Augmented Labor	induced labor|augmented labor
+motor and cognitive development	motor development|cognitive development
+endoscopic, radiologic, or surgical therapy	endoscopic therapy|radiologic therapy|surgical therapy
+stress and urgency urinary incontinence	stress urinary incontinence|urgency urinary incontinence
+CBT or subject declines current CBT therapy	cbt therapy|subject declines current cbt therapy
+Medically and neurologically healthy	medically healthy|neurologically healthy
+pelvic / speculum examination	pelvic examination|speculum examination
+adjuvant or palliative treatment	adjuvant treatment|palliative treatment
+lumbosacral or perineal pain	lumbosacral pain|perineal pain
+Congenital,Mental and other Nervous system diseases	congenital diseases|mental diseases|other nervous system diseases
+Serious Cardiac, Pulmonary, Hepatic and Nephritic disease	serious cardiac disease|serious pulmonary disease|serious hepatic disease|serious nephritic disease
+R0, R1 resection	r0 resection|r1 resection
+Recurrent or refractory medulloblastoma	recurrent medulloblastoma|refractory medulloblastoma
+renal and hepatic laboratory profile	renal laboratory profile|hepatic laboratory profile
+parenteral or enteral nutrition	parenteral nutrition|enteral nutrition
+Mental or nervous system disorders	mental disorders|nervous system disorders
+heart, lung and central nervous system disorders	heart disorders|lung disorders|central nervous system disorders
+total or partial cervical vertebrectomy	total cervical vertebrectomy|partial cervical vertebrectomy
+mental or neuromuscular disorder	mental disorder|neuromuscular disorder
+medical or surgical conditions	medical conditions|surgical conditions
+sign of dementia / cognitive impairment	sign of dementia|sign of cognitive impairment
+DSM-IV and NINCDS-ADRA criteria	dsm-iv criteria|nincds-adra criteria
+immunosuppressive or autoimmune disease	immunosuppressive disease|autoimmune disease
+M1 or M2 marrow	m1 marrow|m2 marrow
+M2 or M3 marrow	m2 marrow|m3 marrow
+Maternal and fetal condition	maternal condition|fetal condition
+soft-tissue or bone sarcoma	soft-tissue sarcoma|bone sarcoma
+CT / MRI scans	ct scans|mri scans
+chronic kidney disease (Stage 4 and 5)	chronic kidney disease ( Stage 4 )|chronic kidney disease ( Stage 5 )
+First or second single kidney	first single kidney|second single kidney
+psychiatric or physical disease	psychiatric disease|physical disease
+pre- and post-exposure prophylaxis	pre-exposure prophylaxis|post-exposure prophylaxis
+solid organ or islet cell tissue transplants	solid organ transplants|islet cell tissue transplants
+organ or tissue transplant	organ transplant|tissue transplant
+surgical, medical or mental conditions	surgical conditions|medical conditions|mental conditions
+verbal or pictorial pain scoring scales	verbal pain scoring scales|pictorial pain scoring scales
+immunosuppressive or immunodeficient condition	immunosuppressive condition|immunodeficient condition
+respiratory, cardio-vascular insufficiency	respiratory insufficiency|cardio-vascular insufficiency
+renal and hepatic failure	renal failure|hepatic failure
+infectious and/or communicable illnesses	infectious illnesses|communicable illnesses
+Moderate / Weak CYP3A inducers	moderate CYP3A inducers|weak CYP3A inducers
+Coronary or carotid artery disease	coronary artery disease|carotid artery disease
+surgical or percutaneous intervention	surgical intervention|percutaneous intervention
+mitral and/or aortic valve disease	mitral valve disease|aortic valve disease
+aortic and subaortic stenosis	aortic stenosis|subaortic stenosis
+surgical or medical condition	surgical condition|medical condition
+duodenal or gastric ulcers	duodenal ulcers|gastric ulcers
+cholestyramine or colestipol resins	cholestyramine resins|colestipol resins
+CPK-MB or troponin levels	cpk-mb levels|troponin levels
+immediate or delayed hypersensitivity reaction	immediate hypersensitivity reaction|delayed hypersensitivity reaction
+arterial / venous thromboembolic event	arterial thromboembolic event|venous thromboembolic event
+medical or psychiatric illness	medical illness|psychiatric illness
+gastric / bowel surgery	gastric surgery|bowel surgery
+liver, kidney or metabolic disease	liver disease|kidney disease|metabolic disease
+squamous or basal cell skin carcinoma	squamous cell skin carcinoma|basal cell skin carcinoma
+topical or inhaled steroids	topical steroids|inhaled steroids
+intercurrent or chronic illness	intercurrent illness|chronic illness
+surgical or transcatheter ablation	surgical ablation|transcatheter ablation
+Hemodynamic or respiratory instability	hemodynamic instability|respiratory instability
+chronic, metabolic, systemic and endocrine disorders	chronic disorders|metabolic disorders|systemic disorders|endocrine disorders
+chronic active or persistent hepatitis	chronic active hepatitis|persistent hepatitis
+airway and/or parenchymal lung disease	airway disease|parenchymal lung disease
+fungal or mycobacterial disease	fungal disease|mycobacterial disease
+B cell or lymphocyte-depleting agents	b cell agents|lymphocyte-depleting agents
+Epidural or subdural hematoma	epidural hematoma|subdural hematoma
+epidural or spinal anesthesia	epidural anesthesia|spinal anesthesia
+valve, aortic or carotid surgery	valve surgery|aortic surgery|carotid surgery
+renal or hepatic dysfunction	renal dysfunction|hepatic dysfunction
+bronchial and cardiovascular diseases	bronchial diseases|cardiovascular diseases
+ocular or periocular infection	ocular infection|periocular infection
+physical or psychological concomitant diseases	physical concomitant diseases|psychological concomitant diseases
+dental or fixture trauma	dental trauma|fixture trauma
+dental or jaw surgery	dental surgery|jaw surgery
+Drug or alcohol dependence, or abuse	drug dependence|alcohol dependence|drug abuse|alcohol abuse
+Valvular cardiac surgical / percutaneous procedure	valvular cardiac surgical procedure|valvular cardiac percutaneous procedure
+constrictive or chronic obstructive pulmonary disease	constrictive pulmonary disease|chronic obstructive pulmonary disease
+disease or malfunction of the lungs	disease of lungs|malfunction of lungs
+non-renal solid organ and/or islet cell transplantation	non-renal solid organ transplantation|islet cell transplantation
+gastric or duodenal ulcer	gastric ulcer|duodenal ulcer
+urogenital or uterine prolapse	urogenital prolapse|uterine prolapse
+haematology, chemistry or urinalysis laboratory abnormality	haematology abnormality|chemistry abnormality|urinalysis laboratory abnormality
+sensitivity / allergy to latex	sensitivity to latex|allergy to latex
+Hepatitis B and C infection	hepatitis b infection|hepatitis c infection
+diseased or obstructed gastrointestinal tract	diseased gastrointestinal tract|obstructed gastrointestinal tract
+severe / unstable angina	severe angina|unstable angina
+coronary / peripheral artery bypass graft	coronary artery bypass graft|peripheral artery bypass graft
+complete parenteral or enteral feeding	complete parenteral feeding|complete enteral feeding
+psychiatric or substance abuse disorder	psychiatric disorder|substance abuse disorder
+anti-neoplastic or immunomodulatory treatment	anti-neoplastic treatment|immunomodulatory treatment
+drug and/or alcohol abuse	drug abuse|alcohol abuse
+drug or alcohol use or dependence	drug use|alcohol use|drug dependence|alcohol dependence
+Chronic or acute hepatitis B infection	chronic hepatitis B infection|acute hepatitis B infection
+Neuropsychiatric disorders / symptoms	Neuropsychiatric symptoms|Neuropsychiatric disorders
+good tolerance and adherence to ACEI drugs	good tolerance to ACEI drugs|good adherence to ACEI drugs
+liver and kidney disease	kidney disease|liver disease
+bone, tendon, or capsule exposure	tendon exposure|bone exposure|capsule exposure
+medical or psychiatric disease	psychiatric disease|medical disease
+acute, or chronic hepatitis	chronic hepatitis|acute hepatitis
+clinically important hepatic or renal disease	clinically important renal disease|clinically important hepatic disease
+bacterial or viral infection of the upper or lower respiratory tract, sinus or middle ear	bacterial infection of middle ear|bacterial infection of upper respiratory tract|viral infection of middle ear|bacterial infection of lower respiratory tract|bacterial infection of sinus
+abuse of alcohol or medication / narcotics	abuse of alcohol|abuse of medication|abuse of narcotics
+Medications or supplements affecting coagulation	medications affecting coagulation|supplements affecting coagulation
+Impaired liver or renal function	Impaired liver function|Impaired renal function
+Undifferentiated, Anaplastic or Medullary Thyroid Cancer	Anaplastic Thyroid Cancer|Undifferentiated Thyroid Cancer|medullary thyroid cancer
+resection of aortic or left ventricular aneurysm	resection of left ventricular aneurysm|resection of aortic aneurysm
+localized squamous or basal cell carcinoma of the skin	localized squamous cell carcinoma of skin|localized basal cell carcinoma of skin
+antiviral or antifungal treatment	antiviral treatment|antifungal treatment
+medical conditions or diseases	medical conditions|medical diseases
+chronic or acute illness	chronic illness|acute illness
+cardiovascular, renal, hepatic, endocrine disease	cardiovascular disease|renal disease|hepatic disease
+cardiovascular, pulmonary, or metabolic disease	cardiovascular disease|pulmonary disease|metabolic disease
+neurological or mental disorder	neurological disorder|mental disorder
+Multiple Sclerosis or peripheral demyelinating disease	Multiple Sclerosis demyelinating disease|peripheral demyelinating disease
+signet cell or small cell features	signet cell features|small cell features
+microcytic or hypochromic RBCs	microcytic RBCs|hypochromic RBCs
+basal cell or squamous cell carcinoma-documented 6-month remission	basal cell carcinoma-documented 6-month remission|squamous cell carcinoma-documented 6-month remission
+gastrointestinal or urinary bleed	gastrointestinal bleed|urinary bleed
+food product known to alter P450 enzyme or P-gp activity	food product known to alter P-gp activity|food product known to alter P450 enzyme activity
+gastrointestinal, cardiovascular, genitourinary, endocrine, immunologic, metabolic, neurologic, psychiatric or hematological disease	genitourinary disease|neurologic disease|gastrointestinal disease|cardiovascular disease|endocrine disease|immunologic disease|metabolic disease|psychiatric disease
+hepatitis B or C	hepatitis B|hepatitis C
+liver and/or renal abnormalities	liver abnormalities|renal abnormalities
+bad heart and lung function	bad heart function|bad lung function
+syndromic or chronic disease	syndromic disease|chronic disease
+endoscopic or imaging examination	endoscopic examination|imaging examination
+renal, hepatic, pulmonary, gastrointestinal, cardiovascular, genitourinary, endocrine, immunologic, metabolic, neurologic, psychiatric or hematological disease	genitourinary disease|neurologic disease|cardiovascular disease|gastrointestinal disease|endocrine disease|pulmonary disease|immunologic disease|metabolic disease|renal disease|psychiatric disease|hepatic disease
+bilateral tubal ligation or occlusion	bilateral tubal occlusion|bilateral tubal ligation
+Bence Jones protein in urine and serum free light chain	Bence Jones protein in urine free light chain|Bence Jones protein in serum free light chain
+HIV, Hepatitis B, or Hepatitis C test	Hepatitis B test|HIV test|Hepatitis C test
+endocrinologic, neurologic or immunologic disease	neurologic disease|endocrinologic disease|immunologic disease
+liver or renal failure	liver failure|renal failure
+hematological, renal and hepatic functions	hematological functions|renal functions|hepatic functions
+Willingness and ability to attend scheduled follow-up visits and undergo study assessments	ability to undergo study assessments|ability to attend scheduled follow-up visits|Willingnessto attend scheduled follow-up visits|Willingness to undergo study assessments 
+intranasal and inhaled corticosteroids	intranasal corticosteroids|inhaled corticosteroids
+acute or chronic infection	acute infection|chronic infection
+Chronic or active hepatitis B or hepatitis C	Chronic hepatitis B|active hepatitis B|Chronic hepatitis C|active hepatitis C
+Protein C or S deficiency	Protein C deficiency|Protein S deficiency
+Cardiovascular, kidney or hepatic diseases	kidney diseases|Cardiovascular diseases|hepatic diseases
+total knee or hip replacement	total hip replacement|total knee replacement
+viral infection of the upper or lower respiratory tract, sinus or middle ear	viral infection of the upper respiratory tract|viral infection of the middle ear|viral infection of the lower respiratory tract|viral infection of the sinus
+heart, hepatic, renal, infectious, neurological or psychiatric disorders	heart disorders|hepatic disorders|renal disorders|infectious disorders|neurological disorders|psychiatric disorders
+localized or systemic infection	localized infection|systemic infection
+chronic respiratory or cardiac disease	chronic respiratory disease|chronic cardiac disease
+neurologic or psychiatric disorders	psychiatric disorders|neurologic disorders
+cerebrovascular, metabolic, or pulmonary disease	cerebrovascular disease|metabolic disease|pulmonary disease
+allogeneic tissue / solid organ transplant	allogeneic tissue transplant|allogeneic solid organ transplant
+Type I and type II diabetes	Type I diabetes|type II diabetes
+open aortic or iliac surgery	open aortic surgery|open iliac surgery
+neurological, cardiovascular, neurological, renal, hepatic, immunological, endocrine or hematological abnormalities	neurological abnormalities|immunological abnormalities|hepatic abnormalities|endocrine abnormalities|renal abnormalities|cardiovascular abnormalities
+Renal and liver failure	Renal failure|liver failure
+acute obstruction or perforation	acute obstruction|acute perforation
+immunosuppressive or immunomodulating agents	immunosuppressive agents|immunomodulating agents
+ability to cooperate and follow simple commands	ability to cooperate and follow simple commands|ability to follow simple commands
+hepatic or renal insufficiency	hepatic insufficiency|renal insufficiency
+HIV 1 / 2 antibody	HIV 1 antibody|HIV 2 antibody
+symptoms or signs of volume overload	symptoms of volume overload|signs of volume overload
+Spontaneous / Induced / Augmented Labor	Induced Labor|Spontaneous Labor|Augmented Labor
+measles or measles mumps rubella routine vaccination	measles routine vaccination|measles mumps rubella routine vaccination
+Neurological or psychiatric disorder	Neurological disorder|psychiatric disorder
+ability and willingness to give written informed consent	willingness to give written informed consent|ability to give written informed consent
+Internal, neurologic, rheumatologic or psychiatric disease	Internal disease|neurologic disease|rheumatologic disease
+Inability or unwillingness to comply with the requirements of the protocol as determined by the investigator	Inability to comply with the requirements of the protocol as determined by the investigator|unwillingness to comply with the requirements of the protocol as determined by the investigator
+factors II, V, VII	factors VII|factors V|factors II
+upper or lower respiratory tract infection	upper respiratory tract infection|lower respiratory tract infection
+C or W disease	C disease|W disease
+cardiovascular disease or risk factors aside from hypertension	cardiovascular risk factors from hypertension|cardiovascular risk factors
+squamous cell or basal cell skin cancer	squamous cell skin cancer|basal cell skin cancer
+liver metastases AST and/or ALT levels	liver metastases AST levels|liver metastases ALT levels
+compounds of similar chemical or biologic composition to MK-3475	nullcompounds of similar chemical composition to MK-3475|compounds of similar biologic composition to MK-3475
+ocular and systemic abnormalities might affect visual functions	ocular abnormalities might affect visual functions|systemic abnormalities might affect visual functions
+Confirmatory CT or MRI of the abdomen	Confirmatory CT of abdomen|Confirmatory MRI of abdomen
+drug or alcohol-related cirrhosis	drug-related cirrhosis|alcohol-related cirrhosis
+abnormal physical examination, vital signs or 12 lead ECG	abnormal physical examination|abnormal 12 lead ECG|abnormal vital signs
+cardiovascular, liver, renal, hematologic, psychiatric, neurologic, gastrointestinal, immunologic, endocrine, metabolic, or central nervous system disease	cardiovascular disease|liver disease|renal disease|hematologic disease|psychiatric disease|neurologic disease|gastrointestinal disease|immunologic disease|endocrine disease|metabolic disease|central nervous system disease
+memory or comprehension problems	memory problems|comprehension problems
+physical / laboratory / ECG / vitals signs abnormality	physical signs abnormality|laboratory signs abnormality|ECG signs abnormality|vitals signs abnormality
+lungs and kidney function	lungs function|kidney function
+coronary / cerebrovascular events	coronary events|cerebrovascular events
+serological testing to HIV, HBV and HCV	serological testing to HBV|serological testing to HCV|serological testing to HIV
+intravenous vasodilators / vasopressor / inotropic support	intravenous vasodilators support|intravenous vasopressor support|intravenous inotropic support
+uterine or cervical malignancy	uterine malignancy|cervical malignancy
+inborn errors of homocysteine, cobalamin or folate metabolism	inborn errors of cobalamin metabolism|inborn errors of folate metabolism|inborn errors of homocysteine metabolism
+platelet glycoprotein IIb / IIIa antagonists	platelet glycoprotein IIb antagonists|platelet glycoprotein IIIa antagonists
+parenteral hydration and/or nutrition	parenteral hydration|parenteral nutrition
+renal and liver disorders	renal disorders|liver disorders
+T1 or T2 disease	T1 disease|T2 disease
+renal, liver, cardiac malignancy	liver malignancy|cardiac malignancy|renal malignancy
+bilateral oophorectomy with or without hysterectomy	bilateral oophorectomy without hysterectomy|bilateral oophorectomy with hysterectomy
+aortic or mitral valve stenosis	aortic valve stenosis|mitral valve stenosis
+hepatitis A, B, or C infection	hepatitis A infection|hepatitis B infection|hepatitis C infection
+serious physical or psychiatric disease	serious physical disease|serious psychiatric disease
+cardiac or pulmonary severe disease	pulmonary severe disease|cardiac severe disease
+brain or spinal cord metastases	brain metastases|spinal cord metastases
+chronic liver or renal diseases	chronic liver diseases|chronic renal diseases
+Hypo- and hyperphosphataemia	Hypophosphataemia and hyperphosphataemia
+stage IIIa or IIIb disease	stage IIIb disease|stage IIIa disease
+pulmonary, neurological, and / or orthopedic conditions	pulmonary conditions|neurological conditions|orthopedic conditions
+blood or blood component transfusion	blood transfusion|blood component transfusion
+adrenal medullary and cortical hyperfunctions	adrenal medullary hyperfunctions|adrenal cortical hyperfunctions
+advanced heart, kidney or liver failure	advanced liver failure|advanced kidney failure|advanced heart failure
+acute or chronic kidney disease	acute kidney disease|chronic kidney disease
+giant and clear cell carcinomas	giant cell carcinomas|clear cell carcinomas
+major intestinal resection or anastomosis	major intestinal anastomosis|major intestinal resection
+hepatic, renal, or gastrointestinal diseases	hepatic diseases|renal diseases|gastrointestinal diseases
+compounds of similar chemical or biologic composition to AT13387	compounds of similar chemical composition to AT13387|compounds of similar biologic composition to AT13387 
+localized syndromes of the head and neck	localized syndromes of head|localized syndromes of neck
+Able to speak and comprehend English	Able to speak English|Able to comprehend English
+acetabulum and femoral head, lumbo-sacral joint pathology	femoral head pathology|acetabulum pathology|lumbo-sacral joint pathology
+surgical or nonsurgical treatment for ROP	surgical treatment for ROP|nonsurgical treatment for ROP
+clinical or ECG signs of myocardial ischemia	clinical signs of myocardial ischemia|ECG signs of myocardial ischemia
+pure clear cell and pure mucinous carcinomas	pure clear cell carcinomas|pure mucinous carcinomas
+mental or nervous system diseases	mental diseases|nervous system diseases
+LVAD / IABP intraprocedural support	LVAD intraprocedural support|IABP intraprocedural support
+hepatitis B or C infection	Hepatitis B infection|Hepatitis C infection
+nivolumab and/or ipilimumab trial	nivolumab trial|ipilimumab trial
+pleural or lung diseases	pleural diseases|lung diseases
+loose or productive cough or wheeze	loose cough|productive cough|wheeze
+medical or psychiatric problems	medical problems|psychiatric problems
+gastrointestinal or endocrine disorders	gastrointestinal disorders|endocrine disorders
+liver or kidney functional levels	liver functional levels|kidney functional levels
+Schizotypal, Schizoid, Antisocial or other cognitive or personality disorders	Schizoid disorders|Schizotypal disorders|Antisocial disorders|cognitive disorders|personality disorders
+chest CT or FDG PET-CT	chest CT |chest FDG PET-CT
+CYP3A / PGP inhibitor	CYP3A inhibitor|PGP inhibitor
+enzyme induction or inhibition of CYP 3A4	enzyme induction of CYP 3A4|enzyme inhibition of CYP 3A4
+Receiving full enteral / oral nutrition	Receiving full enteral nutrition|Receiving full oral nutrition
+anticoagulant / antiplatelet therapy	anticoagulant therapy|antiplatelet therapy
+overt pulmonary congestion or pulmonary edema	overt pulmonary congestion|overt pulmonary edema
+head and/or neck irradiation	head irradiation|neck irradiation
+Able to read and write in English	Able to read in English|Able to write in English
+ability or willingness to give informed consent	ability to give informed consent|willingness to give informed consent
+cochlea and middle ear function	cochlea function|middle ear function
+tympanic membrane or other tympanic membrane disorders	tympanic membrane disorders|other tympanic membrane disorders
+substance use or abuse	substance use|substance abuse
+Abnormal and clinically relevant ECG tracing	Abnormal relevant ECG tracing|clinically relevant ECG tracing
+renal, neurologic, cerebrovascular, metabolic, or pulmonary disease	cerebrovascular disease|neurologic disease|metabolic disease|renal disease|pulmonary disease
+oral or topical medication	oral medication|topical medication
+pulmonary, renal, hepatic, endocrine, or other systemic disease	pulmonary disease|renal disease|hepatic disease|endocrine disease|other systemic disease
+Immunosuppression and/or cortisone therapy	Immunosuppression therapy|cortisone therapy
+renal or postrenal acute kidney failure	renal acute kidney failure|postrenal acute kidney failure
+infection requiring intravenous or oral antibiotics	infection requiring oral antibiotics|infection requiring intravenous antibiotics
+Acute or chronic liver or renal disease	Acute liver disease|chronic liver disease|chronic renal disease|Acute renal disease
+clinical evidence suggestive of liver or renal disease	clinical evidence suggestive of liver disease|clinical evidence suggestive of renal disease
+congenital or acquired immunodeficiency	congenital immunodeficiency|acquired immunodeficiency
+cardiovascular, pulmonary, or central nervous system disease	cardiovascular disease|pulmonary disease|central nervous system disease
+Liver and kidney dysfunction	Liver dysfunction|kidney dysfunction
+adrenal or pituitary insufficiency	adrenal insufficiency|pituitary insufficiency
+pectoral, axillar, thoracic homolateral pain	pectoral homolateral pain|axillar homolateral pain|thoracic homolateral pain
+Gastrointestinal bleeding or perforation	Gastrointestinal bleeding|Gastrointestinal perforation
+Achilles tendon tear or rupture	Achilles tendon tear|Achilles tendon rupture
+aortic valve or mitral valve stenosis	aortic valve stenosis|mitral valve stenosis
+renal and liver function	renal function|liver function
+rheumatologic, psychiatric, or metabolic disturbances	rheumatologic disturbances|psychiatric disturbances|metabolic disturbances
+inability to cooperate, or for the parents or guardians to give consent	inability for the guardians to give consent|inability for the parents to give consent
+Common and Deep Femoral Artery	Common Femoral Artery|Deep Femoral Artery
+Informed consent by the parent or legal guardian	Informed consent by the parent|Informed consent by legal guardian
+child able to read English or Spanish	child able to read English|child able to read Spanish
+cardiac rhythm or conduction abnormality	cardiac rhythm abnormality|cardiac conduction abnormality
+first-line platinum / taxane regimen	first-line platinum regimen|first-line taxane regimen
+Hepatitis B, C and HIV serologies	Hepatitis B serologies|Hepatitis C serologies|HIV serologies
+neurologic or psychiatric disease	neurologic disease|psychiatric disease
+endoscopic and biopsy assessment	endoscopic assessment|biopsy assessment
+alcohol addiction or abuse	alcohol addiction|alcohol abuse
+cardiovascular, renal or hepatic system	cardiovascular system|renal system|hepatic system
+acquired or bleeding or coagulation disorder	acquired disorder|bleeding disorder|coagulation disorder
+expecting to conceive or father	expecting to conceive|expecting to father
+intercurrent medical or psychiatric illness	intercurrent medical illness|intercurrent psychiatric illness
+oral or inhaled glucocorticoid treatment	oral glucocorticoid treatment|inhaled glucocorticoid treatment
+neurological, oncological or hormonal disorders	oncological disorders|neurological disorders|hormonal disorders
+esophageal, gastric or bariatric surgery	esophageal surgery|gastric surgery|bariatric surgery
+type I or type II diabetes mellitus	type I diabetes mellitus|type II diabetes mellitus
+Multiple premature ventricular or atrial contractions	Multiple premature atrial contractions|Multiple premature ventricular contractions
+Cognitive or neuropsychiatric diseases	Cognitive diseases|neuropsychiatric diseases
+diseases of heart, lung, liver, kidney and blood	diseases of heart|diseases of lung|diseases of liver|diseases of kidney|diseases of blood
+neurological or musculoskeletal disorder or disease	neurological disorder|neurological disease|musculoskeletal disorder |musculoskeletal disease
+kidney or bone disease	kidney disease|bone disease
+Abnormal renal or liver function	Abnormal renal function|Abnormal liver function
+metal in or on the body	metal in body|metal on body
+chronic viral hepatitis B & C	chronic viral hepatitis C|chronic viral hepatitis B
+internal, neurologic or psychiatric disease	neurologic disease|internal disease|psychiatric disease
+disabling neurological or psychiatric condition	disabling psychiatric condition|disabling neurological condition
+Good physical and mental health	Good physical health|Good mental health
+Adequate renal, hepatic, pulmonary, and cardiac function	Adequate renal function|Adequate hepatic function|Adequate pulmonary function|Adequate cardiac function
+bacterial or viral infection of the upper or lower respiratory tract	viral infection of the upper respiratory tract|bacterial infection of the upper respiratory tract|bacterial infection of the lower respiratory tract|viral infection of the lower respiratory tract
+vision or sensory deficits	vision deficits|sensory deficits
+kidney, peripheral vascular, or cerebral vascular disease	peripheral vascular disease|kidney disease|cerebral vascular disease
+basal cell or non-metastatic squamous cell carcinoma of the skin	basal cell carcinoma of skin|non-metastatic squamous cell carcinoma of skin
+renal or liver impairment	renal impairment|liver impairment
+alcohol / drug abuse or dependence	alcohol abuse|alcohol dependence|drug abuse|drug dependence
+clinical symptoms or signs of gastrointestinal obstruction	clinical symptoms of gastrointestinal obstruction|clinical signs of gastrointestinal obstruction
+Hepatitis B Virus, Hepatitis C Virus and Human Immunodeficiency Virus infections	Hepatitis C Virus infections|Hepatitis B Virus infections|Human Immunodeficiency Virus infections
+reaction for HIV infection, viral hepatitis B and hepatitis C	reaction for hepatitis C|reaction for viral hepatitis B|reaction for HIV infection
+psychological or emotional condition	psychological condition|emotional condition
+cardiovascular, pulmonary, neurological, and / or orthopedic conditions	cardiovascular conditions|pulmonary conditions|neurological conditions|orthopedic conditions
+Hemodynamic and/or respiratory instability	Hemodynamic instability|respiratory instability
+pulmonary, hepatic, or renal dysfunction	pulmonary dysfunction|hepatic dysfunction|renal dysfunction
+Abuse of alcohol and drugs	Abuse of alcohol|Abuse of drugs
+macular or retinal disease	macular disease|retinal disease
+cardiac, pulmonary, endocrine, immunological, gastrointestinal, hematological, vascular or collagen disease	endocrine disease|vascular disease|pulmonary disease|cardiac disease|hematological disease|immunological disease|gastrointestinal disease|collagen disease
+Gastrointestinal, hepatic, renal, respiratory, cardiovascular, metabolic, immunological or hormonal disorders	Gastrointestinal disorders|hepatic disorders|renal disorders|respiratory disorders|cardiovascular disorders|metabolic disorders|immunological disorders|hormonal disorders
+medication that suppresses or stimulates appetite	medication that suppresses appetite|medication that stimulates appetite
+gynecological, prostate or bladder surgery	prostate surgery|gynecological surgery|bladder surgery
+basal or squamous cell carcinoma of the skin	basal cell carcinoma of skin|squamous cell carcinoma of skin
+Varus or valgus misalignment	Varus misalignment|valgus misalignment
+physical and psychological intolerance	physical intolerance|psychological intolerance
+medical or surgical castration	medical castration|surgical castration
+unable to read and understand English	unable to read English|unable to understand English
+cardiac angioplasty or stenting	cardiac angioplasty|cardiac stenting
+bladder or urethral pathology	bladder pathology|urethral pathology
+sex for money, drugs, or housing	sex for drugs|sex for housing|sex for money
+Ability to read and understand English or Chinese	Ability to read English|Ability to understand English|Ability to read Chinese|Ability to understand Chinese
+immunological, gastrointestinal, hematological, vascular or collagen disease	vascular disease|hematological disease|immunological disease|gastrointestinal disease|collagen disease
+hepatic, gastrointestinal, pulmonary, immunological, hematological, endocrine, or neurological disease	hepatic disease|gastrointestinal disease|pulmonary disease|immunological disease|hematological disease|endocrine disease|neurological disease
+systemic or inhaled corticosteroids / glucocorticoid therapy	systemic corticosteroids therapy|inhaled corticosteroids therapy|systemic glucocorticoid therapy|inhaled glucocorticoid therapy
+speaking Norwegian or English	speaking Norwegian|speaking English
+psychiatric or substance abuse disorders	psychiatric disorders|substance abuse disorders
+gastrointestinal ulcer / hemorrhage / perforation	gastrointestinal ulcer|gastrointestinal hemorrhage|gastrointestinal perforation
+implantation of a single or dual chamber ICD	implantation of single chamber ICD|implantation of dual chamber ICD 
+local or systemic infection	local infection|systemic infection
+Able to read and understand English	Able to read English|Able to understand English
+stable / unstable angina	stable angina|unstable angina
+Neurological or muscular disorder	Neurological disorder|muscular disorder
+Inability to comply with study and follow-up procedures	Inability to comply with study|Inability to comply with follow-up procedures
+serology for HIV, HCV, HBV	serology for HIV|serology for HCV|serology for HBV
+hematological, vascular or collagen disease	vascular disease|hematological disease|collagen disease
+cardiac, pulmonary, hepatic, or other organ dysfunction	cardiac dysfunction|pulmonary dysfunction|hepatic dysfunction|other organ dysfunction
+kidney or liver dysfunction	kidney dysfunction|liver dysfunction
+drug or medication abuse	drug abuse|medication abuse
+Inability to read or write	Inability to read|Inability to write
+platinum / taxane regimen	platinum regimen|taxane regimen
+able to comprehend and sign a written informed consent	able to comprehend a written informed consent|able to sign a written informed consent
+renal, hepatic, heart or thyroid disease	heart disease|renal disease|hepatic disease|thyroid disease
+Impaired cognition or altered mental status	Impaired cognition|altered mental status
+hepatic, and renal function	hepatic function|renal function
+HCV, HIV, HDV coinfection	HCV coinfection|HIV coinfection|HDV coinfection
+central or peripheral neuropathy	central neuropathy|peripheral neuropathy
+cardiovascular, genitourinary, endocrine, immunologic, metabolic, neurologic, psychiatric or hematological disease	neurologic disease|genitourinary disease|endocrine disease|cardiovascular disease|immunologic disease|metabolic disease|psychiatric disease|hematological disease
+drugs or substances known to inhibit or induce cytochrome P450 enzymes and/or P-glycoprotein	drugs known to inhibit P-glycoprotein|drugs known to induce P-glycoprotein|drugs known to induce cytochrome P450 enzymes|drugs known to inhibit cytochrome P450 enzymes
+aspartate and alanine transaminase levels	aspartate transaminase levels|alanine transaminase levels
+colostomy or enterostomy reversal	colostomy reversal|enterostomy reversal
+Pancreatic or biliary malignant disorders	Pancreatic malignant disorders|biliary malignant disorders
+systemic immunosuppression / systemic disease modifying agents	systemic immunosuppression agents|systemic disease modifying agents
+mood or anxiety disorder	mood disorder|anxiety disorder
+medications known to alter P450 enzyme or P-gp activity	medications known to alter P450 enzyme activity|medications known to alter P-gp activity
+living or working circumstances	living circumstances|working circumstances
+blood biochemistry, blood coagulation, and hematology tests	blood biochemistry tests|blood coagulation tests|hematology tests
+removal of an epidural or spinal catheter	removal of epidural catheter|removal of spinal catheter
+Paranoid, Histrionic, Schizotypal, Schizoid, Antisocial or cognitive or personality disorders	Paranoid disorders|Histrionic disorders|Schizoid disorders|cognitive disorders|Antisocial disorders|Schizotypal disorders|personality disorders
+chemistry or urinalysis laboratory abnormality	urinalysis laboratory abnormality|chemistry laboratory abnormality
+chronic heart or pulmonary disease	chronic heart disease|chronic pulmonary disease
+observable psychiatric or neurological disorders	observable psychiatric disorders|observable neurological disorders
+abnormalities in CNS, respiratory or cardiovascular function	abnormalities in CNS function|abnormalities in respiratory function|abnormalities in cardiovascular function
+fully excised basal cell or squamous cell carcinomas of the skin	fully excised basal cell carcinomas of skin|fully excised squamous cell carcinomas of skin
+immediate or delayed hypersensitivity reactions	immediate hypersensitivity reactions|delayed hypersensitivity reactions
+hematologic, endocrinologic, or neurologic disease	endocrinologic disease|hematologic disease|neurologic disease
+infectious, suppurative and allergic dermatosis	infectious dermatosis|suppurative dermatosis|allergic dermatosis
+liver and kidney reserve	liver reserve|kidney reserve
+Cognitive or communication issues	Cognitive issues|communication issues
+liver or renal impairment	liver impairment|renal impairment
+PET / MRI scans	PET scans|MRI scans
+anticoagulation / antiplatelet therapy	anticoagulation therapy|antiplatelet therapy
+2nd or 3rd degree heart block	2nd degree heart block|3rd degree heart block
+Thrombolic or embolic events	Thrombolic events|embolic events
+cardiovascular, renal, gastrointestinal, hepatic, metabolic, endocrine, neurological, or psychiatric abnormalities	cardiovascular abnormalities|renal abnormalities|gastrointestinal abnormalities|hepatic abnormalities|metabolic abnormalities|endocrine abnormalities|neurological abnormalities|psychiatric abnormalities
+factors II, V, VII and X	factors II|factors VII|factors V|factors X
+hair growth affecting oral or topical medication	hair growth affecting oral medication|hair growth affecting topical medication
+locally advanced or metastatic renal cell carcinoma	locally advanced renal cell carcinoma|metastatic renal cell carcinoma
+Radiation and Chemotherapy Phases	Radiation Phases|Chemotherapy Phases
+cardiac or pulmonary disease	cardiac disease|pulmonary disease
+structured behavioral or exercise programs	structured exercise programs|structured behavioral programs
+Radiologic pulmonary congestion or edema	Radiologic pulmonary congestion|Radiologic pulmonary edema
+cognitive or psychiatric disorders	cognitive disorders|psychiatric disorders
+dysfunction of cardia, liver and kidney	dysfunction of cardia|dysfunction of liver|dysfunction of kidney
+gastrointestinal or rectal bleeding	gastrointestinal bleeding|rectal bleeding
+general or spinal anesthesia	general anesthesia|spinal anesthesia
+facial pain / pressure	facial pain|facial pressure
+chronic hepatic or hematologic illness	chronic hepatic illness|chronic hematologic illness
+cardiovascular, metabolic, immunologic, hematological, psychiatric, neurological, oncological or hormonal disorders	hematological disorders|oncological disorders|metabolic disorders|cardiovascular disorders|neurological disorders|immunologic disorders|psychiatric disorders|hormonal disorders
+leptomeningeal or brain metastasis	leptomeningeal metastasis|brain metastasis
+prescription pain / insulin medication	prescription insulin medication|prescription pain medication
+serious condition or illness	serious condition|serious illness
+gastrointestinal, endocrine, neurologic, hematologic, rheumatologic, psychiatric, or metabolic disturbances	rheumatologic disturbances|psychiatric disturbances|neurologic disturbances|gastrointestinal disturbances|hematologic disturbances|endocrine disturbances|metabolic disturbances
+LHRH antagonist / agonist treatment	LHRH antagonist treatment|LHRH agonist treatment
+Unable to read and understand the Danish language or to give informed consent	Unable to read Danish language|Unable to understand Danish language|Unable to give informed consent
+chronic kidney disease Stage 4 and 5	chronic kidney disease Stage 5|chronic kidney disease Stage 4
+internal disease that may affect absorption, distribution, metabolism or excretion	internal disease that may affect absorption|internal disease that may affect distribution|internal disease that may affect metabolism|internal disease that may affect excretion
+Alcohol or illicit drug dependence	Alcohol dependence|illicit drug dependence
+alcohol or drug dependence or abuse	drug abuse|alcohol abuse|alcohol dependence|drug dependence
+renal, respiratory, hematologic, endocrinologic, or neurologic disease	endocrinologic disease|respiratory disease|hematologic disease|renal disease|neurologic disease
+gastric or oesophageal surgery	gastric surgery|oesophageal surgery
+able to speak, read and understand English	able to speak English|able to read English|able to understand English
+lymphomas and haematological malignancies	lymphomas malignancies|haematological malignancies
+Autoimmune, rheumatologic or inflammatory disease	rheumatologic disease|Autoimmune disease|inflammatory disease
+mood, anxiety, or other disorder	mood disorder|anxiety disorder|other disorder
+acute or chronic infections	acute infections|chronic infections
+metabolic, neurologic, psychiatric or hematological disease	neurologic disease|metabolic disease|psychiatric disease|hematological disease
+cervical or endometrial cancer	cervical cancer|endometrial cancer
+substances that are potent inhibitors or inducers of CYP3A4	substances that are potent inhibitors of CYP3A4|substances that are potent inducers of CYP3A4
+Emergency / urgency surgery	Emergency surgery|urgency surgery
+informed consent or assent of subject	informed assent of subject|informed consent of subject
+immunologic, hematological, psychiatric, neurological, oncological or hormonal disorders	hematological disorders|oncological disorders|neurological disorders|immunologic disorders|psychiatric disorders|hormonal disorders
+end-stage pulmonary or cardiovascular disease	end-stage pulmonary disease|end-stage cardiovascular disease
+screen for alcohol and drugs of abuse	screen for alcohol of abuse|screen for drugs of abuse
+medications known to be highly dependent on P450 or P-gp for clearance	medications known to be highly dependent on P450 for clearance|medications known to be highly dependent on P-gp for clearance
+prostate, bladder, or rectal cancer	prostate cancer|bladder cancer|rectal cancer
+head and neck cancer	head cancer|neck cancer
+major surgical or medical intervention	major surgical intervention|major medical intervention
+urinary tract inflammation or infection	urinary tract inflammation|urinary tract infection
+neurological or psychiatric illness	neurological illness|psychiatric illness
+basal cell or squamous cell carcinoma of the skin	basal cell carcinoma of skin|squamous cell carcinoma of skin
+renal or hepatic failure	renal failure|hepatic failure
+heart, liver or kidney diseases	heart diseases|liver diseases|kidney diseases
+renal, hepatic, immunological, endocrine or hematological abnormalities	immunological abnormalities|endocrine abnormalities|hepatic abnormalities|renal abnormalities|hematological abnormalities
+neurologic, rheumatologic or psychiatric disease	neurologic disease|rheumatologic disease|psychiatric disease
+sensory and motor deficits	sensory deficits|motor deficits
+systemic signs or symptoms	systemic signs|systemic symptoms
+total or partial knee replacement	total knee replacement|partial knee replacement
+hepatic, bone marrow, and renal function	hepatic function|bone marrow function|renal function
+revision of at least one component of a total knee or hip replacement	revision of at least one component of a total knee replacement|revision of at least one component of hip replacement
+blood and urine chemistries	blood chemistries|urine chemistries
+substance or alcohol abuse	substance abuse|alcohol abuse
+hematological, metabolic or renal disorders	hematological disorders|metabolic disorders|renal disorders
+knee / hip joint problems	knee joint problems|hip joint problems
+pancreatic, renal, hepatic, heart or thyroid disease	heart disease|pancreatic disease|renal disease|hepatic disease|thyroid disease
+Abuse alcohol or drugs	Abuse alcohol|Abuse drugs
+drug and alcohol abuse	drug abuse|alcohol abuse
+proteinuria or chronic renal insufficiency	proteinuria insufficiency|chronic renal insufficiency
+renal, liver, calcium metabolism disorders	liver calcium metabolism disorders|renal calcium metabolism disorders
+organic, systemic or metabolic disease	organic disease|systemic disease|metabolic disease
+Postoperative recurrence or metastasis	Postoperative recurrence|Postoperative metastasis
+psychiatric, neurological, oncological or hormonal disorders	oncological disorders|neurological disorders|psychiatric disorders|hormonal disorders
+neurological, or general health conditions	neurological conditions|general health conditions
+Type I or Type II diabetes	Type I diabetes|Type II diabetes
+endocrine, neurologic, hematologic, rheumatologic, psychiatric, or metabolic disturbances	rheumatologic disturbances|neurologic disturbances|psychiatric disturbances|hematologic disturbances|endocrine disturbances|metabolic disturbances
+bowel obstruction or perforation	bowel obstruction|bowel perforation
+traumatic, neoplastic, metabolic, or infectious pathology	traumatic pathology|metabolic pathology|neoplastic pathology|infectious pathology
+digestive tract obstruction, stricture, or perforation	digestive tract obstruction|digestive tract stricture|digestive tract perforation
+able to speak and write adequately Norwegian	able to speak adequately Norwegian|able to write adequately Norwegian
+gastrointestinal, pulmonary, renal, musculoskeletal, neurologic, or hematologic disease	gastrointestinal disease|pulmonary disease|renal disease|musculoskeletal disease|neurologic disease|hematologic disease
+renal, respiratory, cardiovascular, metabolic, immunologic, hematological, psychiatric, neurological, oncological or hormonal disorders	hematological disorders|oncological disorders|respiratory disorders|metabolic disorders|renal disorders|cardiovascular disorders|neurological disorders|immunologic disorders|psychiatric disorders|hormonal disorders
+clinical evidence of gastrointestinal, liver, renal or other disorders	clinical evidence of gastrointestinal disorders|clinical evidence of liver disorders|clinical evidence of renal disorders|clinical evidence of other disorders
+Acute or chronic metabolic acidosis	Acute metabolic acidosis|chronic metabolic acidosis
+heart, liver, or kidney disease	heart disease|liver disease|kidney disease
+haematology or urinalysis results	haematology results|urinalysis results
+psychiatric and other disorders	psychiatric disorders|other disorders
+Histological / cytological / Imaging examination	Histological examination|cytological examination|Imaging examination
+subject to a tutorial, judiciary or administrative decision	subject to administrative decision|subject to judiciary decision|subject to a tutorial decision
+heart, kidney, peripheral vascular, or cerebral vascular disease	heart disease|peripheral vascular disease|kidney disease|cerebral vascular disease
+Donation blood or serum	Donation serum|Donation blood
+axillar, thoracic homolateral pain	thoracic homolateral pain|axillar homolateral pain
+neurological, or psychiatric disorders	neurological disorders|psychiatric disorders
+P-glycoprotein and strong cytochrome P450 3A4 inhibitor	strong cytochrome P450 3A4 inhibitor|P-glycoprotein inhibitor
+intracranial or spinal surgery	intracranial surgery|spinal surgery
+cytochrome P450 3A4 or cytochrome P450 2C8 inhibitors or inducers	cytochrome P450 3A4 inhibitors|cytochrome P450 3A4 inducers|cytochrome P450 2C8 inhibitors|cytochrome P450 2C8 inducers
+type 1 or type 2 diabetes	type 1 diabetes|type 2 diabetes
+Self-report of alcohol or substance abuse	Self-report of alcohol abuse|Self-report of substance abuse
+donated sperm or oocytes	donated sperm|donated oocytes
+respiratory, digestive, hematological disease	respiratory disease|digestive disease|hematological disease
+neurological, renal, hepatic, immunological, endocrine or hematological abnormalities	neurological abnormalities|immunological abnormalities|hepatic abnormalities|endocrine abnormalities|renal abnormalities|hematological abnormalities
+acute or chronic active hepatitis B or C infection	acute active hepatitis B infection|chronic active hepatitis B infection|acute active hepatitis C infection|chronic active hepatitis C infection
+gastrointestinal, cerebral, or other hemorrhage	gastrointestinal hemorrhage|cerebral hemorrhage|other hemorrhage
+First or second single kidney transplant	second single kidney transplant|First single kidney transplant
+psychiatric or organic condition	psychiatric condition|organic condition
+hepatitis B or C or HIV	hepatitis B|hepatitis C|HIV
+compounds of similar chemical or biologic composition to carboplatin	compounds of similar biologic composition to carboplatin|compounds of similar chemical composition to carboplatin
+hematological, or neurological disorders	hematological disorders|neurological disorders
+Informed consent by the adolescents and their parents	Informed consent by adolescents|Informed consent by parents
+Cognitive or neurological impairment	Cognitive impairment|neurological impairment
+cardiovascular, liver, or lung disease	cardiovascular disease|liver disease|lung disease
+Diabetes Type 1 or Type 2	Diabetes Type 1|Diabetes Type 2
+implantation of a single or dual chamber ICD or CRT-D system	implantation of single chamber ICD system|implantation of dual chamber ICD system|implantation of dual chamber CRT-D system|implantation of single chamber CRT-D system
+cerebral palsy affecting bone or muscle	cerebral palsy affecting bone|cerebral palsy affecting muscle
+High cardiovascular and metabolic risk profile	High cardiovascular risk profile|High metabolic risk profile
+kidney, urinary tract diseases or abnormalities	kidney diseases|kidney abnormalities|urinary tract diseases|urinary tract abnormalities
+cardiac, renal, liver diseases	renal diseases|cardiac diseases|liver diseases
+adjuvant or neoadjuvant therapy	adjuvant therapy|neoadjuvant therapy
+Type 1 or 2 diabetes mellitus	Type 1 diabetes mellitus|Type 2 diabetes mellitus
+Fludarabine or chemoimmunotherapy refractory disease	Fludarabine refractory disease|chemoimmunotherapy refractory disease
+life threatening organ or systemic disease	life threatening organ disease|life threatening systemic disease
+Brachial / Axial Artery diameter	Brachial Artery diameter|Axial Artery diameter
+pulmonary or cardiovascular failure	pulmonary failure|cardiovascular failure
+Liver and kidney function tests	Liver function tests|kidney function tests
+Able to read and understand	Able to read|Able to understand
+basal or squamous cell skin cancer	basal cell skin cancer|squamous cell skin cancer
+Respiratory, cardiac, metabolic or other condition incompatible	Respiratory condition incompatible|cardiac condition incompatible|metabolic condition incompatible|other condition incompatible
+interventional, medical, surgical, or pharmaceutical study	surgical study|interventional study|medical study|pharmaceutical study
+carotid artery or peripheral artery revascularization	carotid artery revascularization|peripheral artery revascularization
+platinum / taxane-containing regimen	platinum-containing regimen|taxane-containing regimen
+drugs or substances known to inhibit or induce cytochrome P450 enzymes	drugs known to induce cytochrome P450 enzymes|drugs known to inhibit cytochrome P450 enzymes|substances known to induce cytochrome P450 enzymes|substances known to inhibit cytochrome P450 enzymes
+respiratory, cardiovascular, metabolic, immunologic, hematological, psychiatric, neurological, oncological or hormonal disorders	hematological disorders|oncological disorders|respiratory disorders|metabolic disorders|cardiovascular disorders|neurological disorders|psychiatric disorders|immunologic disorders|hormonal disorders
+pulmonary, renal or liver diseases	pulmonary diseases|renal diseases
+alcohol, drug or solvent abuse	drug abuse|alcohol abuse|solvent abuse
+pelvic or abdominal radiotherapy	pelvic radiotherapy|abdominal radiotherapy
+limit activity or survival	limit activity|limit survival
+hepatitis B and hepatitis C tests	hepatitis B tests|hepatitis C tests
+symptomatic brain or leptomeningeal metastatic disease	symptomatic leptomeningeal metastatic disease|symptomatic brain metastatic disease
+renal, hepatic, neurological or immunological disorder that may interfere	renal disorder that may interfere|hepatic disorder that may interfere|neurological disorder that may interfere|immunological disorder that may interfere|
+genetic condition related to mitochondrial disease or dysfunction	genetic condition related to mitochondrial disease|genetic condition related to mitochondrial dysfunction
+Marfan's or Ehler-Danlos Syndrome	Marfan's Syndrome|Ehler-Danlos Syndrome
+cardiovascular, pulmonary, renal, gastrointestinal, hepatic, or central nervous system function	cardiovascular function|pulmonary function|renal function|gastrointestinal function|hepatic function|central nervous system function
+hepatic, cardiac or pulmonary severe disease	pulmonary severe disease|cardiac severe disease|hepatic severe disease
+immunosuppressive or immunomodulatory therapies	immunosuppressive therapies|immunomodulatory therapies
+hyperviscosity or hypercoagulability syndromes	hyperviscosity syndromes|hypercoagulability syndromes
+liver enzymes and bilirubin levels	liver enzymes levels|bilirubin levels
+alcohol or drug abuse or dependence	drug dependence|alcohol dependence|alcohol abuse|drug abuse
+psychiatric or neurological disease	psychiatric disease|neurological disease
+brain / meningeal metastases	brain metastases|meningeal metastases
+systemic or local disease condition	systemic disease condition|local disease condition
+Ability to speak and understand English	Ability to understand English|Ability to speak English
+abuse illegal and/or legally prescribed drugs	abuse illegal drugs|abuse legally prescribed drugs
+Progressive neurological or neuromuscular disorders	Progressive neuromuscular disorders|Progressive neurological disorders
+food intolerances / sensitivities	food intolerances|food sensitivities
+musculoskeletal or developmental illness	musculoskeletal illness|developmental illness
+M1 or M2 blasts	M2 blasts|M1 blasts
+hematological, psychiatric, neurological, oncological or hormonal disorders	hematological disorders|oncological disorders|neurological disorders|psychiatric disorders|hormonal disorders
+health and lifestyle questionnaire	health questionnaire|lifestyle questionnaire
+drug / alcohol abuse	drug abuse|alcohol abuse
+acute or chronic hepatitis B or C	acute hepatitis B|chronic hepatitis B|chronic hepatitis C|acute hepatitis C
+over the counter memory enhancing or protecting medications	over counter memory enhancing medications|over counter memory protecting medications
+fallopian tube or primary peritoneal carcinoma	fallopian tube carcinoma|primary peritoneal carcinoma
+cardiovascular, pulmonary or neurological conditions	cardiovascular conditions|pulmonary conditions|neurological conditions
+Head and Neck Tumors	Head Tumors|Neck Tumors
+drug or alcohol abuse	drug abuse|alcohol abuse
+serum glutamic pyruvate aminotransferase / alanine transaminase	serum glutamic pyruvate aminotransferase transaminase|serum glutamic pyruvate alanine transaminase
+liver and kidney deficiency license	liver deficiency license|kidney deficiency license
+Hepatitis A, B or C	Hepatitis C|Hepatitis B|Hepatitis C
+ductal or lobular carcinoma in situ	ductal carcinoma in situ|lobular carcinoma in situ
+vitamin B12 or folic acid deficiency	vitamin B12 deficiency|folic acid deficiency
+heart, kidney, or liver diseases	kidney diseases|heart diseases|liver diseases
+health or psychiatric problems	health problems|psychiatric problems
+brady- or tachycardic	bradycardic|tachycardic
+neurolgical / psychological disease	neurolgical disease|psychological disease
+positive for HIV, HBsAg, Hepatitis C	positive for HBsAg|positive for Hepatitis C|positive for HIV
+alter cognition, concentration, or behavior	alter cognition|alter concentration|alter behavior
+bacterial or viral infection of the upper or lower respiratory tract, sinus	bacterial infection of upper respiratory tract|bacterial infection of lower respiratory tract|bacterial infection of sinus|viral infection of sinus|viral infection of upper respiratory tract|viral infection of lower respiratory tract
+Contralateral hip or knee osteoarthritis	Contralateral hip osteoarthritis|Contralateral knee osteoarthritis
+cardiovascular, hepatic, renal disease	cardiovascular disease|hepatic disease|renal disease
+Ascites and pleural effusions	Ascites effusions|pleural effusions
+Acute or chronic liver disease	Acute liver disease|chronic liver disease
+proteins and genetic polymorphisms	proteins polymorphisms|genetic polymorphisms
+meningococcal serogroups A, C or W disease	meningococcal serogroups A disease|meningococcal serogroups C disease|meningococcal serogroups W disease
+infection for HIV / Hep B or C	infection for Hep B|infection for Hep C|infection for HIV
+cardiac, vascular, pulmonary, gastrointestinal, endocrine, neurologic, hematologic, rheumatologic, psychiatric, or metabolic disturbances	cardiac disturbances|vascular disturbances|pulmonary disturbances|rheumatologic disturbances|neurologic disturbances|psychiatric disturbances|gastrointestinal disturbances|hematologic disturbances|endocrine disturbances|metabolic disturbances
+anticoagulants / antiplatelet agents	anticoagulants agents|antiplatelet agents
+Nasal or sinus surgery	Nasal surgery|sinus surgery
+clinical paratyphoid A or B fever	clinical paratyphoid B fever|clinical paratyphoid A fever
+renal or hepatic insufficiency	renal insufficiency|hepatic insufficiency
+healthy age and sex matched	healthy age matched|healthy sex matched
+Abnormal kidney or liver functions	Abnormal kidney functions|Abnormal liver functions
+respiratory or cardiovascular disorders	respiratory disorders|cardiovascular disorders
+disease or malfunction of the lungs or respiratory system	disease of respiratory system|disease of lungs|malfunction of lungs|malfunction of respiratory system
+neurologic, cerebrovascular, metabolic, or pulmonary disease	cerebrovascular disease|neurologic disease|metabolic disease|pulmonary disease
+immunosuppressive or cytotoxic medication	immunosuppressive medication|cytotoxic medication
+easy bruising or bleeding	easy bruising|easy bleeding
+vitamin E / C	vitamin E|vitamin C
+impact on hypoglycemic awareness or promote weight loss	impact on hypoglycemic awareness|impact on promote weight loss
+pulmonary, cardiovascular, hepatic or renal functional abnormality	cardiovascular functional abnormality|hepatic functional abnormality|pulmonary functional abnormality|renal functional abnormality
+tobacco or nicotine use	tobacco use|nicotine use
+idiopathic or autoimmune-associated uveitis	idiopathic uveitis|autoimmune-associated uveitis
+hepatic and renal failure	hepatic failure|renal failure
+chronic or acute liver disease	acute liver disease|chronic liver disease
+muscular or neuromuscular diseases	muscular diseases|neuromuscular diseases
+ocular or systemic allergies	ocular allergies|systemic allergies
+pulmonary, cardiovascular or orthopedic disease	cardiovascular disease|pulmonary disease|orthopedic disease
+total or partial knee arthroplasty	total knee arthroplasty|partial knee arthroplasty
+neoplastic, metabolic, or infectious pathology	metabolic pathology|neoplastic pathology|infectious pathology
+oral or inhaled glucocorticoids	oral glucocorticoids|inhaled glucocorticoids
+cardiovascular, hepatic, renal, respiratory, hematologic, endocrinologic, or neurologic disease	cardiovascular disease|endocrinologic disease|respiratory disease|hematologic disease|renal disease|hepatic disease|neurologic disease
+chronic or reoccurring skin disease	chronic skin disease|reoccurring skin disease
+Psychiatric or mental disorders	Psychiatric disorders|mental disorders
+Attention-Deficit / Hyperactivity Disorder	Attention-Deficit Disorder|Hyperactivity Disorder
+atrial fibrillation / atrial flutter	atrial fibrillation|atrial flutter
+medical or psychiatric disorders	medical disorders|psychiatric disorders
+Osteoarticular or neurological problems	Osteoarticular problems|neurological problems
+substance or alcohol abuse or dependence	substance abuse|substance dependence|alcohol abuse|alcohol dependence
+cognitive difficulties and diseases	cognitive difficulties|cognitive diseases
+platelet storage pool or release defects	platelet release defects|platelet storage pool defects
+vascular, pulmonary, gastrointestinal, endocrine, neurologic, hematologic, rheumatologic, psychiatric, or metabolic disturbances	vascular disturbances|pulmonary disturbances|rheumatologic disturbances|neurologic disturbances|psychiatric disturbances|gastrointestinal disturbances|hematologic disturbances|endocrine disturbances|metabolic disturbances
+autoimmune or inflammatory disease	autoimmune disease|inflammatory disease
+reduction or loss of smell	reduction of smell|loss of smell
+septate, bicornuate and fibroid uterus	septate uterus|bicornuate uterus|fibroid uterus
+partial or complete hamstring proximal rupture	partial hamstring proximal rupture|complete hamstring proximal rupture
+hepatic, renal, respiratory, cardiovascular, metabolic, immunologic, hematological, psychiatric, neurological, oncological or hormonal disorders	hematological disorders|oncological disorders|metabolic disorders|respiratory disorders|hepatic disorders|neurological disorders|renal disorders|cardiovascular disorders|immunologic disorders|psychiatric disorders|hormonal disorders
+Chronic and acute infection	Chronic infection|acute infection
+alcohol and/or drug abuse	alcohol abuse|drug abuse
+cardiovascular or central nervous system disease	cardiovascular disease|central nervous system disease
+atrial fibrillation / flutter	atrial fibrillation|atrial flutter
+acute or chronic medical conditions	acute medical conditions|chronic medical conditions
+oral or injected antibiotic therapy	oral antibiotic therapy|injected antibiotic therapy
+Serum potassium and glucose	Serum potassium|Serum glucose
+neurogenic bowel / bladder dysfunction	neurogenic bladder dysfunction|neurogenic bowel dysfunction
+oral or injected steroids	oral steroids|injected steroids
+Multiple cutaneous or subcutaneous metastases	Multiple cutaneous metastases|Multiple subcutaneous metastases
+drug or alcohol abuse or dependence	drug abuse|drug dependence|alcohol abuse|alcohol dependence
+surgical or orthotic treatment	surgical treatment|orthotic treatment
+involved in night or rotating shift work	involved in night work|involved in rotating shift work
+gastrointestinal, hematological, vascular or collagen disease	vascular disease|hematological disease|gastrointestinal disease|collagen disease
+Major fetal congenital or chromosomal abnormality	Major fetal congenital abnormality|fetal chromosomal abnormality
+viral infection of the upper or lower respiratory tract	viral infection of the upper respiratory tract|viral infection of the lower respiratory tract
+basal cell or squamous cell skin cancers	basal cell skin cancers|squamous cell skin cancers
+compounds of similar chemical or biologic composition to dasatinib or cyclosporine	compounds of similar chemical composition to dasatinib|compounds of similar biologic composition to dasatinib|compounds of similar chemical composition to cyclosporine|compounds of similar chemical composition to cyclosporine
+chronic or acute hepatitis	chronic hepatitis|acute hepatitis
+coronary or vascular stent placed	coronary stent placed|vascular stent placed
+alcohol or marijuana abuse	alcohol abuse|marijuana abuse
+psychiatric or internistic disease	psychiatric disease|internistic disease
+alcohol or substance abuse	alcohol abuse|substance abuse
+in-situ carcinoma of the cervix or other cancer	in-situ carcinoma of the cervix cancer|in-situ carcinoma of other cancer
+similar chemical or biological components	similar chemical components|similar biological components
+neurologic, psychiatric or hematological disease	neurologic disease|psychiatric disease|hematological disease
+renal, hepatic or pancreatic diseases	renal diseases|hepatic diseases|pancreatic diseases
+Neurological or psychiatric diseases	Neurological diseases|psychiatric diseases
+valgus / varus deformity	valgus deformity|varus deformity
+metabolic, systemic and endocrine disorders	metabolic disorders|systemic disorders|endocrine disorders
+Drug or alcohol addiction	Drug addiction|alcohol addiction
+cardiac, renal, neurologic, cerebrovascular, metabolic, or pulmonary disease	cerebrovascular disease|neurologic disease|cardiac disease|metabolic disease|renal disease|pulmonary disease
+HIV, or HDV coinfection	HDV coinfection|HIV coinfection
+cardiovascular, respiratory, hepatic, renal, gastrointestinal, endocrine, hematological, or neurological disorders	cardiovascular disorders|respiratory disorders|hepatic disorders|renal disorders|gastrointestinal disorders|endocrine disorders|hematological disorders|neurological disorders
+impaired renal or hepatic function	impaired renal function|impaired hepatic function
+common food or environmental allergens	common food allergens|common environmental allergens
+Vision or hearing problems	Vision problems|hearing problems
+clinically important hepatic or renal disease or other medical disease	clinically important other medical disease|clinically important renal disease|clinically important hepatic disease
+mental / emotional disorder	mental disorder|emotional disorder
+resected cutaneous basal cell or squamous cell carcinoma	resected cutaneous basal cell carcinoma|resected cutaneous squamous cell carcinoma
+hematologic, neurologic or immune disease	neurologic disease|hematologic disease|immune disease
+hepatic, hematologic, or immunologic impairment	hepatic impairment|hematologic impairment|immunologic impairment
+2nd or 3rd degree A-V block	2nd degree A-V block|3rd degree A-V block
+kidney or liver failure	liver failure|kidney failure
+liver and renal function	liver function|renal function
+common and internal carotid arteries	common carotid arteries|internal carotid arteries
+endotracheal or endobronchial tumor	endotracheal tumor|endobronchial tumor
+bilirubin and gamma glutamyl transferase levels	bilirubin levels|gamma glutamyl transferase levels
+bleeding or clotting disorder	bleeding disorder|clotting disorder
+systolic or diastolic dysfunction	systolic dysfunction|diastolic dysfunction
+respiratory, cardiovascular or other disease	cardiovascular disease|respiratory disease|other disease
+functional liver or kidney disease	functional liver disease|functional kidney disease
+substance abuse or dependence disorder	substance abuse disorder|substance dependence disorder
+chronic diseases of the lung, heart, liver, kidney, or nervous system, or immunodeficiency	chronic diseases of the lung|chronic diseases of heart|chronic diseases of liver|chronic diseases of kidney|chronic diseases of nervous system|chronic diseases of immunodeficiency
+intracardiac mass, thrombus or vegetation	intracardiac thrombus|intracardiac vegetation
+hepatic, heart or thyroid disease	heart disease|hepatic disease|thyroid disease
+sero-positive in HBV / HCV / HIV or RPR	sero-positive in HIV|sero-positive in RPR|sero-positive in HBV|sero-positive in HCV
+endocrine, immunological, gastrointestinal, hematological, vascular or collagen disease	endocrine disease|vascular disease|hematological disease|immunological disease|gastrointestinal disease|collagen disease
+pulmonary, gastrointestinal, cardiovascular, genitourinary, endocrine, immunologic, metabolic, neurologic, psychiatric or hematological disease	genitourinary disease|neurologic disease|cardiovascular disease|endocrine disease|gastrointestinal disease|pulmonary disease|immunologic disease|metabolic disease|psychiatric disease
+neurological or psychiatric disease or disorder	neurological disease|psychiatric disease|neurological disorder|psychiatric disorder
+Organ or allogeneic hematopoietic stem cell transplant	Organ transplant|allogeneic hematopoietic stem cell transplant
+some kind of physical or mental disorder	some kind of physical disorder|some kind of mental disorder
+renal, hepatic, hematologic, neurologic or immune disease	neurologic disease|hematologic disease|renal disease|hepatic disease|immune disease
+urine drug or alcohol screen	urine drug screen|urine alcohol screen
+total hip or knee replacement	total hip replacement|total knee replacement
+cervical, penile, oral or anal cancers	oral cancers|penile cancers|cervical cancers
+cardiovascular, neurological, cardiovascular, neurological, renal, hepatic, immunological, endocrine or hematological abnormalities	cardiovascular abnormalities|neurological abnormalities|immunological abnormalities|endocrine abnormalities|hepatic abnormalities|renal abnormalities|hematological abnormalities
+hepatic, pulmonary, gastrointestinal, cardiovascular, genitourinary, endocrine, immunologic, metabolic, neurologic, psychiatric or hematological disease	genitourinary disease|neurologic disease|gastrointestinal disease|cardiovascular disease|endocrine disease|pulmonary disease|immunologic disease|metabolic disease|hepatic disease|psychiatric disease
+squamous or non-squamous cell lung cancer	squamous cell lung cancer|non-squamous cell lung cancer
+systemic, rheumatic or inflammatory disease	rheumatic disease|systemic disease|inflammatory disease
+acute or chronic active hepatitis B	acute active hepatitis B|chronic active hepatitis B
+osteoarticular, neuromuscular or cognitive limitation	neuromuscular limitation|osteoarticular limitation|cognitive limitation
+coronary or peripheral vascular disease	coronary disease|peripheral vascular disease
+immunologic, metabolic, neurologic, psychiatric or hematological disease	neurologic disease|immunologic disease|metabolic disease|psychiatric disease|hematological disease
+invading blood vessels, nerves or bone	invading blood vessels|invading bone|invading nerves
+hepatic or renal impairment	hepatic impairment|renal impairment
+marketed or investigational biological agent	marketed biological agent|investigational biological agent
+Willingness and ability to comply with scheduled visits, treatment plans	Willingness to comply with treatment plans|Willingness to comply with scheduled visits|ability to comply with treatment plans|ability to comply with scheduled visits
+Glomerular primary focal and segmental sclerosis	Glomerular segmental sclerosis|Glomerular primary focal sclerosis
+gastro-enterologic, respiratory, cardiovascular, endocrinologic, neurologic or immunologic disease	cardiovascular disease|neurologic disease|endocrinologic disease|respiratory disease|gastro-enterologic disease|immunologic disease
+renal, hepatic, cardiac or pulmonary severe disease	pulmonary severe disease|cardiac severe disease|renal severe disease|hepatic severe disease
+impediments that affect gait, range of motion, or limb muscle activity	impediments that affect range of motion|impediments that affect limb muscle activity|impediments that affect gait
+medical or developmental conditions	medical conditions|developmental conditions
+cervical and periscapular pain	cervical pain|periscapular pain
+substance abuse or alcohol abuse	substance abuse|alcohol abuse
+stop blood or plasma donation	stop blood donation|stop plasma donation
+inadequate organ or brain function	inadequate brain function|inadequate organ function
+chronic pulmonary, cardiovascular, renal, neurological, psychiatric or metabolic disorder	chronic psychiatric disorder|chronic pulmonary disorder|chronic neurological disorder|chronic renal disorder|chronic metabolic disorder|chronic cardiovascular disorder
+hyper or hypothyroidism	hyperthyroidism|hypothyroidism
+solid or hematological cancer	solid cancer|hematological cancer
+hepatic, renal, gastrointestinal, immunologic, hematologic, endocrine or neurologic system or psychiatric disease	hepatic disease|renal disease|gastrointestinal disease|immunologic disease|hematologic disease|endocrine disease|neurologic system disease|psychiatric disease
+cardiovascular, hepatic or renal functional abnormality	cardiovascular functional abnormality|hepatic functional abnormality|renal functional abnormality
+chronic or cleared HBV infection	chronic HBV infection|cleared HBV infection
+allergic disease or reactions	allergic disease|allergic reactions
+genitourinary, endocrine, immunologic, metabolic, neurologic, psychiatric or hematological disease	genitourinary disease|neurologic disease|endocrine disease|immunologic disease|metabolic disease|psychiatric disease|hematological disease
+oocyte or sperm donation	oocyte donation|sperm donation
+acute or chronic pancreatitis	acute pancreatitis|chronic pancreatitis
+ability to read and comprehend	ability to read|ability to comprehend
+pulmonary, gastrointestinal, endocrine, neurologic, hematologic, rheumatologic, psychiatric, or metabolic disturbances	pulmonary disturbances|rheumatologic disturbances|neurologic disturbances|psychiatric disturbances|gastrointestinal disturbances|hematologic disturbances|endocrine disturbances|metabolic disturbances
+metabolic, immunologic, hematological, psychiatric, neurological, oncological or hormonal disorders	hematological disorders|oncological disorders|metabolic disorders|neurological disorders|psychiatric disorders|immunologic disorders|hormonal disorders
+Immediate or delayed hypersensitivity	Immediate hypersensitivity|delayed hypersensitivity
+locally advanced or metastatic HCC	locally advanced HCC|metastatic HCC
+neurologic, hematologic, rheumatologic, psychiatric, or metabolic disturbances	rheumatologic disturbances|neurologic disturbances|psychiatric disturbances|hematologic disturbances|metabolic disturbances
+imminent suicide or violence risk	imminent suicide risk|imminent violence risk
+epithelial ovarian, fallopian tube, or primary peritoneal carcinoma	epithelial ovarian carcinoma|fallopian tube carcinoma|primary peritoneal carcinoma
+sero-positive in HBV / HCV	sero-positive in HBV|sero-positive in HCV
+failure of heart, lung, liver or kidney	failure of lung|failure of kidney|failure of liver|failure of heart
+solid organ or bone marrow transplant	solid organ transplant|bone marrow transplant
+hepatic, renal, gastro-enterologic, respiratory, cardiovascular, endocrinologic, neurologic or immunologic disease	cardiovascular disease|neurologic disease|endocrinologic disease|respiratory disease|gastro-enterologic disease|renal disease|hepatic disease|immunologic disease
+benign or malignant brain tumor	benign brain tumor|malignant brain tumor
+basal cell or squamous cell carcinoma	basal cell carcinoma|squamous cell carcinoma
+investigational drug or device	investigational device|investigational drug
+Coronary vessels with tortuosity or extremely calcified	Coronary vessel extremely calcified|Coronary vessel with tortuosity
+oral or IV corticosteroids	oral corticosteroids|IV corticosteroids
+drug / alcohol addiction	drug addiction|alcohol addiction
+Hypo- and hypercalcaemia	Hypocalcaemia and hypercalcaemia
+Atrioventricular block of second or third degree	Atrioventricular block of third degree|Atrioventricular block of second degree
+able to read and speak English	able to read English|able to speak English
+Histrionic, Schizotypal, Schizoid, Antisocial or other cognitive or personality disorders	Histrionic disorders|Schizoid disorders|Schizotypal disorders|Antisocial disorders|other cognitive disorders|personality disorders
+Unable to read and understand Norwegian	Unable to read Norwegian|Unable to understand Norwegian
+Donation or loss of blood	loss of blood|Donation of blood
+infection of the teeth or jawbone	infection of teeth|infection of jawbone
+participate in a resistance training or high impact weight bearing exercise	participate in high impact weight bearing exercise|participate in a resistance training
+substance abuse or dependence	substance abuse|substance dependence
+respiratory, cardiovascular, endocrinologic, neurologic or immunologic disease	cardiovascular disease|neurologic disease|endocrinologic disease|respiratory disease|immunologic disease
+participating in other clinical or nutrition intervention studies	participating in other clinical intervention studies|participating in other nutrition intervention studies
+heart, liver, or renal function impairment	liver function impairment|heart function impairment|renal function impairment
+abnormal physical finding on the vulva, vaginal walls or cervix	abnormal physical finding on the vaginal walls|abnormal physical finding on the cervix|abnormal physical finding on the vulva
+squamous cell or basal cell carcinoma of the skin	squamous cell carcinoma of the skin|basal cell carcinoma of the skin
+drug / substance abuse	drug abuse|substance abuse
+Foot or ankle wounds sized	Foot wounds sized|ankle wounds sized
+HCV / HBV co-infection	HCV co-infection|HBV co-infection
+hip or knee prothesis	hip prothesis|knee prothesis
+non-metastatic basal cell or squamous cell carcinoma of the skin	non-metastatic squamous cell carcinoma of skin|non-metastatic squamous cell carcinoma of skin
+neurologic, cardiac, pulmonary, hepatic, rheumatologic, autoimmune, or renal disease	neurologic disease|cardiac disease|pulmonary disease|hepatic disease|rheumatologic disease|autoimmune disease|renal disease
+bacterial or viral infections	bacterial infections|viral infections
+upper respiratory tract or sinus infection	upper respiratory tract infection|upper respiratory sinus infection
+Inability to read / write in french language	Inability to read in french language|Inability to write in french language
+transfusion of blood or blood products	transfusion of blood|transfusion of blood products
+Borderline, Paranoid, Histrionic, Schizotypal, Schizoid, Antisocial or other cognitive or personality disorders	Histrionic disorders|Paranoid disorders|Schizoid disorders|Antisocial disorders|Schizotypal disorders|cognitive disorders|Borderline disorders|other cognitive disorders|other personality disorders
+acute or chronic condition	acute condition|chronic condition
+medical or psychiatric conditions	medical conditions|psychiatric conditions
+disturb the absorption, distribution, metabolism or excretion	disturb absorption|disturb distribution|disturb metabolism|disturb excretion
+high cholesterol and reflux-related conditions	high cholesterol conditions|high reflux-related conditions
+locally advanced or metastatic pancreatic adenocarcinoma	locally advanced pancreatic adenocarcinoma|metastatic pancreatic adenocarcinoma
+Antisocial or other cognitive or personality disorders	other cognitive personality disorders|Antisocial personality disorders
+skin / scalp condition	skin condition|scalp condition
+abdominal, thoracic, or cardiovascular surgery	abdominal surgery|thoracic surgery|cardiovascular surgery
+topical or systemic anti-inflammatory	topical anti-inflammatory|systemic anti-inflammatory
+cognitive, psychiatric, or other problems	cognitive problems|psychiatric problems|other problems
+Alcohol and drug abuse	Alcohol abuse|drug abuse
+Pericardial and infiltrative myocardial disease	Pericardial myocardial disease|infiltrative myocardial disease
+Schizoid, Antisocial or other cognitive or personality disorders	Schizoid disorders|Antisocial disorders|cognitive disorders|personality disorders
+esophageal, gastric or bowel surgery	esophageal surgery|gastric surgery|bowel surgery
+autologous / allogeneic hematopoietic stem cell transplantation	autologous hematopoietic stem cell transplantation|allogeneic hematopoietic stem cell transplantation
+renal or hepatic disease	renal disease|hepatic disease
+adhesive allergy / sensitivity	adhesive allergy|adhesive sensitivity
+gastric or gastroesophageal junction carcinoma	gastric carcinoma|gastroesophageal junction carcinoma
+preoperative CT or MRI scan of the abdomen	preoperative CT scan of abdomen|preoperative MRI scan of abdomen
+intramural or pericolic inflammatory mass	intramural inflammatory mass|pericolic inflammatory mass
+intranasal, inhaled, or systemic corticosteroid	intranasal corticosteroid|inhaled corticosteroid|systemic corticosteroid
+diseases of the liver, kidney, cardiovascular, nervous system	diseases of nervous system|diseases of kidney|diseases of cardiovascular|diseases of liver
+respiratory, hematologic, endocrinologic, or neurologic disease	endocrinologic disease|respiratory disease|hematologic disease|neurologic disease
+acute or chronic illness	acute illness|chronic illness
+Heart, liver or kidney failure	Heart failure|liver failure|kidney failure
+liver or kidney dysfunction	liver dysfunction|kidney dysfunction
+sequelae of drug / alcohol abuse	sequelae of drug abuse|sequelae of alcohol abuse
+elective knee / hip surgery	elective hip surgery|elective knee surgery
+hepatic, hematologic, neurologic or immune disease	neurologic disease|hematologic disease|hepatic disease|immune disease
+metabolic or endocrine disease	metabolic disease|endocrine disease
+Inadequate organ or bone marrow function	Inadequate organ function|Inadequate bone marrow function
+renal, gastro-enterologic, respiratory, cardiovascular, endocrinologic, neurologic or immunologic disease	cardiovascular disease|neurologic disease|endocrinologic disease|respiratory disease|gastro-enterologic disease|renal disease|immunologic disease
+surgical or radiation therapy	surgical therapy|radiation therapy
+Hepatitis B or C carrier	Hepatitis C carrier|Hepatitis B carrier
+irritation or sensitivity to ivermectin or the lotion components	irritation to ivermectin components|irritation to lotion components|sensitivity to lotion components|sensitivity to ivermectin components
+requires use of oral or intravenous corticosteroid	requires use of oral corticosteroid|requires use of intravenous corticosteroid
+hematologic, rheumatologic, psychiatric, or metabolic disturbances	rheumatologic disturbances|psychiatric disturbances|hematologic disturbances|metabolic disturbances
+inability of the patient to comply with study procedures and/or follow up	inability of patient to comply with follow up|inability of patient to comply with study procedures
+penile, oral or anal cancers	oral cancers|penile cancers|anal cancers
+acute or chronic nephritis	acute nephritis|chronic nephritis
+thrombotic or embolic cerebrovascular accident	thrombotic cerebrovascular accident|embolic cerebrovascular accident
+Unwillingness or inability to cooperate, or for the parents or guardians to give consent	Unwillingness for parents to give consent|Unwillingness for guardians to give consent|inability for guardians to give consent|inability for parents to give consent|Unwillingness to cooperate
+cerebral vascular accident / stroke	cerebral vascular accident|cerebral vascular stroke
+Able to give written informed consent and comply with the requirements of the study	Able to give written informed consent of study|Able to comply with the requirements of study
+viral or other hepatitis	viral hepatitis|other hepatitis
+Progressive or proliferative diabetic retinopathy	Progressive diabetic retinopathy|proliferative diabetic retinopathy
+acute or chronic bronchospastic disease	acute bronchospastic disease|chronic bronchospastic disease
+congenital or hereditary immunodeficiency	congenital immunodeficiency|hereditary immunodeficiency
+cardiovascular or hematological condition	cardiovascular condition|hematological condition
+hepatic, cardiac, pulmonary, endocrine, immunological, gastrointestinal, hematological, vascular or collagen disease	endocrine disease|vascular disease|pulmonary disease|hematological disease|cardiac disease|immunological disease|gastrointestinal disease|hepatic disease|collagen disease
+gastrointestinal, hepatic, renal, respiratory, cardiovascular, metabolic, immunologic, hematological, psychiatric, neurological, oncological or hormonal disorders	hematological disorders|oncological disorders|gastrointestinal disorders|respiratory disorders|metabolic disorders|renal disorders|cardiovascular disorders|neurological disorders|hepatic disorders|immunologic disorders|psychiatric disorders|hormonal disorders
+Drug or alcohol dependence	Drug dependence|alcohol dependence
+hepatic or renal dysfunction	hepatic dysfunction|renal dysfunction
+open bladder, rectosigmoid colon, or other pelvic surgery	open bladder surgery|rectosigmoid colon surgery|other pelvic surgery
+sero-positive in HBV / HCV / HIV	sero-positive in HIV|sero-positive in HBV|sero-positive in HCV
+neurological and pulmonary disorder	neurological disorder|pulmonary disorder
+heart, liver and renal failure	heart failure|liver failure|renal failure
+HBsAg, HCV or HIV antibodies	HCV antibodies|HBsAg antibodies
+esophageal or gastric surgery	esophageal surgery|gastric surgery
+neuropsychiatric or psychiatric disease	neuropsychiatric disease|psychiatric disease
+alter the absorption, distribution, metabolism or excretion	alter absorption|alter distribution|alter metabolism|alter excretion
+test at screening for anti-HIV, anti-HCV	test at screening for anti-HIV|test at screening for anti-HCV
+false / Pseudo aneurysm	false aneurysm|Pseudo aneurysm
+second or third degree atrioventricular block	second degree atrioventricular block|third degree atrioventricular block
+Acute or chronic hepatitis B	Acute hepatitis B|chronic hepatitis B
+liver or renal dysfunction	liver dysfunction|renal dysfunction
+Mental or physical disability	Mental disability|physical disability
+acute or chronic neuropathies	acute neuropathies|chronic neuropathies
+radiologic, endoscopic, or histological evidence	radiologic evidence|endoscopic evidence|histological evidence
+chronic or acute infectious disease	chronic infectious disease|acute infectious disease
+neurological or orthopedic diseases	neurological diseases|orthopedic diseases
+hepatic, immunological, endocrine or hematological abnormalities	immunological abnormalities|hepatic abnormalities|endocrine abnormalities|hematological abnormalities
+ability to read and understand English	ability to read English|ability to understand English
+Hepatic or renal diseases	Hepatic diseases|renal diseases
+alcohol or drugs of abuse	alcohol of abuse|drugs of abuse
+psychiatric, psychological or other emotional problems	psychological problems|psychiatric problems|other emotional problems
+medical, surgical, or pharmaceutical study	surgical study|medical study|pharmaceutical study
+CT or MRI neuroimaging	CT neuroimaging|MRI neuroimaging
+kidney and liver function	kidney function|liver function
+Serum alanine aminotransferase / aspartate aminotransferase	Serum alanine aminotransferase|Serum aspartate aminotransferase
+bone marrow and organ function	bone marrow function|organ function
+cardiac, pulmonary, hepatic, or renal dysfunction	pulmonary dysfunction|cardiac dysfunction|hepatic dysfunction|renal dysfunction
+neurological, endocrine or metabolic condition that preclude weight loss	neurological condition that preclude weight loss|endocrine condition that preclude weight loss|metabolic condition that preclude weight loss
+coronary angioplasty, or stenting	coronary angioplasty|coronary stenting
+medical or surgical condition	medical condition|surgical condition
+medical or psychiatric condition	medical condition|psychiatric condition
+gastrointestinal, renal, hepatic, or cardiovascular disease	gastrointestinal disease|renal disease|hepatic disease|cardiovascular disease
+Type I or II diabetes mellitus	Type II diabetes mellitus|Type I diabetes mellitus
+liver, cardiac malignancy	liver malignancy|cardiac malignancy
+cardiovascular, endocrinologic, neurologic or immunologic disease	cardiovascular disease|neurologic disease|endocrinologic disease|immunologic disease
+Musculoskeletal or systemic disorders	Musculoskeletal disorders|systemic disorders
+medical, surgical or ICU wards	surgical wards|medical wards|ICU wards
+hepatic, renal, respiratory, hematologic, endocrinologic, or neurologic disease	endocrinologic disease|respiratory disease|hematologic disease|renal disease|hepatic disease|neurologic disease
+Ability to read and write English	Ability to read English|Ability to write English
+CNS involvement or extramedullary involvement by malignancy	CNS involvement by malignancy|extramedullary involvement by malignancy
+hepatic or biliary abnormalities	hepatic abnormalities|biliary abnormalities
+immunological, endocrine or hematological abnormalities	immunological abnormalities|endocrine abnormalities|hematological abnormalities
+mechanical aortic and mitral valves	mechanical mitral valves|mechanical aortic valves
+mean systolic / diastolic office blood pressure	mean diastolic office blood pressure|mean systolic office blood pressure
+Blood transfusion or donation	Blood transfusion|Blood donation
+active use of illegal or illicit drugs	active use of illegal drugs|active use of illicit drugs
+chronic disease involved liver, kidney, and brain	chronic disease involved liver|chronic disease involved kidney|chronic disease involved brain
+varus or valgus deformity	varus deformity|valgus deformity
+Chronic HBV / HIV infection	Chronic HBV infection|Chronic HIV infection 
+impair absorption, metabolism or excretion	impair absorption|impair excretion|impair metabolism
+Bipolar I or II disorder	Bipolar I disorder|Bipolar II disorder
+leg and systemic pathology	systemic pathology|leg pathology
+cutaneous squamous cell or basal cell carcinoma	cutaneous squamous cell carcinoma|cutaneous basal cell carcinoma
+secondary illnesses of an acute or chronic nature	secondary illnesses of acute nature|secondary illnesses of chronic nature
+esophageal or gastric function abnormalities	esophageal function abnormalities|gastric function abnormalities
+oral or dental abscess	oral abscess|dental abscess
+cardiac catheterizations / surgeries	cardiac catheterizations|cardiac surgeries
+severe liver or renal insufficiency	severe renal insufficiency|severe liver insufficiency
+Alcohol or drug addiction	Alcohol addiction|drug addiction
+Type 1 or Type 2 diabetes mellitus	Type 1 diabetes mellitus|Type 2 diabetes mellitus
+emotional care and support	emotional care|emotional support
+renal, hepatic, endocrine disease	renal disease|hepatic disease|endocrine disease
+Hepatitis C Virus and Human Immunodeficiency Virus infections	Hepatitis C Virus infections|Human Immunodeficiency Virus infections
+hepatitis B or C virus infection	hepatitis B virus infection|hepatitis C virus infection
+proliferative retinopathy / maculopathy	proliferative maculopathy|proliferative retinopathy
+basal cell or squamous cell skin cancer	basal cell skin cancer|squamous cell skin cancer
+anti-tuberculosis prophylaxis or therapy	anti-tuberculosis prophylaxis|anti-tuberculosis therapy
+life-limiting immunosuppressive or autoimmune disease	life-limiting autoimmune disease|life-limiting immunosuppressive disease
+live / attenuated vaccine	live vaccine|attenuated vaccine
+pharmacological or surgical treatment	pharmacological treatment|surgical treatment
+pulmonary, endocrine, immunological, gastrointestinal, hematological, vascular or collagen disease	endocrine disease|vascular disease|pulmonary disease|hematological disease|immunological disease|gastrointestinal disease|collagen disease
+HCV, HIV, or HDV coinfection	HDV coinfection|HCV coinfection|HIV coinfection
+CT or MRI scan	CT scan|MRI scan
+abnormalities in hepatic or renal function	abnormalities in hepatic function|abnormalities in renal function
+oral or IV antibiotics	oral antibiotics|IV antibiotics
+acute or viral hepatitis	acute hepatitis|viral hepatitis
+Serum potassium, magnesium, and calcium	Serum calcium|Serum magnesium|Serum potassium
+regeneration and impair outcomes	regeneration outcomes|impair outcomes
+hepatic or renal disease	hepatic disease|renal disease
+Neuromuscular or orthopedic disorders	Neuromuscular disorders|orthopedic disorders
+substance abuse / dependence	substance abuse|substance dependence
+head and neck MRI	head MRI|neck MRI
+acute or chronic disease	acute disease|chronic disease
+able to speak, read and understand English fluently	able to speak English fluently|able to read English fluently|able to understand English fluently
+Estrogen and progesterone receptor	Estrogen receptor|progesterone receptor
+cardiovascular, neurological, renal, hepatic, immunological, endocrine or hematological abnormalities	neurological abnormalities|immunological abnormalities|hepatic abnormalities|endocrine abnormalities|renal abnormalities|cardiovascular abnormalities|hematological abnormalities
+Ocular surface or annexes metaplastic lesions	Ocular annexes metaplastic lesions|Ocular surface lesions
+urine screen for alcohol, drugs of abuse, and cotinine	urine screen for cotinine|urine screen for drugs of abuse|urine screen for alcohol of abuse
+endocrine, immunologic, metabolic, neurologic, psychiatric or hematological disease	neurologic disease|endocrine disease|immunologic disease|metabolic disease|psychiatric disease|hematological disease
+Inadequate hematologic or biologic function	Inadequate hematologic function|Inadequate biologic function
+Alcohol, Nicotine or Caffeine Use Disorders	Alcohol Use Disorders|Nicotine Use Disorders|Caffeine Use Disorders
+acute illness / infection	acute illness|acute infection
+gastrointestinal, and genetic conditions	gastrointestinal conditions|genetic conditions
+bleeding disorder / diathesis	bleeding disorder|bleeding diathesis
+chronic or acute infections	chronic infections|acute infections
+liver, kidney or lung disease	kidney disease|liver disease|lung disease
+Major thoracic or abdominal surgery	Major thoracic surgery|Major abdominal surgery
+CYP3A4 inducers or inhibitors	CYP3A4 inhibitors|CYP3A4 inducers
+cardiovascular, pulmonologic, hematologic, hepatological, metabolic, or renal disease	cardiovascular disease|pulmonologic disease|hematologic disease|hepatological disease|metabolic disease|renal disease
+failure of heart, lung, liver	failure of lung|failure of liver|failure of heart
+compounds of similar chemical or biologic composition to poly-ICLC	compounds of similar chemical composition to poly-ICLC|compounds of similar biologic composition to poly-ICLC
+Conner's ADHD / DSM-IV Scale for Parents	Conner's ADHD Scale for Parents|Conner's DSM-IV Scale for Parents
+Cohort 1 and 2 Post-TIL	Cohort 1 Post-TIL|Cohort 2 Post-TIL
+metabolic or hepatic disease	metabolic disease|hepatic disease
+Peritonitis related to peritoneal dialysis or trauma	Peritonitis related to peritoneal dialysis|Peritonitis related to trauma
+right-to-left, bi-directional, or transient right-to-left cardiac shunts	bi-directional cardiac shunts|right-to-left cardiac shunts|transient right-to-left cardiac shunts
+HIV, Hepatitis B, or Hepatitis C infection	Hepatitis B infection|HIV infection|Hepatitis C infection
+intra-thoracic, -abdominal, or -pelvic	intra -pelvic|intra -abdominal|intra-thoracic
+traumatic / non-traumatic musculoskeletal pain	traumatic musculoskeletal pain|non-traumatic musculoskeletal pain
+cerebral or psychiatric disease	cerebral disease|psychiatric disease
+ocular Herpes simplex or Herpes zoster	ocular Herpes simplex|ocular Herpes zoster
+cardiac, liver or kidney failure	liver failure|cardiac failure|kidney failure
+medical or psychiatric disorder	medical disorder|psychiatric disorder
+Able and willing to receive phone calls	Able to receive phone calls|willing to receive phone calls
+psychological or other emotional problems	psychological problems|other emotional problems
+thoracic, or lumbar facet or sacroiliac joint pain	lumbar facet joint pain|thoracic joint pain|sacroiliac joint pain

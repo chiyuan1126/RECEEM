@@ -1,0 +1,1553 @@
+breast and/or ovarian cancer and tumour	breast cancer|ovarian cancer|breast tumour|ovarian tumour
+inherited breast and ovarian cancers	inherited breast cancers|inherited ovarian cancers
+overgrowth of oral mucosa and facial skin	Overgrowth of oral mucosa|Overgrowth of facial skin
+abnormalities of eyes, nervous system, and kidneys	abnormalities of eyes|abnormalities of nervous system|abnormalities of kidneys
+bilateral and multi-centric hemangioblastoma	bilateral hemangioblastoma|multi-centric hemangioblastoma
+hereditary breast and/or ovarian cancer	hereditary breast cancer|hereditary ovarian cancer
+colon and some other cancers	colon cancers|other cancers
+hereditary breast and ovarian cancer	hereditary breast cancer|hereditary ovarian cancer
+contractures of the elbows, achilles tendons and spine	contractures of elbows|contractures of achilles tendons|contractures of spine
+becker and duchenne muscular dystrophy	Becker muscular dystrophy|Duchenne muscular dystrophy
+vasculopathy of the heart and brain	vasculopathy of heart|vasculopathy of brain
+inherited breast / ovarian cancer	inherited breast cancer|inherited ovarian cancer
+duchenne and the milder becker muscular dystrophies	Duchenne muscular dystrophies|milder Becker muscular dystrophies
+breast and squamous cell neoplasms	breast neoplasms|squamous cell neoplasms
+breast, ovarian, or other cancers	breast cancers|ovarian cancers|other cancers
+brain, breast, and prostate cancer	brain cancer|breast cancer|prostate cancer
+partial or complete deficiency of hmgic	partial deficiency of Hmgic|complete deficiency of Hmgic
+bilateral and multifocal tumours	bilateral tumours|multifocal tumours
+degeneration and premature cell death of oligodendrocytes	degeneration cell death of oligodendrocytes|premature cell death of oligodendrocytes
+breast and ovarian carcinomas	breast carcinomas|ovarian carcinomas
+ovarian and early-onset breast cancer	ovarian cancer|early-onset breast cancer
+ovarian or breast cancer	ovarian cancer|breast cancer
+hematopoietic and solid tumors	hematopoietic tumors|solid tumors
+cancer of the breast and ovaries	cancer of breast|cancer of ovaries
+retinal and the pineal tumours	retinal tumours| pineal tumours
+haploinsufficiency of the transcription factors foxc1 and foxc2	Haploinsufficiency of transcription factors FOXC1|Haploinsufficiency of transcription factors FOXC2
+familial breast and ovarian cancers	familial breast cancers|familial ovarian cancers
+c6 or c7 deficiency	C6 deficiency|C7 deficiency
+gastric and colorectal cancer	gastric cancer|colorectal cancer
+syndromic forms of cleft lip and palate	syndromic forms of cleft lip|syndromic forms of cleft palate
+syndromic and non-syndromic hearing loss	syndromic hearing loss|non-syndromic hearing loss
+brca-linked and sporadic ovarian cancer	BRCA-linked ovarian cancer|sporadic ovarian cancer
+duchenne / becker muscular dystrophy	Duchenne muscular dystrophy|Becker muscular dystrophy
+nonsyndromic cleft lip and palate	nonsyndromic cleft lip|nonsyndromic cleft palate
+ovarian or other cancers	ovarian cancers|other cancers
+syndactyly of fingers and toes	syndactyly of fingers|syndactyly of toes
+adenomatous polyps of the colon and rectum	adenomatous polyps of colon|adenomatous polyps of rectum
+breast and/or ovarian cancer	breast cancer|ovarian cancer
+fibroepithelial or epithelial hyperplasias	fibroepithelial hyperplasias|epithelial hyperplasias
+intraretinal and subretinal lipid accumulation	intraretinal lipid accumulation|subretinal lipid accumulation
+duchenne and becker muscular dystrophy	Duchenne muscular dystrophy|Becker muscular dystrophy
+craniofacial and central nervous system defects and no eyes	craniofacial defects|central nervous system defects|no eyes
+cleft lip / palate	cleft lip|cleft palate
+familial breast and ovarian cancer	familial breast cancer|familial ovarian cancer
+inherited and sporadic forms of the cancer	inherited forms of cancer|sporadic forms of cancer
+combined genetic deficiency of c6 and c7	Combined genetic deficiency of C6|Combined genetic deficiency of C7
+bilateral and unilateral retinoblastoma	bilateral retinoblastoma|unilateral retinoblastoma
+inherited breast and ovarian cancer	inherited breast cancer|inherited ovarian cancer
+pineal and retinal tumours	pineal tumours|retinal tumours
+familial or sporadic bilateral retinoblastoma	familial retinoblastoma|sporadic bilateral retinoblastoma
+craniofacial and central nervous system defects	craniofacial defects|central nervous system defects
+aplasia or hypoplasia of the thymus and parathyroid glands	aplasia of thymus and parathyroid glands|hypoplasia of thymus and parathyroid glands
+cortical and total cataracts	cortical cataracts|total cataracts
+impaired function of adrenal cortex and testes	impaired function of adrenal cortex|impaired function of testes
+duchenne or becker muscular dystrophy	Duchenne muscular dystrophy|Becker muscular dystrophy
+breast / ovarian cancer	breast cancer|ovarian cancer
+rcc- and von hippel-lindau disease-associated tumors	RCC-disease-associated tumors|von Hippel-Lindau disease-associated tumors
+cysts in the kidney, pancreas, and epididymis	cysts in kidney|cysts in pancreas|cysts in epididymis
+clefts to the lip and/or palate	clefts to lip|clefts to palate
+unilateral and bilateral retinoblastoma	unilateral retinoblastoma|bilateral retinoblastoma
+familial and sporadic cancers	familial cancers|sporadic cancers
+prader-willi and angelman syndromes	Prader-Willi syndromes|Angelman syndromes
+disorder of lymphocyte homeostasis and immunological tolerance	disorder of lymphocyte homeostasis|disorder of immunological tolerance
+pancreatic, basal cell, colonic, breast, and cervical carcinomas	pancreatic carcinomas|basal cell carcinomas|colonic carcinomas|breast carcinomas|cervical carcinomas
+progressive gait and limb ataxia	progressive gait ataxia|progressive limb ataxia
+bannayan-zonana or ruvalcaba-riley-smith syndrome	bannayan-zonana syndrome|ruvalcaba-riley-smith syndrome
+pits and/or sinuses of the lower lip	pits of lower lip|sinuses of lower lip
+hereditary breast or ovarian cancer	hereditary breast cancer|hereditary ovarian cancer
+prostatic, pancreas, skin, and lung cancer	prostatic cancer|pancreas cancer|skin cancer|lung cancer
+saethre-chotzen, crouzon, and pfeiffer syndromes	Saethre-Chotzen syndromes|Crouzon syndromes|Pfeiffer syndromes
+breast and ovarian cancers	breast cancers|ovarian cancers
+contractures of the elbows, achilles tendons and postcervical muscles	contractures of elbows|contractures of achilles tendons|contractures of postcervical muscles
+cutaneous and ocular pigmentation	Cutaneous pigmentation|ocular pigmentation
+colorectal, endometrial, and ovarian cancers	colorectal cancers|endometrial cancers|ovarian cancers
+hereditary and non hereditary retinoblastoma	hereditary retinoblastoma|non hereditary retinoblastoma
+stage ii or stage iii colorectal cancer	stage II colorectal cancer|stage III colorectal cancer
+familial breast / ovarian cancer	familial breast cancer|familial ovarian cancer
+c6 and c7 deficiencies	C6 deficiencies|C7 deficiencies
+colorectal adenomas and carcinoma	colorectal adenomas|colorectal carcinoma
+breast and ovarian tumors	breast tumors|ovarian tumors
+stage ii and iii colorectal carcinomas	stage II colorectal carcinomas|stage III colorectal carcinomas
+non-familial breast and ovarian cancers	non-familial breast cancers|non-familial ovarian cancers
+sub-total deficiency of c6 and c7	sub-total deficiency of C6|sub-total deficiency of C7
+becker and duchenne dystrophies	Becker dystrophies|Duchenne dystrophies
+duarte and los angeles variant galactosemia	duarte variant galactosemia|los angeles variant galactosemia
+breast and ovarian cancer	breast cancer|ovarian cancer
+subtotal c6 and complete c6 deficiency	subtotal C6 deficiency|complete C6 deficiency
+pancreatic cysts and tumors	pancreatic cysts|pancreatic tumors
+gastric and colorectal cancers	gastric cancers|colorectal cancers
+hepatic and neuro-logical abnormalities	hepatic abnormalities|neuro-logical abnormalities
+stage ii and stage iii colorectal carcinomas	stage II colorectal carcinomas|stage III colorectal carcinomas
+retinal, cerebellar and spinal haemangioblastomas	retinal haemangioblastomas|cerebellar haemangioblastomas|spinal haemangioblastomas
+hereditary breast and ovarian cancer syndrome	hereditary breast cancer syndrome|hereditary ovarian cancer syndrome
+classical and duarte galactosemia	classical galactosemia|Duarte galactosemia
+hereditary human breast and ovarian cancer	hereditary human breast cancer|hereditary human ovarian cancer
+complete or partial lcat deficiency	complete LCAT deficiency|partial LCAT deficiency
+von hippel-lindau disease-associated and sporadic rccs	von Hippel-Lindau disease-associated RCCs|sporadic RCCs
+male and female breast cancer	male breast cancer|female breast cancer
+sporadic breast and ovarian cancers	sporadic breast cancers|sporadic ovarian cancers
+colorectal adenomas and/or carcinoma	colorectal adenomas|colorectal carcinoma
+colorectal, breast and other cancers	colorectal cancers|breast cancers|other cancers
+loss of position and vibration sense	loss of position sense|loss of vibration sense
+hereditary or non hereditary retinoblastoma	hereditary retinoblastoma|non hereditary retinoblastoma
+bone and soft tissue tumor	bone tissue tumor|soft tissue tumor
+facial, limb and genital abnormalities	facial abnormalities|limb abnormalities|genital abnormalities
+ovarian, gastric, and biliary system carcinomas	ovarian carcinomas|gastric carcinomas|biliary system carcinomas
+breast or ovarian cancer	breast cancer|ovarian cancer
+retinal, cerebellar and spinal haemangioblastomas, renal cell carcinoma and phaeochromocytoma	retinal haemangioblastoma|cerebellar haemangioblastoma|spinal haemangioblastoma|renal cell carcinoma|phaeochromocytoma
+spinocerebellar ataxias 1 and 2	spinocerebellar ataxias 1|spinocerebellar ataxias 2
+breast and prostate cancer	breast cancer|prostate cancer
+major histocompatibility complex class I or II molecules	major histocompatibility complex class I molecule|major histocompatibility complex class II molecule
+X1- or X2-boxes	X1-box|X2-box
+PKC-alpha, -epsilon, or -zeta	PKC-alpha|PKC-epsilon|PKC-zeta
+wild-type or mutant LTRs	wild-type LTR|mutant LTR
+AML1- or LBF4-binding sites	AML1-binding site|LBF4-binding site
+granulocyte or monocyte differentiation	granulocyte differentiation|monocyte differentiation
+c-jun, jun-B, jun-D, c-fos, or Fos-B expression vectors	c-jun expression vector|jun-B expression vector|jun-D expression vector|c-fos expression vector|Fos-B expression vector
+Elf-1 or the HMG-I(Y) binding site	Elf-1 binding site|HMG-I(Y) binding site
+NF-kappa B (p50/p65)- or AP-1 (c-Jun/c-Fos)- expression vectors	NF-kappa B (p50/p65)- expression vector|AP-1 (c-Jun/c-Fos)- expression vector
+positive or negative regulator	positive regulator|negative regulator
+TPA- or okadaic acid-induced monocytic differentiation	TPA-induced monocytic differentiation|okadaic acid-induced monocytic differentiation
+bacterial or mycobacterial response elements	bacterial response element|mycobacterial response element
+HLF or C/EBP consensus binding sites	HLF consensus binding site|C/EBP consensus binding site
+CD3 or CD45 expression	CD3 expression|CD45 expression
+TNF -or PMA-induced NF-kappa B activity	TNF-induced NF-kappa B activity|PMA-induced NF-kappa B activity
+TNF -or PMA- induced HIV replication	TNF- induced HIV replication|PMA- induced HIV replication
+antigenic or mitogenic stimulation	antigenic stimulation|mitogenic stimulation
+46,XX or 46,XY karyotypes	46,XX karyotype|46,XY karyotype
+IL-2-, IL-3-, or GM-CSF-induced proinflammatory cytokine gene expression	IL-2-induced proinflammatory cytokine gene expression|IL-3-induced proinflammatory cytokine gene expression|GM-CSF-induced proinflammatory cytokine gene expression
+IL-1 beta, IL-6 or TNF alpha mRNA levels	IL-1 beta mRNA level|IL-6 mRNA level|TNF alpha mRNA level
+amino- or carboxy-terminal sequences	amino-terminal sequence|carboxy-terminal sequence
+clonogenetic fetal calf serum-supplemented (FCS+) or -nonsupplemented (FCS-) culture	clonogenetic fetal calf serum-supplemented (FCS+) culture|clonogenetic fetal calf serum-nonsupplemented (FCS-) culture
+IL-1, IL-2, or IL-4 activity	IL-1 activity|IL-2 activity|IL-4 activity
+serum or tumor necrosis factor alpha	serum necrosis factor alpha|tumor necrosis factor alpha
+TRAF1, -2, or -3	TRAF1|TRAF-2|TRAF-3
+type 1 or type 2 EBV	type 1 EBV|type 2 EBV
+Jun, Fos, NF-kappaB, Oct or Ets family members	Jun family member|Fos family member|NF-kappaB family member|Oct family member|Ets family member
+nuclear factor kappa B or signal transducer and activator of transcription (STAT) activation pathways	nuclear factor kappa B activation pathway|signal transducer and activator of transcription (STAT) activation pathway
+kinase or protease pathways	kinase pathway|protease pathway
+p16, p15 or CDK4 genes	p16 gene|p15 gene|CDK4 gene
+mixed / erythroid / monocytic to granulocytic colony formation	mixed to granulocytic colony formation|erythroid to granulocytic colony formation|monocytic to granulocytic colony formation
+multipotent / erythroid / monocytic HPC growth	multipotent HPC growth|erythroid HPC growth|monocytic HPC growth
+multipotent / erythroid / monocytic to the granulocytic-neutrophilic differentiation program	multipotent to granulocytic-neutrophilic differentiation program|erythroid to granulocytic-neutrophilic differentiation program|monocytic to granulocytic-neutrophilic differentiation program
+cyclophilin A/CsA or FKBP12/FK506 complexes	cyclophilin A/CsA complex|FKBP12/FK506 complex
+4- or 10-bp insertion	4-bp insertion|10-bp insertion
+wild-type or the truncated ER	wild-type ER|truncated ER
+HLA-DQ alpha or -DQ beta transcription	HLA-DQ alpha transcription|HLA-DQ beta transcription
+autoimmune, allergic, infectious, or neoplastic diseases	autoimmune disease|allergic disease|infectious disease|neoplastic disease
+purified CD4+ or CD8+ T cells	purified CD4+ cell|purified CD8+ T cell
+CD4+ or CD8+ cells	CD4+ cell|CD8+ cell
+5' or 3' NF-kappaB sites	5' NF-kappaB site|3' NF-kappaB site
+N or C terminus	N terminus|C terminus
+granulocyte-macrophage colony-stimulating factor (GM-CSF)- or interleukin-3 (IL-3)-induced GM colony formation	granulocyte-macrophage colony-stimulating factor (GM-CSF)-induced GM colony formation| interleukin-3 (IL-3)-induced GM colony formation
+anti-IgM or IgD antibodies	anti-IgM antibody|anti-IgD antibody
+B.pertussis, V.cholera. or C.botulinum toxin	B.pertussis toxin|V.cholera. toxin|C.botulinum toxin
+human fetal (A gamma-) globin (HBG1) or simian virus 40 (SV40) promoters	human fetal (A gamma-) globin (HBG1) promoter|simian virus 40 (SV40) promoter
+human B- or T-cell lines	human B-cell line|human T-cell line
+CD45- or Lck-deficient cell lines	CD45-deficient cell line|Lck-deficient cell line
+fetal or the adult globin gene program	fetal globin gene program|adult globin gene program
+fetal or the adult globin developmental program	fetal globin developmental program|adult globin developmental program
+fetal or the adult globin program	fetal globin program|adult globin program
+fetal or the adult globin gene	fetal globin gene|adult globin gene
+LPS- or zymosan-mediated transcriptional induction	LPS-mediated transcriptional induction|zymosan-mediated transcriptional induction
+wild-type or mutant kappaB sites	wild-type kappaB site|mutant kappaB site
+inflammatory or immune processes	inflammatory process|immune process
+apoptotic or necrotic cell death	apoptotic cell death|necrotic cell death
+NF kappa B or Sp-1 elements	NF kappa B element|Sp-1 element
+Tat- or mitogen-mediated LTR transcription	Tat-mediated LTR transcription|mitogen-mediated LTR transcription
+Lck/Fyn- or zap-70-dependent signaling pathways	Lck/Fyn-dependent signaling pathway|zap-70-dependent signaling pathway
+CD45- or CD3-negative variants	CD45-negative variant|CD3-negative variant
+GATA-1 and -2 or GATA-1 and -3 gene products	GATA-1 gene product|GATA-2 gene product|GATA-1 gene product|GATA-3 gene product
+MBP- or GST-HBD	MBP-HBD|GST-HBD
+amino- (729-766) or carboxy- terminal (940-984) region	amino-terminal (729-766) region|carboxy- terminal (940-984) region
+TATA or a CAAT box	TATA box|CAAT box
+granulocytic or monocytic lineage	granulocytic lineage|monocytic lineage
+normal or rheumatoid peripheral blood	normal peripheral blood|rheumatoid peripheral blood
+EBV-negative Burkitt lymphoma or human embryonic kidney 293 cells	EBV-negative Burkitt lymphoma cell|human embryonic kidney 293 cell
+ERK or p38 pathway	ERK pathway|p38 pathway
+interleukin (IL)-2-stimulated or IL-2-deprived cells	interleukin (IL)-2-stimulated cell|IL-2-deprived cell
+IL-2 or IL-4 genes	IL-2 gene|IL-4 gene
+B-cell activation, differentiation or function	B-cell activation|B-cell differentiation|B-cell function
+IL-4-, IL-5-, or ionomycin-stimulated eosinophils	IL-4-stimulated eosinophil|IL-5-stimulated eosinophil|ionomycin-stimulated eosinophil
+IL-4- or IL-5-stimulated eosinophils	IL-4-stimulated eosinophil|IL-5-stimulated eosinophil
+fibronectin- or laminin-coated flasks	fibronectin-coated flask|laminin-coated flask
+unilineage erythroid or granulocytic differentiation	unilineage erythroid differentiation|unilineage granulocytic differentiation
+NF-kappaB or CREB/ATF pathway	NF-kappaB pathway|CREB/ATF pathway
+virus-infected or tumor cells	virus-infected cell|tumor cell
+cytogenetic or molecular abnormalities	cytogenetic abnormality|molecular abnormality
+normal resting or activated lymphocytes	normal resting lymphocyte|activated lymphocyte
+tumor necrosis factor receptor-associated factor (TRAF) 1, 2, or 3	tumor necrosis factor receptor-associated factor (TRAF) 1|tumor necrosis factor receptor-associated factor (TRAF) 2|tumor necrosis factor receptor-associated factor (TRAF) 3
+multipotent progenitor (EML) or committed promyelocyte (MPRO) stages	multipotent progenitor (EML) stage|committed promyelocyte (MPRO) stage
+mitogen- or CD3-activated T cells	mitogen-activated T cell|CD3-activated T cell
+Th1 or Th2 differentiation	Th1 differentiation|Th2 differentiation
+monocytic or epithelial cells	monocytic cell|epithelial cell
+diploid or tetraploid B cells	diploid B cell|tetraploid B cell
+paternal or biallelic expression	paternal expression|biallelic expression
+maternal or biallelic expression	maternal expression|biallelic expression
+natural or synthetic ligands	natural ligand|synthetic ligand
+wild-type or mutated human retinoic acid receptor alpha	wild-type human retinoic acid receptor alpha|mutated human retinoic acid receptor alpha
+p53, Bax, or Bak gene expression	p53 gene expression|Bax gene expression|Bak gene expression
+homo -or heterodimer complex formation	homodimer complex formation|heterodimer complex formation
+XPB or XPD gene	XPB gene|XPD gene
+XP-B or XP-D patients	XP-B patient|XP-D patient
+p65 or c-Rel subunits	p65 subunit|c-Rel subunit
+A or B Epstein-Barr virus infection	A Epstein-Barr virus infection|B Epstein-Barr virus infection
+type A or type B EBV infection	type A EBV infection|type B EBV infection
+wild-type or mutant human CD40	wild-type CD40|mutant human CD40
+CD40- or pervanadate-mediated I kappa B tyrosine phosphorylation	CD40-mediated I kappa B tyrosine phosphorylation|pervanadate-mediated I kappa B tyrosine phosphorylation
+IL-2- or IL-7-treated cells	IL-2-treated cell|IL-7-treated cell
+bacterial or viral superantigen	bacterial superantigen|viral superantigen
+TCR alpha beta or -gamma delta chains	TCR alpha beta chain|TCR gamma delta chain
+monomorphic or polymorphic determinants	monomorphic determinant|polymorphic determinant
+E-selectin or VCAM-1 mRNA	E-selectin mRNA|VCAM-1 mRNA
+heterologous acidic, proline-rich, or glutamine-rich activation domain	heterologous acidic activation domain|heterologous proline-rich activation domain|heterologous glutamine-rich activation domain
+HLA-DR or -DP transcription	HLA-DR transcription|HLA-DP transcription
+antigen- or cAMP- stimulated IL-5 promoter activation	antigen- stimulated IL-5 promoter activation|cAMP- stimulated IL-5 promoter activation
+mRNA or protein level	mRNA level|protein level
+IL-6 chloramphenicol acetyl transferase (CAT) or IL-6 luciferase constructs	IL-6 chloramphenicol acetyl transferase (CAT) construct|IL-6 luciferase construct
+TNF-alpha- or PMA-induced stimulation	TNF-alpha-induced stimulation|PMA-induced stimulation
+nt 1333, 1367, or 1419	nt 1333|nt 1367|nt 1419
+pro-B-cell or T-cell lines	pro-B-cell line|T-cell line
+NFAT or AP-1 sites	NFAT site|AP-1 site
+NFAT or AP-1 elements	NFAT element|AP-1 element
+E-selectin or interleukin (IL)-8 promoters	E-selectin promoter|interleukin (IL)-8 promoter
+first or the third intron	first intron|third intron
+anti-inflammatory, immunosuppressive or anti-tumoral agents	anti-inflammatory agent|immunosuppressive|anti-tumoral agent
+humoral or cellular immunity	humoral immunity|cellular immunity
+genetic or neoplastic familial disorders	genetic familial disorder|neoplastic familial disorder
+monocytic or neutrophilic lineages	monocytic lineage|neutrophilic lineage
+monocytic or neutrophil lineages	monocytic lineage|neutrophil lineage
+W-X-Y or X-Y regulatory elements	W-X-Y regulatory element|X-Y regulatory element
+homodimeric or heterodimeric forms	homodimeric form|heterodimeric form
+dying or infected cells	dying cell|infected cell
+E1A- or E1B-specific CTLs	E1A-specific CTL|E1B-specific CTL
+immature, or primitive erythroid tissues	immature erythroid tissue|primitive erythroid tissue
+delta or beta fragment	delta fragment|beta fragment
+proximal beta or delta sequence	proximal beta sequence|proximal delta sequence
+human Jurkat T or 293 cells	human Jurkat T cell|human 293 cell
+TATA or CAAT motifs	TATA motif|CAAT motif
+anti-CD3 mAb/IL-2- or PHA-mediated IFN-gamma production	anti-CD3 mAb/IL-2-mediated IFN-gamma production|PHA-mediated IFN-gamma production
+PML/RAR alpha or AML1/ETO mRNA	PML/RAR alpha mRNA|AML1/ETO mRNA
+autocrine or paracrine action	autocrine action|paracrine action
+LAM-, LPS-, or TNF-alpha- stimulated THP-1 cells	LAM-stimulated THP-1 cell|LPS-stimulated THP-1 cell|TNF-alpha-stimulated THP-1 cell
+megakaryocyte or lymphoid markers	megakaryocyte marker|lymphoid marker
+persistent or recurrent inflammatory arthritis	persistent inflammatory arthritis|recurrent inflammatory arthritis
+major histocompatibility complex class I or II	major histocompatibility complex class I|major histocompatibility complex class II
+MHC I or II	MHC I|MHC II
+CD14 cell surface or mRNA expression	CD14 cell surface expression|CD14 mRNA expression
+amino- or carboxyl-terminal domains	amino-terminal domain|carboxyl-terminal domain
+c-jun, jun-B, or jun-D expression vectors	c-jun expression vector|jun-B expression vector|jun-D expression vector
+c-fos or jun B mRNA expression	c-fos mRNA expression|jun B mRNA expression
+homo- or heterodimer formation	homo-dimer formation|heterodimer formation
+p50- or p65- selected kappa B motif	p50- selected kappa B motif|p65- selected kappa B motif
+humoral or cell-mediated immunity	humoral immunity|cell-mediated immunity
+granulocytic or monocytic differentiation	granulocytic differentiation|monocytic differentiation
+erythroid or granulocyte-macrophage pathway	erythroid pathway|granulocyte-macrophage pathway
+thymus or T cell lines	thymus cell line|T cell line
+ferritin or transferrin receptor mRNAs	ferritin receptor mRNA|transferrin receptor mRNA
+Ag or mitogen activation	Ag activation|mitogen activation
+T or B cell	T cell|B cell
+human epsilon- or beta-globin genes	human epsilon-globin gene|human beta-globin gene
+mitogenic or alloantigenic stimuli	mitogenic stimuli|alloantigenic stimuli
+serum-free or serum containing media	serum-free media|serum containing media
+octamer or kappa B consensus sequences	octamer consensus sequence|kappa B consensus sequence
+simian virus 40 or Moloney murine leukemia virus promoters	simian virus 40 promoter|Moloney murine leukemia virus promoter
+HIV-1 or HIV-2 enhancers	HIV-1 enhancer|HIV-2 enhancer
+estrogen- or thyroid hormone-response elements	estrogen-response element|thyroid hormone-response element
+ferrous or ferric chloride	ferrous chloride|ferric chloride
+overt hypo -or hyperthyroidism	overt hypothyroidism|overt hyperthyroidism
+human papillomavirus- or adenovirus-transformed cells	human papillomavirus-transformed cell|human adenovirus-transformed cell
+human fibroblastic or keratinocyte-derived human cells	human fibroblastic cell|keratinocyte-derived human cell
+human and mouse gene	human gene|mouse gene
+erythroid, myeloid and lymphoid cell types	erythroid cell type|myeloid cell type|lymphoid cell type
+Cellular and molecular mechanisms	Cellular mechanism|molecular mechanism
+IL-2 and IL-12 stimulation	IL-2 stimulation|IL-12 stimulation
+cytoplasmic mRNA and protein expression	cytoplasmic mRNA expression|cytoplasmic protein expression
+IFN-gamma and GM-CSF cytoplasmic mRNA	IFN-gamma cytoplasmic mRNA|GM-CSF cytoplasmic mRNA
+IFN-gamma and GM-CSF gene expression	IFN-gamma gene expression|GM-CSF gene expression
+hematopoietic and trophoblast cells	hematopoietic cell|trophoblast cell
+NFAT- and interleukin-2-dependent transcription	NFAT-dependent transcription|interleukin-2-dependent transcription
+Positive and negative regulation	positive regulation|negative regulation
+alpha and beta subunits	alpha subunit|beta subunit
+t(8;21) and t(3;21) myeloid leukemias	t(8;21) myeloid leukemia|t(3;21) myeloid leukemia
+unstimulated and 12-O-tetradecanoylphorbol 13-acetate/phytohemagglutinin-stimulated human Jurkat T cells	unstimulated human Jurkat T cell|12-O-tetradecanoylphorbol 13-acetate/phytohemagglutinin-stimulated human Jurkat T cell
+biochemical and mutagenesis analyses	biochemical analysis|mutagenesis analysis
+transcriptional and posttranscriptional levels	transcriptional level|posttranscriptional level
+transformed and normal lymphocytes	transformed lymphocyte|normal lymphocyte
+cytokine redundancy and pleiotropy	cytokine redundancy|cytokine pleiotropy
+GATA-1 and Sp1 binding sites	GATA-1 binding site|Sp1 binding site
+erythroid and non-erythroid cells	erythroid cell|non-erythroid cell
+antiatherogenic and antiinflammatory properties	antiatherogenic property|antiinflammatory property
+P-glycoprotein, steroid receptors, p53 and Bcl-2 expression	P-glycoprotein expression|steroid receptors expression|p53 expression|Bcl-2 expression
+Lyn and Jak2 tyrosine kinases	Lyn tyrosine kinase|Jak2 tyrosine kinase
+viral and cellular promoters	viral promoter|cellular promoter
+human T and natural killer cells	human T cell|human natural killer cell
+65-75 and 120-125 kDa	65-75 kDa|120-125 kDa
+FY*A and FY*B alleles	FY*A allele|FY*B allele
+transcriptional and post-transcriptional mechanisms	transcriptional mechanism|post-transcriptional mechanism
+human interleukin-2, -4, -5 and -13	human interleukin-2|human interleukin-4|human interleukin-5|human interleukin-13
+human and mouse granulocyte/macrophage-colony stimulating factor	human granulocyte/macrophage-colony stimulating factor|mouse granulocyte/macrophage-colony stimulating factor
+protein phosphatase type 1 (PP-1) and type 2A	protein phosphatase type 1 (PP-1)|protein phosphatase type 2A
+TNF-alpha- and calyculin A-induced I kappa B alpha degradation	TNF-alpha-degradation|calyculin A-induced I kappa B alpha degradation
+murine and human B lymphocyte immunoglobulin production	murine B lymphocyte immunoglobulin production|human B lymphocyte immunoglobulin production
+HL-60, U937, HEL/S, KU812F, K562, and HEL cells	HL-60 cell|U937 cell|HEL/S cell|KU812F cell|K562 cell|HEL cell
+HEL, KU812 and K562 cells	HEL cell|KU812 cell|K562 cell
+HL-60, U937 and HEL/S cells	HL-60 cell|U937 cell|HEL/S cell
+recombinant human nm23-H1, -H2, mouse nm23-M1, and -M2 proteins	recombinant human nm23-H1 protein|recombinant human-H2 protein|recombinant mouse nm23-M1 protein|recombinant mouse nm23-M2 protein
+human nm23-H1, -H2	human nm23-H1|human nm23-H2
+mouse nm23-M1, and -M2	mouse nm23-M1|mouse nm23-M2
+interleukin-2 (IL-2) and IL-4 gene transcription	interleukin-2 (IL-2) gene transcription|IL-4 gene transcription
+GM-CSF and IL-2 gene transcription	GM-CSF gene transcription|IL-2 gene transcription
+IL-2 mRNA and protein levels	IL-2 mRNA level|IL-2 protein level
+AP2 and Sp1 binding sites	AP2 binding site|Sp1 binding site
+5'-untranslated and proximal coding regions	5'-untranslated region|proximal coding region
+B and T cell lines	B cell line|T cell line
+B and T cell antigen receptors	B cell antigen receptor|T cell antigen receptor
+homo- and heterodimers	homodimer|heterodimer
+erythroid lineage- and developmental stage-specific manner	erythroid lineage-specific manner|developmental stage-specific manner
+erythroid lineage- and developmental stage-specific regulation	erythroid lineage-specific regulation|developmental stage-specific regulation
+EBV-positive and EBV-negative Burkitt's lymphoma cell lines	EBV-positive Burkitt's lymphoma cell line|EBV-negative Burkitt's lymphoma cell line
+human and mouse TCF-1 protein	human TCF-1 protein|mouse TCF-1 protein
+fetal and erythroid-specific protein	fetal-specific protein|erythroid-specific protein
+antigen and cytokine receptors	antigen receptor|cytokine receptor
+viral and immune stimuli	viral stimulus|immune stimulus
+cytoskeleton and intracellular proteins	cytoskeleton protein|intracellular protein
+cytokeratins 8 and 18	cytokeratin 8|cytokeratin 18
+lymphoid and prostatic cells	lymphoid cell|prostatic cell
+HLA-DR and -DP	HLA-DR|HLA-DP
+HLA-DRA and DQB reporter constructs	HLA-DRA reporter construct|DQB reporter construct
+erythroid and megakaryocytic phenotypes	erythroid phenotype|megakaryocytic phenotype
+monocytic and neutrophilic cells	monocytic cell|neutrophilic cell
+protein kinase C-alpha, -epsilon, and -zeta	protein kinase C-alpha|protein kinase C-epsilon|protein kinase C-zeta
+primary and long-term human lymphoid cells	primary human lymphoid cell|long-term human lymphoid cell
+NF-kappa B and/or Sp1 binding sites	NF-kappa B binding site|Sp1 binding site
+EBNA1, 2, 3A, 3B, 3C, -LP	EBNA1|EBNA2|EBNA3A|EBNA3B|EBNA3C|EBNA-LP
+DR beta, DP alpha and -beta, and DQ alpha genes	DR beta gene|DP alpha gene|DP-beta gene|DQ alpha gene
+DP alpha and -beta	DP alpha|DP-beta
+DR alpha and DP alpha element	DR alpha element|DP alpha element
+core binding factor-alpha (AML1) and beta	core binding factor-alpha (AML1)|core binding factor-beta
+N-terminal and androgen-binding domains	N-terminal domain|androgen-binding domain
+SV40 early and late promoters	SV40 early promoter|SV40 late promoter
+adolescent and young adult patients	adolescent patient|young adult patient
+cellular and viral genes	cellular gene|viral gene
+positive and negative regulatory elements	positive regulatory element|negative regulatory element
+PEBP2 alpha A and PEBP2 alpha B genes	PEBP2 alpha A gene|PEBP2 alpha B gene
+8;21 and 3;21 chromosome translocations	8;21 chromosome translocation|3;21 chromosome translocation
+CD4- CD8-, CD4+ CD8+, CD4+ CD8-, and CD4- CD8+ cell populations	CD4- CD8- cell population|CD4+ CD8+ cell population|CD4+ CD8- cell population|CD4- CD8+ cell population
+inflammatory and immune responses	inflammatory response|immune response
+TNF-alpha, IL-1 beta and phorbol myristate acetate (PMA) treatment	TNF-alpha, IL-1 beta  treatment|phorbol myristate acetate (PMA) treatment
+AP-1, NF kappa B, and CREB DNA binding	AP-1 DNA binding|NF kappa B DNA binding|CREB DNA binding
+CD2 and CD25 receptors	CD2 receptor|CD25 receptor
+resting, activated, and anergized cells	resting cell|activated cell|anergized cell
+IL-1 and tumour necrosis factor alpha (TNF alpha)-induced changes	IL-1-induced change|tumour necrosis factor alpha (TNF alpha)-induced change
+DNA- and the steroid-binding region	DNA-binding region|steroid-binding region
+mouse and human lymphoma cells	mouse lymphoma cell|human lymphoma cell
+Jun and Fos families	Jun family|Fos family
+erythroid and T-cell lines	erythroid  cell line|T-cell line
+erythroid, megakaryocytic, and mast cell lineages	erythroid cell lineage|megakaryocytic cell lineage|mast cell lineage
+HS I, IV, and V	HS I|HS IV|HS  V
+promoters 1a and 1b	promoter 1a|promoter 1b
+erythroid and megakaryocytic lineages	erythroid lineage|megakaryocytic lineage
+M-TAT/EPO, M-TAT/GM-CSF, and M-TAT/SCF cells	M-TAT/EPO cell|M-TAT/GM-CSF cell|M-TAT/SCF cell
+E2F-1 and DP-1 mRNAs	E2F-1 mRNA|DP-1 mRNA
+virally encoded and cellular proteins	virally encoded protein|cellular protein
+T lymphocytic and monocytic cells	T lymphocytic cell|monocytic cell
+T-lymphoid and monocytoid cell lines	T-lymphoid cell line|monocytoid cell line
+all-trans and 9-cis RA	all-trans RA|9-cis RA
+acute and chronic infection	acute infection|chronic infection
+U937 and THP-1 cells	U937 cell|THP-1 cell
+decreased plasma cyst(e)ine and intracellular GSH levels	decreased plasma cyst(e)ine level|intracellular GSH level
+human fetal and adult erythroid progenitors	human fetal erythroid progenitor|human adult erythroid progenitor
+IL-1 beta and I kappa B alpha/MAD-3 mRNA levels	IL-1 beta mRNA level|I kappa B alpha/MAD-3 mRNA level
+cytoplasmic and nuclear signaling steps	cytoplasmic signaling step|nuclear signaling step
+91 and 84 kDa proteins	91 kDa protein|84 kDa protein
+neutrophil and monocyte differentiation	neutrophil differentiation|monocyte differentiation
+endogenous glucocorticoid peripheral and central function	endogenous glucocorticoid peripheral function|endogenous glucocorticoid central function
+glucocorticoid receptor (GR) and methallothionein (MTIIa) mRNA expression levels	glucocorticoid receptor (GR) mRNA expression level|methallothionein (MTIIa) mRNA expression level
+Serum cortisol, osteocalcin and urinary cortisol levels	serum cortisol level|serum osteocalcin level|urinary cortisol level
+osteocalcin and urinary cortisol	osteocalcin cortisol|urinary cortisol
+c-rel and p105/p50 mRNA synthesis	c-rel mRNA synthesis|p105/p50 mRNA synthesis
+human, mouse, and Drosophila sequences	human sequence|mouse sequence|Drosophila sequence
+S and J elements	S element|J element
+T and B lymphocytes	T lymphocyte|B lymphocyte
+T- and B-lymphocyte	T-lymphocyte|B-lymphocyte
+Mono A and Mono B protein complexes	Mono A protein complex|Mono B protein complex
+alpha 1, alpha 2 and gamma globin genes	alpha 1 globin gene|alpha 2 globin gene|gamma globin gene
+megakaryocytic and erythroid lineages	megakaryocytic lineage|erythroid lineage
+megakaryocytic and erythroid maturation	megakaryocytic maturation|erythroid maturation
+LPS-free and serum-free conditions	LPS-free condition|serum-free condition
+autocrine and paracrine fashion	autocrine fashion|paracrine fashion
+calcineurin and protein kinase C-mediated pathways	calcineurin-mediated pathway|protein kinase C-mediated pathway
+interleukin (IL)-2 and IL-4 promoter activation	interleukin (IL)-2 promoter activation|IL-4 promoter activation
+AP-1 and NF-AT transactivating pathways	AP-1 transactivating pathway|NF-AT transactivating pathway
+calcineurin- and PKC- dependent signaling systems	calcineurin- dependent signaling system|PKC- dependent signaling system
+G1 and G2 stages	G1 stage|G2 stage
+lymphokine and lymphokine receptor genes	lymphokine gene|lymphokine receptor gene
+immature and mature T cells	immature  T cell|mature T cell
+NF-kappa B and CArG motifs	NF-kappa B motif|CArG motif
+upstream and downstream positive regulatory elements	upstream positive regulatory element|downstream positive regulatory element
+exons 1 and 2	exon 1|exon 2
+primary and secondary hyperparathyroidism	primary hyperparathyroidism|secondary hyperparathyroidism
+cell-cell and cell-extracellular matrix interactions	cell-cell interaction|cell-extracellular matrix interaction
+androgen- and antiandrogen-bound receptor complexes	androgen-bound receptor complex|antiandrogen-bound receptor complex
+NF-kappa B-, AP-1- and NF-AT-binding sequences	NF-kappa B-binding sequence|AP-1-binding sequence|NF-AT-binding sequence
+PKC- and Ca2+- signaling pathways	PKC- signaling pathway|Ca2+- signaling pathway
+PRL-secreting and nonsecreting lymphoid cells	PRL-secreting lymphoid cell|PRL-nonsecreting lymphoid cell
+interleukin-4 and interleukin-5 genes	interleukin-4 gene|interleukin-5 gene
+NF kappa B and the NF-activated T cell binding sites	NF kappa B binding site|NF-activated T cell binding site
+IL-4 and IL-5 genes	IL-4 gene|IL-5 gene
+solution and crystal structures	solution structure|crystal structure
+NF-kappa B-dependent and -independent pathways	NF-kappa B-dependent pathway|NF-kappa B-independent pathway
+myelomonocytic and glia cell lines	myelomonocytic cell line|glia cell line
+myelomonocytic, and glial cell lines	myelomonocytic cell line|glial cell line
+NF-AT, AP-1 and CLE0 sequences	NF-AT sequence|AP-1 sequence|CLE0 sequence
+serine/threonine protein phosphatases 1 and 2A	serine/threonine protein phosphatase 1|serine/threonine protein phosphatase 2A
+TPA-treated U-937, and not TUR, cells	TPA-treated U-937 cell|TPA-treated TUR cell
+B-cell-restricted and ubiquitous transcription factors	B-cell-restricted transcription factor|ubiquitous transcription factor
+hemin- and erythropoietin- induced erythroid differentiation	hemin- induced erythroid differentiation|erythropoietin- induced erythroid differentiation
+mineralocorticoid (MR) and glucocorticoid receptor (GR) levels	mineralocorticoid receptor (MR) level|glucocorticoid receptor (GR) level
+protein tyrosine and serine/threonine kinases	protein tyrosine kinase|protein serine/threonine kinase
+CD3 and CD2 receptors	CD3 receptor|CD2 receptor
+HSV-2 buttock and thigh lesions	HSV-2 buttock lesion|HSV-2 thigh lesion
+gC2- and gD2-specific CD4+ clones	gC2-specific CD4+ clone|gD2-specific CD4+ clone
+NF-IL6 and NF-kappa B sites	NF-IL6 site|NF-kappa B site
+lymphoid and nonlymphoid cells	lymphoid cell|nonlymphoid cell
+UV- and H2O2-induced T cell signal transduction	UV-induced T cell signal transduction|H2O2-induced T cell signal transduction
+myeloperoxidase and CD34 genes	myeloperoxidase gene|CD34 gene
+c-Rel and p65 homodimers	c-Rel homodimer|p65 homodimer
+c-fos and c-jun mRNA	c-fos mRNA|c-jun mRNA
+tumor necrosis factor-alpha-dependent and -independent mechanisms	tumor necrosis factor-alpha-dependent mechanism|tumor necrosis factor-alpha-independent mechanism
+monocytic and granulocytic maturation	monocytic maturation|granulocytic maturation
+kappa and lambda light-chain genes	kappa light-chain gene|lambda light-chain gene
+IL-3, GM-CSF, FMS and EGR-1 genes	IL-3 gene|GM-CSF gene|FMS gene|EGR-1 gene
+M-CSF and FMS genes	M-CSF gene|FMS gene
+lymphoid and pancreatic tissues	lymphoid  tissue|pancreatic tissue
+p50 and p65 NF-kappa B subunits	p50 NF-kappa B subunit|p65 NF-kappa B subunit
+p50-, p65-, and c-Rel-mediated transactivation	p50-mediated transactivation|p65-mediated transactivation|c-Rel-mediated transactivation
+human and mouse GATA3 transcription units	human GATA3 transcription unit|mouse GATA3 transcription unit
+T- and B- lymphocytes	T- lymphocyte|B- lymphocyte
+acute promyelocytic and acute myeloblastic leukemia cells	acute promyelocytic leukemia cell|acute myeloblastic leukemia cell
+nasal and bronchial epithelium	nasal epithelium|bronchial epithelium
+Immunohistochemical and ultrastructural studies	immunohistochemical study|ultrastructural study
+T and monocytic lineages	T lineage|monocytic lineage
+AP-1 (-186 to -176) and the kappa B sites	AP-1 (-186 to -176) site|kappa B site
+major and one minor transcription start site	major transcription start site| minor transcription start site
+interleukin-8 AP-1 and kappa B-like sites	interleukin-8 AP-1 site|kappa B-like site
+IL-2 NF-AT and NFIL-2A sites	IL-2 NF-AT site|NFIL-2A site
+Corticosteroid Type I and Type II receptors	corticosteroid Type I receptor|corticosteroid Type II receptor
+RXR alpha, beta, gamma	RXR alpha|RXR beta|RXR gamma
+molecular mass 40, 42, 70, 120, and 130 kDa	molecular mass 40 kDa|molecular mass 42 kDa|molecular mass 70 kDa|molecular mass 120 kDa|molecular mass 130 kDa
+HLA-DR-, CD33+, CD56+, CD16- myeloid/natural killer cell acute leukemia	HLA-DR- myeloid/natural killer cell acute leukemia|CD33+ myeloid/natural killer cell acute leukemia|CD56+ myeloid/natural killer cell acute leukemia|CD16- myeloid/natural killer cell acute leukemia
+myeloid and natural killer (NK) cells	myeloid cell|natural killer (NK) cell
+myeloid (CD33, CD13, CD15) and NK cell-associated (CD56) antigens	myeloid (CD33, CD13, CD15) antigen|NK cell-associated (CD56) antigen
+TCR beta, gamma, delta	TCR beta|TCR gamma|TCR delta
+myeloid and NK cell lineages	myeloid cell lineage|NK cell lineage
+T-helper 0 (Th0) and 2 (Th2) subset	T-helper 0 (Th0) subset|T-helper 2 (Th2) subset
+IL-1 alpha, IL-1 beta, IL-6, IL-8, and TNF-alpha gene expression	IL-1 alpha gene expression|IL-1 beta gene expression|IL-6 gene expression|IL-8 gene expression|TNF-alpha gene expression
+IL-1 beta and TNF alpha mRNA	IL-1 beta mRNA|TNF alpha mRNA
+c-jun and c-fos gene products	c-jun gene product|c-fos gene product
+cytokine and immune receptors	cytokine receptor|immune receptor
+supershift and immunoblot analysis	supershift analysis|immunoblot analysis
+erythroid, megakaryocyte, and mast cell lineages	erythroid cell lineage|megakaryocyte cell lineage|mast cell lineage
+immunoregulatory, cytokine and viral gene expression	immunoregulatory gene expression|cytokine gene expression|viral gene expression
+Egr-1 and c-fos mRNA expression	Egr-1 mRNA expression|c-fos mRNA expression
+sIgM- and sIgD-crosslinking	sIgM-crosslinking|sIgD-crosslinking
+Egr-1 and c-fos mRNA	Egr-1 mRNA|c-fos mRNA
+protein tyrosine kinase- and PKC-dependent	protein tyrosine kinase-dependent|PKC-dependent
+CD11a, CD11b, and CD11c gene promoters	CD11a gene promoter|CD11b gene promoter|CD11c gene promoter
+class I and II interferons	class I interferon|class II interferon
+mitogen- and stress- activated protein kinases	mitogen- activated protein kinase|stress- activated protein kinase
+human and simian Epstein-Barr virus oncogene LMP1	human Epstein-Barr virus oncogene LMP1|simian Epstein-Barr virus oncogene LMP1
+1q12 and 1p36 regions	1q12 region|1p36 region
+nuclear factor-kappa B and activator protein-1 transcription factor expression	nuclear factor-kappa B transcription factor expression|activator protein-1 transcription factor expression
+human chromosomal bands 6q26-27, 1p21-22, 3q21-24, 8p12, 13q14, 19p13.3 and 11p14-15.1	human chromosomal band 6q26-27|human chromosomal band 1p21-22|human chromosomal band 3q21-24|human chromosomal band 8p12|human chromosomal band 13q14|human chromosomal band 19p13.3|human chromosomal band 11p14-15.1
+ductal, exocrine and endocrine compartments	ductal compartment|exocrine compartment|endocrine compartment
+endocrine and exocrine precursor cells	endocrine precursor cell|exocrine precursor cell
+sialylated tetra- and hexasaccharide chains	sialylated tetra-chain|hexasaccharide chain
+G1 and S phase expression	G1 phase expression|S phase expression
+1.3, 0.6, and 0.2 kb 5'-flanking DNA	1.3 kb 5'-flanking DNA|0.6 kb 5'-flanking DNA|0.2 kb 5'-flanking DNA
+G1 and S phase	G1 phase|S phase
+erythroid, megakaryocyte, mast and early myeloid cell lines	erythroid cell line|megakaryocyte cell line|mast cell line|early myeloid cell line
+lymphoid and myeloid cell types	lymphoid cell type|myeloid cell type
+monocyte and T-cell types	monocyte type|T-cell type
+HCMV and chimpanzee CMV MIE enhancers	HCMV MIE enhancer|chimpanzee CMV MIE enhancer
+multimerized wild-type and mutant elements	multimerized wild-type element|multimerized mutant element
+U-937, K-562, and HeLa cell extracts	U-937 cell extract|K-562 cell extract|HeLa cell extract
+SRF and ETS motifs	SRF motif|ETS motif
+glucocorticoid- and Fas-mediated cytotoxicity	glucocorticoid-mediated cytotoxicity|Fas-mediated cytotoxicity
+etoposide- and glucocorticoid-induced cytotoxicity	etoposide-induced cytotoxicity|glucocorticoid-induced cytotoxicity
+rat and human fra-1	rat fra-1|human fra-1
+PKC-dependent and PKC-independent pathways	PKC-dependent pathway|PKC-independent pathway
+human and murine GM-CSF genes	human GM-CSF gene|murine GM-CSF gene
+Ets and AP-1 sites	Ets site|AP-1 site
+deletional and alanine mutagenesis	deletional mutagenesis|alanine mutagenesis
+regulatory and catalytic domains	regulatory domain|catalytic domain
+NF-kappaB and SRE/CArG motifs	NF-kappaB motif|SRE/CArG motif
+Stat5a and b proteins	Stat5a protein|Stat5b protein
+CD68- and CD1a- cells	CD68- cell|CD1a- cell
+Tyrosines 113, 128, and 145	tyrosine 113|tyrosine 128|tyrosine 145
+interferon-alpha and -gamma	interferon-alpha|interferon-gamma
+serum thyroxine (T4) and thyrotropin (TSH) levels	serum thyroxine (T4) level|serum thyrotropin (TSH) level
+basal and T3-values	basal-value|T3-value
+FOSB/G0S3 and FOS/G0S7 mRNAs	FOSB/G0S3 mRNA|FOS/G0S7 mRNA
+FOS and FOSB mRNAs	FOS mRNA|FOSB mRNA
+subgroups A (Ad12) and B (Ad3)	subgroup A (Ad12)|subgroup B (Ad3)
+lymphoid and myeloid cells	lymphoid cell|myeloid cell
+Sp1- and PU.1-family members	Sp1-family member|PU.1-family member
+rat and mouse tissues	rat tissue|mouse tissue
+endocrine, fibroblast, and lymphoid lineages	endocrine lineage|fibroblast lineage|lymphoid lineage
+endocrine and nonendocrine cell lineages	endocrine cell lineage|nonendocrine cell lineage
+GH/PRL- and insulin-producing, B- and T-lymphocyte cells	GH/PRL-producing lymphocyte cell|insulin-producing lymphocyte cell|B-lymphocyte cell|T-lymphocyte cell
+p65 and c-Rel protein expression	p65 protein expression|c-Rel protein expression
+immune and inflammatory responses	immune response|inflammatory response
+Nasal NK- and T-cell lymphomas	Nasal NK-cell lymphoma|T-cell lymphoma
+NK- and T-cell subtypes	NK-cell subtype|T-cell subtype
+LMP1 and 2	LMP1|LMP2
+LMP1+ and LMP1- tumour cells	LMP1+ tumour cell|LMP1- tumour cell
+20-methyl- and 20-methyl-23-eneanalogues	20-methyl-eneanalogue|20-methyl-23-eneanalogue
+interleukin-2 receptor alpha and -beta subunit expression	interleukin-2 receptor alpha subunit expression|interleukin-2 receptor -beta subunit expression
+steroid-sensitive and steroid-resistant asthma	steroid-sensitive asthma|steroid-resistant asthma
+positions -153, -178, -286, -875, and -1011	position -153|position -178|position -286|position -875|position -1011
+naive and memory T lymphocytes	naive T lymphocyte|memory T lymphocyte
+NF-kappa B2 (p100) and NF-kappa B1 (p105) genes	NF-kappa B2 (p100) genes|NF-kappa B1 (p105) genes
+CN A (catalytic) and CN B (regulatory) subunits	CN A (catalytic) subunit|CN B (regulatory) subunit
+GM-CSF and IL-2 genes	GM-CSF gene|IL-2 gene
+B-cell growth and development	B-cell growth|B-cell development
+erythroid and megakaryocytic differentiation pathways	erythroid differentiation pathway|megakaryocytic differentiation pathway
+M7 and TMD cases	M7 case|TMD case
+tissue-specific and developmental stage-specific regulation	tissue-specific regulation|developmental stage-specific regulation
+myeloid, B-lymphoid, and erythroid lineages	myeloid lineage|B-lymphoid lineage|erythroid lineage
+DNA sequence- and pituitary-specific manner	DNA sequence-specific manner|pituitary-specific manner
+murine and human T cells	murine T cell|human T cell
+Drosophila and human TAF subunits	Drosophila TAF subunit|human TAF subunit
+granulocyte and T-cell DNA	granulocyte DNA|T-cell DNA
+lymphomagenic Akv and SL3-3 murine leukemia retroviruses	lymphomagenic Akv retrovirus|SL3-3 murine leukemia retrovirus
+T- and B-cell lines	T-cell line|B-cell line
+interleukin-3-dependent and p53-mediated apoptosis	interleukin-3-dependent apoptosis|p53-mediated apoptosis
+interleukin-2, CD44, ICAM-1, and tumor necrosis factor genes	interleukin-2|CD44|ICAM-1|tumor necrosis factor gene
+oxidant and antioxidant stimuli	oxidant stimulus|antioxidant stimulus
+oxidant and antioxidant conditions	oxidant condition|antioxidant condition
+upstream and a downstream regulatory region	upstream regulatory region|downstream regulatory region
+2.7 and 4.5 kilobase pairs	2.7 kilobase pair|4.5 kilobase pair
+SH2 and SH3 domains	SH2 domain|SH3 domain
+consensus and non-consensus GAS motifs	consensus GAS motif|non-consensus GAS motif
+positive and negative regulatory factors	positive regulatory factor|negative regulatory factor
+RNA polymerases II and III	RNA polymerase II|RNA polymerase III
+PTF gamma and delta subunits	PTF gamma subunit|PTF delta subunit
+cell-cell and cell-matrix interactions	cell-cell interaction|cell-matrix interaction
+p16, p15 and CDK4 genes	p16 gene|p15 gene|CDK4 gene
+p50 and RelA (p65) proteins	p50 protein|RelA (p65) protein
+neonatal and adult cells	neonatal cell|adult cell
+unicellular and paired daughter cell culture	unicellular daughter cell culture|paired daughter cell culture
+young and aged subjects	young subject|aged subject
+Type I and Type II receptors	Type I receptor|Type II receptors
+IL4 and IL13 receptors	IL4 receptor|IL13 receptor
+STAT6, STAT3 and STAT5 proteins	STAT6 protein|STAT3 protein|STAT5 protein
+XP and CS symptoms	XP symptom|CS symptom
+Sp1- and Ets-related transcription factors	Sp1-related transcription factor|Ets-related transcription factor
+muA, muE3, and muB sites	muA site|muE3 site|muB site
+muA and muB sites	muA site|muB site
+muA and muB elements	muA element|muB element
+NF-kappaB and AP-1 generation	NF-kappaB generation|AP-1 generation
+PKC- dependent and -independent activation	PKC- dependent activation|PKC-independent activation
+Transcriptional and posttranscriptional regulation	transcriptional regulation|posttranscriptional regulation
+PBGD and GATA-1 mRNAs	PBGD mRNA|GATA-1 mRNA
+normal and leukemic B and T cell precursors and T lymphocytes	normal B cell precursor|normal T cell precursor|leukemic B cell precursor|T cell precursor|normal T lymphocyte|leukemic T lymphocyte
+B and T cell precursors	B cell precursor|T cell precursor
+transmembrane and intracellular domains	transmembrane domain|intracellular domain
+T and, B cells	T cell|B cell
+T and B cell co-cultures	T cell co-culture|B cell co-culture
+NK and T cells	NK cell|T cell
+T and NK cells	T cell|NK cell
+IL-2- and IL-12-stimulated cells	IL-2-stimulated cell|IL-12-stimulated cell
+Stat1 and Stat3 mRNA and protein levels	Stat1 mRNA level|Stat3 mRNA level|Stat1 protein level|Stat3 protein level
+Stat1 protein and mRNA levels	Stat1 protein level|Stat1 mRNA level
+p65 and p105 mRNA levels	p65 mRNA level|p105 mRNA level
+AP-1 and NF-IL6 binding activity	AP-1 binding activity|NF-IL6 binding activity
+human GM-CSF promoter and enhancer	human GM-CSF promoter|human GM-CSF enhancer
+AML1 and CBF beta genes	AML1 gene|CBF beta gene
+AP-1-TRE, NF-AT, and IL-2 promoter regions	AP-1-TRE promoter region|NF-AT promoter region|IL-2 promoter region
+humoral and cell mediated immune responses	humoral immune response|cell mediated immune response
+IFN(beta) and gamma	IFN(beta)|IFN gamma
+RAR(alpha) and PML-RAR mRNAs	RAR(alpha) mRNA|PML-RAR mRNA
+human interleukin-12 and interleukin-10 production	human interleukin-12 production|human interleukin-10 production
+IL-12 and IL-10 secretion	IL-12 secretion|IL-10 secretion
+Treponema pallidum and Borrelia burgdorferi lipoproteins	Treponema pallidum lipoprotein|Borrelia burgdorferi lipoprotein
+lipopolysaccharide (LPS)- and lipoprotein-lipopeptide-induced immune cell signaling events	lipopolysaccharide (LPS)-induced immune cell signaling event|lipoprotein-lipopeptide-induced immune cell signaling event
+VP16 and E1A viral transactivation domains	VP16 viral transactivation domain|E1A viral transactivation domain
+IL-2-, IL-12-, and IFN-alpha-mediated signaling pathways	IL-2-mediated signaling pathway|IL-12-mediated signaling pathway|IFN-alpha-mediated signaling pathway
+tyrosine and serine phosphorylation	tyrosine phosphorylation|serine phosphorylation
+preactivated primary NK and NK3.3 cells	preactivated primary NK cell|preactivated primary NK3.3 cell
+Vitamin D3- and retinoic acid-induced monocytic differentiation	vitamin D3-induced monocytic differentiation|retinoic acid-induced monocytic differentiation
+RA and VitD3 receptor network	RA receptor network|VitD3 receptor network
+T-cell receptor alpha- and delta-chains	T-cell receptor alpha-chain|T-cell receptor delta-chain
+peripheral white blood cell and granulocyte counts	peripheral white blood cell count|granulocyte count
+HIV-1 mRNA and virus production	HIV-1 mRNA production|HIV-1 virus production
+AP-1 and Elf-1 sites	AP-1 site|Elf-1 site
+antiproliferative and apoptotic effects	antiproliferative effect|apoptotic effect
+interleukin (IL)-10 and IL-6-type cytokines	interleukin (IL)-10-type cytokine|IL-6-type cytokine
+B-, T-, and NK-cell lineages	B-cell lineage|T-cell lineage|NK-cell lineage
+C-terminal activating and inhibitory domains	C-terminal activating domain|C-terminal inhibitory domain
+promoter and enhancer positions	promoter position|enhancer position
+positively and negatively acting sequences	positively acting sequence|negatively acting sequence
+activating and inhibitory sequences	activating sequence|inhibitory sequence
+PC-3 and DU-145 cell lines	PC-3 cell line|DU-145 cell line
+collagens type I and IV	collagen type I|collagen type IV
+peptide binding and recognition	peptide binding|peptide recognition
+T-cell- and B-cell-specific transcription factors	T-cell-specific transcription factor|B-cell-specific transcription factor
+L428 and HDLM-1 cells	L428 cell|HDLM-1 cell
+cultured human and murine cell lines	cultured human cell line|cultured murine cell line
+Raf-1 and MEK1 expression	Raf-1 expression|MEK1 expression
+recombinant and nuclear NF-kappaB proteins	recombinant NF-kappaB protein|nuclear NF-kappaB protein
+B-cell and T-cell differentiation	B-cell differentiation|T-cell differentiation
+B-lymphocyte and T-lymphocyte differentiation	B-lymphocyte differentiation|T-lymphocyte differentiation
+erythroid and megakaryocytic lineage cells	erythroid lineage cell|megakaryocytic lineage cell
+Fos and Jun family proteins	Fos family protein|Jun family protein
+G1- and G2/M-phase	G1-phase|G2/M-phase
+nuclear p62c-fos and p39c-jun	nuclear p62c-fos|nuclear p39c-jun
+cytoplasmic p62c-fos and p39c-jun	cytoplasmic p62c-fos|cytoplasmic p39c-jun
+myeloid and B cells	myeloid cell|B cell
+B cell and myeloid genes	B cell gene|myeloid gene
+acute and chronic inflammation	acute inflammation|chronic inflammation
+5' and 3' untranslated regions	5' untranslated region|3' untranslated region
+viral and cellular genes	viral gene|cellular gene
+5S rRNA and tRNA gene transcription	5S rRNA gene transcription|tRNA gene transcription
+normal and leukemic cells	normal cell|leukemic cell
+type A and B transcripts	type A transcript|type B transcript
+immature and mature lymphoid T-cell proliferations	immature lymphoid T-cell proliferation|mature lymphoid T-cell proliferation
+homodimer and heterodimer formation	homodimer formation|heterodimer formation
+mRNA and protein level	mRNA level|protein level
+CD44 mRNA expression and transcription levels	CD44 mRNA expression level|CD44 mRNA transcription level
+human T-cell leukemia virus type I and type II Tax proteins	human T-cell leukemia virus type I Tax protein|human T-cell leukemia virus type II Tax protein
+hematopoietic and nonhematopoietic cell types	hematopoietic cell type|nonhematopoietic cell type
+interleukin-13 and interleukin-4 genes	interleukin-13 gene|interleukin-4 gene
+IL-13 and IL-4 genes	IL-13 gene|IL-4 gene
+IL-4 and IL-13 promoters	IL-4 promoter|IL-13 promoter
+normal myeloid and erythroid progenitor cell growth	normal myeloid cell growth|erythroid progenitor cell growth
+normal bone marrow myeloid and erythroid progenitor cells	normal bone marrow myeloid cell|erythroid progenitor cell
+leukocyte alkaline phosphatase, CD11b, CD33, and G-CSF receptor mRNA	leukocyte alkaline phosphatase mRNA|CD11b mRNA|CD33 mRNA|G-CSF receptor mRNA
+human osteocalcin and the mouse osteopontin gene promoters	human osteocalcin gene promoter|mouse osteopontin gene promoter
+Resting B and T lymphocytes	resting B lymphocyte|resting T lymphocyte
+cyclin-dependent-kinase-4 and 6	cyclin-dependent-kinase-4|cyclin-dependent-kinase-6
+cyclin-dependent kinases 4 and 6	cyclin-dependent kinase 4|cyclin-dependent kinase 6
+MOLT-4 and CEM cells	MOLT-4 cell|CEM cell
+NFAT and NF-kappaB targets	NFAT target|NF-kappaB target
+cAMP- and cGMP-dependent protein kinases	cAMP-dependent protein kinase|cGMP-dependent protein kinase
+beta-casein and IRF-1 gene promoters	beta-casein gene promoter|IRF-1 gene promoter
+STAT5- and STAT1-related factors	STAT5-related factor|STAT1-related factor
+STAT1-, STAT3-, and STAT5-related proteins	STAT1-related factor|STAT3-related factor|STAT5-related protein
+383-bp (delta383) and 99-bp (delta99) sequences	383-bp (delta383) sequence|99-bp (delta99) sequence
+clinical, cytogenetic, and molecular data	clinical data|cytogenetic data|molecular data
+deltaspi-B and spi-B mRNAs	deltaspi-B mRNA|spi-B mRNA
+NF-kappaB and Sp1 binding elements	NF-kappaB binding element|Sp1 binding element
+NF-kappaB and four Spl binding elements	NF-kappaB binding element|four Spl binding element
+U3 and R regions	U3 region|R region
+NF-kappaB and Sp1 sites	NF-kappaB site|Sp1 site
+NF-kappaB and Sp1 binding site mutants	NF-kappaB binding site mutant|Sp1 binding site mutant
+N and the C termini	N terminus|C terminus
+neutrophilic and eosinophilic granulocytes	neutrophilic granulocyte|eosinophilic granulocyte
+anti-inflammatory and anti-allergic/hypereosinophilic agents	anti-inflammatory/hypereosinophilic agent|anti-allergic/hypereosinophilic agent
+B and T lymphocytes	B lymphocyte|T lymphocyte
+anti-CD3- and anti-CD28-treated Rel-/- T cells	anti-CD3-treated Rel-/- T cell|anti-CD28-treated Rel-/- T cell
+normal and hypopigmented skin samples	normal skin sample|hypopigmented skin sample
+mRNA and protein levels	mRNA level|protein level
+Oct-1 and Oct-2 DNA binding activity	Oct-1 DNA binding activity|Oct-2 DNA binding activity
+CACCC and CCAAT motifs	CACCC motif|CCAAT motif
+Agamma- and the beta-globin genes	Agamma-globin gene|beta-globin gene
+gamma- and beta-globin gene promoters	gamma-globin gene promoter|beta-globin gene promoter
+antiproliferative and differentiating agent	antiproliferative agent|differentiating agent
+S1T and ATL-1K cell lines	S1T cell line|ATL-1K cell line
+resident and inflammatory cells	resident cell|inflammatory cell
+human (U937) and murine (J774) monocytic cell lines	human (U937) monocytic cell line|murine (J774) monocytic cell line
+jun and fos gene families	jun gene family|fos gene family
+p46 and p54 isoforms	p46 isoform|p54 isoform
+CD14- and protein tyrosine phosphorylation-dependent event	CD14-dependent event|protein tyrosine phosphorylation-dependent event
+Truncated c-Jun and c-Fos mutant proteins	truncated c-Jun mutant protein|truncated c-Fos mutant protein
+dimerization and DNA binding domains	dimerization domain|DNA binding domain
+latently and acutely infected cells	latently infected cell|acutely infected cell
+DQ2 homo -and heterozygous B-LCLs	DQ2 homozygous B-LCL|DQ2 heterozygous B-LCL
+IL-6- and IFN-gamma-induced reporter gene activity	IL-6-induced reporter gene activity|IFN-gamma-induced reporter gene activity
+T and B cell lines	T cell line|B cell line
+estradiol and progesterone receptor levels	estradiol receptor level|progesterone receptor level
+IL-10- and IFN-gamma-activated STAT molecules	IL-10-activated STAT molecule|IFN-gamma-activated STAT molecule
+atopic and nonatopic individuals	atopic individual|nonatopic individual
+inflammatory and immune processes	inflammatory process|immune process
+Mouse, rat, hamster, and human cells	mouse cell|rat cell|hamster cell|human cell
+CL-induced and chemically induced apoptosis	CL-induced apoptosis|chemically induced apoptosis
+IL-1beta-, IL-6- and TNF-alpha-mRNA	IL-1beta-mRNA|IL-6-mRNA|TNF-alpha-mRNA
+acetaminophen- and CCl4-induced hepatotoxicity	acetaminophen-induced hepatotoxicity|CCl4-induced hepatotoxicity
+c-Jun and JunD genes	c-Jun gene|JunD gene
+tyrosine, and serine phosphorylation	tyrosine phosphorylation|serine phosphorylation
+natural and synthetic PPARgamma agonists	natural PPARgamma agonist|synthetic PPARgamma agonist
+tumour and non tumour cells	tumour cell|non tumour cell
+Monocyte migration and activation	monocyte migration|monocyte activation
+tumor and constitutional (lymphocyte) DNA	tumor DNA|constitutional (lymphocyte) DNA
+cytoskeletal and cell-surface proteins	cytoskeletal protein|cell-surface protein
+signaling, chemokine, and IFN-gamma-inducible genes	signaling gene|chemokine gene|IFN-gamma-inducible gene
+HL-60- and THP-1-derived macrophages	HL-60-derived macrophage|THP-1-derived macrophage
+pre-B and immature B cells	pre-B cell|immature B cell
+calcineurin A and B subunits	calcineurin A subunit|calcineurin B subunit
+B cell proliferation and differentiation	B cell proliferation|B cell differentiation
+B- and myeloid cell markers	B-cell marker|myeloid cell marker
+acute and persistent adenovirus infections	acute adenovirus infection|persistent adenovirus infection
+eosinophilic and neutrophilic differentiation	eosinophilic differentiation|neutrophilic differentiation
+C/EBP- and GATA- binding sites	C/EBP- binding site|GATA- binding site
+C/EBPbeta and GATA-1 expression vectors	C/EBPbeta expression vector|GATA-1 expression vector
+erythroid and megakaryocyte lineages	erythroid lineage|megakaryocyte lineage
+Sp1, Sp1/AP-2, and cAMP response element (CRE) binding sites	Sp1 binding sites|Sp1/AP-2 binding sites|cAMP response element (CRE) binding sites
+Sp1, NRE-2a, TCF-1/LEF-1, and Sp1/NF-AT binding sites	Sp1 binding site|NRE-2a binding site|TCF-1/LEF-1 binding site|Sp1/NF-AT binding sites
+Extracellular signal-regulated protein kinase (ERK)-dependent and ERK-independent pathways	extracellular signal-regulated protein kinase (ERK)-dependent pathway|ERK-independent pathway
+ERK-dependent and ERK-independent pathways	ERK-dependent pathway|ERK-independent pathway
+GATA-1 and -2	GATA-1|GATA-2
+GATA-1 and -3	GATA-1|GATA-3
+Gender and vascular reactivity	gender reactivity|vascular reactivity
+vascular endothelial and smooth muscle cells	vascular endothelial cell|smooth muscle cell
+IKKalpha and -beta	IKKalpha|IKK-beta
+human and murine B lymphocytes	human B lymphocyte|murine B lymphocyte
+SP1, ETS, OCT, and IKAROS/LYF-1 transcription factor motifs	SP1 transcription factor motif|ETS transcription factor motif|OCT transcription factor motif|IKAROS/LYF-1 transcription factor motif
+mononuclear (MNC) and polymorphonuclear leucocytes	mononuclear (MNC) leucocyte|polymorphonuclear leucocyte
+time- and dose-dependent manner	time-dependent manner|dose-dependent manner
+IKK-alpha and -beta activity	IKK-alpha activity|IKK-beta activity
+LPS- and TNF-induced signaling	LPS-induced signaling|TNF-induced signaling
+TNFalpha- and IL-10-pretreated U937 cells	TNFalpha-pretreated U937 cell|IL-10-pretreated U937 cell
+tetanus toxoid antigen-specific T cell proliferation and expansion	tetanus toxoid antigen-specific T cell proliferation|tetanus toxoid antigen-specific T cell expansion
+Rheumatoid arthritis synovial fluid and blood	rheumatoid arthritis synovial fluid|rheumatoid arthritis synovial blood
+hematopoietic transcription factors PU.1 and GATA-1	hematopoietic transcription factor PU.1|hematopoietic transcription factor GATA-1
+lymphoid and myeloid lineages	lymphoid lineage|myeloid lineage
+beta-globin promoter and gene	beta-globin promoter|beta-globin gene
+128 and 246 aa	128 aa|246 aa
+NF-ATc/B and -C	NF-ATc/B|NF-ATc/C
+B and T cell development	B cell development|T cell development
+B cell antigen-receptor (BCR)- and TCR-mediated signaling thresholds	B cell antigen-receptor (BCR)-mediated signaling threshold|TCR-mediated signaling threshold
+B-lymphocyte activation and growth	B-lymphocyte activation|B-lymphocyte growth
+caspase-1 and -3	caspase-1|caspase-3
+STATs1, 3, and 6	STAT1|STAT3|STAT6
+42- and 44-kDa proteins	42-kDa protein|44-kDa protein
+atopic and nonatopic asthma	atopic asthma|nonatopic asthma
+NF-kappa B and AP-1 activation	NF-kappa B activation|AP-1 activation
+IL-2R alpha- and gamma-chains	IL-2R alpha-chain|IL-2R gamma-chain
+c-myc and bcl-2 mRNA induction	c-myc mRNA induction|bcl-2 mRNA induction
+STAT1 and STAT5 genes	STAT1 gene|STAT5 gene
+STAT1, STAT3 and STAT5 RNA	STAT1 RNA|STAT3 RNA|STAT5 RNA
+STAT1, STAT3 and STAT5 mRNAs	STAT1 mRNA|STAT3 mRNA|STAT5 mRNA
+IL-10 and -11	IL-10|IL-11
+matrix metalloproteinases 1 and 3	matrix metalloproteinase 1|matrix metalloproteinase 3
+B-cell expansion and maturation	B-cell expansion|B-cell  maturation
+erythroid and megakaryocytic pathways	erythroid pathway|megakaryocytic pathway
+intestinal calcium and phosphate absorption	intestinal calcium absorption|intestinal  phosphate absorption
+Notch and NF-kappaB signaling pathways	Notch signaling pathway|NF-kappaB signaling pathway
+West African and East African populations	West African population|East African population
+Hepa-1 wild-type and Ah receptor deficient c12 cell lines	Hepa-1 wild-type cell line|Ah receptor deficient c12 cell line
+TCRalpha beta and gamma delta cells	TCRalpha beta cell|TCRgamma delta cell
+LT-beta and TNF-alpha receptors	LT-beta receptor|TNF-alpha receptor
+immune and clinical parameters	immune parameter|clinical parameter
+NFATp/c and an activating protein 1 (AP-1) binding site	NFATp/c binding site|an activating protein 1 (AP-1) binding site
+coding and intronic sequences	coding sequence|intronic sequence
+ER-negative and ER-positive human breast cancer cell lines	ER-negative human breast cancer cell line|ER-positive human breast cancer cell line
+physiological and pathological conditions	physiological condition|pathological condition
+PML and Rb proteins	PML protein|Rb protein
+erythroid and granulocytic colonies	erythroid colony|granulocytic colony
+PML and Rb protein expression	PML protein expression|Rb protein expression
+erythroid and megakaryocytic cells	erythroid  cell|megakaryocytic cell
+primitive and definitive erythroid cells	primitive erythroid cell|definitive erythroid cell
+CD4(+) and CD8(+) T lymphocytes	CD4(+) T lymphocyte|CD8(+) T lymphocyte
+dominant negative Rac and Cdc42 proteins	dominant negative Rac protein|dominant negative Cdc42 protein
+ezrin/moesin/radixin proteins	ezrin protein|moesin protein|radixin protein
+Th1 and Th2 type cytokines	Th1 type cytokine|Th2 type cytokine
+lymphocytic leukemia and lymphoma cells	lymphocytic leukemia cell|lymphoma cell
+G0 and G1 phases	G0  phase|G1 phase
+proapoptotic and antiapoptotic regulatory factor	proapoptotic regulatory factor|antiapoptotic regulatory factor
+proapoptotic and antiapoptotic functions	proapoptotic function|antiapoptotic function
+FOS and JUN proteins	FOS protein|JUN protein
+immune system regulatory and effector cells	immune system regulatory cell|immune system effector cell
+lymphoid and nonlymphoid components	lymphoid component|nonlymphoid component
+site alpha and beta	site alpha|site beta
+site alpha- and beta-binding activities	site alpha-binding activity|site beta-binding activity
+CD4+CD28null and CD8+CD28null T cells	CD4+CD28null T cell|CD8+CD28null T cell
+alpha- and beta- bound complexes	alpha- bound complex|beta- bound complex
+HTLV-I(+), IL-2-independent and IL-2-dependent cell lines	HTLV-I(+) cell line|IL-2-independent cell line|IL-2-dependent cell line
+rapamycin-resistant and rapamycin-sensitive components	rapamycin-resistant component|rapamycin-sensitive component
+Fe2+/Cu2+ ions	Fe2+ion|Cu2+ ion
+gene targeting and transgenic experiments	gene targeting experiments|transgenic experiments
+genetic and pharmacological manipulation	genetic  manipulation|pharmacological manipulation
+T cell development and activation	T cell development|T cell activation
+immunosuppressive and/or anti-inflammatory cytokine	immunosuppressive cytokine|anti-inflammatory cytokine
+LPS-induced IL-6 and spontaneous IL-1ra production	LPS-induced IL-6 production|spontaneous IL-1ra production
+mammalian MCM5 and MCM6 genes	mammalian MCM5 gene|mammalian MCM6 gene
+Human MCM5 and MCM6 promoters	human MCM5 promoter|human MCM6 promoter
+hematopoietic stem and progenitor cells	hematopoietic stem cell|hematopoietic progenitor cell
+serum amylase and lipase	serum amylase|serum  lipase
+Fas/APO-1/CD95- and TCR- mediated apoptosis	Fas/APO-1/CD95-mediated apoptosis|TCR- mediated apoptosis
+Stat1-dependent, Stat4-dependent and Stat4-independent phases	Stat1-dependent phase|Stat4-dependent phase|Stat4-independent phase
+IL-12R beta 1 and beta 2 subunits	IL-12R beta 1 subunit|IL-12R beta 2 subunit
+estrogen receptor alpha (ER-alpha), ER-beta, and progesterone receptor (PR) mRNAs	estrogen receptor alpha (ER-alpha) mRNA|ER-beta mRNA|progesterone receptor (PR) mRNA
+Erk1 and 2	Erk1|Erk2
+c-Jun and ATF-2 proteins	c-Jun protein|ATF-2 protein
+erythroid and megakaryocytic characteristics	erythroid characteristic|megakaryocytic characteristic
+beta- and gamma-globin	beta-globin|gamma-globin
+Interferon-alpha and -beta	interferon-alpha|interferon-beta
+bone morphogenetic protein- and activin-mediated growth arrest	bone morphogenetic protein-mediated growth arrest|activin-mediated growth arrest
+bone morphogenetic protein-2- and activin A-mediated signaling	bone morphogenetic protein-2-mediated signaling|activin A-mediated signaling
+adhesion molecule and Hsp expression	adhesion molecule expression|Hsp expression
+immunosuppressive and immunosuppression-inducing capacities	immunosuppressive capacity|immunosuppression-inducing capacity
+IL-2R alpha-, beta-, and gamma-chain expression	IL-2R alpha-chain expression|IL-2R beta-chain expression|IL-2R gamma-chain expression
+Jak1, Jak3, Stat1, Stat3, and Stat5 expression	Jak1expression|Jak3 expression|Stat1 expression|Stat3 expression|Stat5 expression
+FasL- and a consensus NF-kappaB- reporter construct	FasL-reporter construct|a consensus NF-kappaB- reporter construct
+young and elderly donors	young donor|elderly donor
+type I and type II interferons	type I interferon|type II interferon
+type I and type II IL-1 receptors	type I IL-1 receptor|type II IL-1 receptor
+IL-4- and IL-13-induced gene expression	IL-4-induced gene expression|IL-13-induced gene expression
+type I and type II IFNs	type I IFN|type II IFN
+dominant-negative cdk4 and cdk6 constructs	dominant-negative cdk4 construct|dominant-negative cdk6 construct
+immunosuppressive and antiinflammatory properties	immunosuppressive property|antiinflammatory property
+purine-box/ARRE/NF-AT and NF-kappaB target DNA sequences	purine-box/ARRE/NF-AT target DNA sequence|NF-kappaB target DNA sequence
+erythrocytic and megakaryocytic markers	erythrocytic marker|megakaryocytic marker
+erythrocytic (globins) and megakaryocytic markers	erythrocytic (globins) marker|megakaryocytic marker
+Spi-1 and Fli-1 genes	Spi-1 gene|Fli-1 gene
+Spi-1 and/or Fli-1 genes	Spi-1 gene|Fli-1 gene
+immunosuppressive and antineoplastic agents	immunosuppressive agent|antineoplastic agent
+young and old donors	young donor|old donor
+pre-B cell and plasma cell lines	pre-B cell line|plasma cell line
+p50/p50 and p50/p65 heterodimers	p50/p50 heterodimer|p50/p65 heterodimer
+STATs1, -3 DNA binding and growth arrest	STAT1 DNA binding|STAT1 growth arrest|STAT3 DNA binding|STAT3 growth arres
+STATs1, -3	STAT1|STAT3
+antiviral and antiproliferative effects	antiviral effect|antiproliferative effect
+STATs1 and -3	STAT1|STAT3
+NF-kappa B and STAT-6 binding sites	NF-kappa B binding site|STAT-6 binding site
+CD40L and IL-4 responsive elements	CD40L responsive element|IL-4 responsive element
+MHC class I and class II molecules	MHC class I molecule|MHC class II molecule
+regulatory and catalytic subunits	regulatory subunit|catalytic subunit
+euthymic, manic, and depressed patients	euthymic patient|manic patient|depressed patient
+euthymic, depressed, and manic patients	euthymic patient|depressed patient|manic patient
+Th1 and Th2 immune responses	Th1 immune response|Th2 immune response
+infectious, autoimmune, and allergic diseases	infectious disease|autoimmune|allergic disease
+T cell receptor- and phytohemagglutinin-mediated activation	T cell receptor-mediated activation|phytohemagglutinin-mediated activation
+ERK1/2 and JNK proteins	ERK1/2 protein|JNK protein
+myeloid and megakaryocyte progenitor proliferation	myeloid progenitor proliferation|megakaryocyte progenitor proliferation
+p21(WAF1/CIP1) and p27(KIP1) mRNA	p21(WAF1/CIP1) mRNA|p27(KIP1) mRNA
+phase 1 and 2 neutrophil adhesion responses	phase 1 neutrophil adhesion response|phase 2 neutrophil adhesion response
+eutopic and ectopic implantation sites	eutopic implantation site|ectopic implantation site
+BCL-2+, CD56+, CD3+, CD8+ and CD68+ cells	BCL-2+ cell|CD56+ cell|CD3+ cell|CD8+ cell|CD68+ cell
+ectopic and uterine pregnancies	ectopic pregnancy|uterine pregnancy
+supershift and competition experiments	supershift experiment|competition experiment
+endothelial and/or leukocyte adhesion molecules	endothelial adhesion molecule|leukocyte adhesion molecule
+beta1 and beta2 integrins	beta1 integrin|beta2 integrin
+low THE/THF and alpha THF/THF ratios	low THE/THF ratio|low alpha THF/THF ratio
+N-hydroxy (SMX-NHOH) and nitroso (SMX-NO) metabolites	N-hydroxy (SMX-NHOH) metabolite|nitroso (SMX-NO) metabolite
+DNA- binding and dimerization domains	DNA- binding domain|DNA- dimerization domain
+Ig enhancer and promoter	Ig enhancer|Ig promoter
+human and mouse fibroblasts	human fibroblast|mouse fibroblast
+E2F1 and -3	E2F1|E2F-3
+DP1 and -2	DP1|DP-2
+G1 and S phases	G1  phase|S phase
+JunB, FosB, and c-Fos transcription	JunB transcription|FosB transcription|c-Fos transcription
+TNF receptors 1 and 2	TNF receptor 1|TNF receptor 2
+PKC isoforms alpha, beta I, beta II, and mu	PKC isoform alpha|PKC isoform beta I|PKC isoform beta II|PKC isoform  mu
+murine T and mast cells	murine T cell|murine mast cell
+tissue- and gene- specific functions	tissue- specific function|gene- specific function
+T and mast cell lines	T cell line|mast cell line
+viral, self, and bacterial peptides	viral peptide|self peptide|bacterial peptide
+viral and self peptides	viral peptide|self peptide
+self and bacterial peptides	self peptide|bacterial peptide
+anti-CD28 mAb and CHO-CD80 stimulation	anti-CD28 mAb stimulation|CHO-CD80 stimulation
+silencers I and II	silencer I|silencer II
+B-cell-specific and gamma interferon-inducible fashion	B-cell-specific fashion|gamma interferon-inducible fashion
+T cell activation and differentiation	T cell activation|T cell differentiation
+primary and secondary stimulations	primary stimulation|secondary stimulation
+AML and Ets proteins	AML protein|Ets protein
+basal and TGF-beta-inducible promoter activity	basal promoter activity|TGF-beta-inducible promoter activity
+aberrant double-negative lpr and gld T cells	aberrant double-negative lpr T cell|aberrant double-negative gld T cell
+lpr/lpr and gld/gld mice	lpr/lpr mouse|gld/gld mouse
+MRL-lpr/lpr and C3H-gld/gld CD4(-)CD8(-) T cells	MRL-lpr/lpr T cell|C3H-gld/gld CD4(-)CD8(- ) T cell
+Egr-1, -2, and -3	Egr-1|Egr-2|Egr-3
+lpr/lpr and gld/gld CD4(-)CD8(-) T cells	lpr/lpr T cell|gld/gld CD4(-)CD8(-) T cell
+humoral- and cellular-mediated immune responses	humoral-mediated immune response|cellular-mediated immune response
+HTLV-I basal transcription and expression	HTLV-I basal transcription|HTLV-I expression
+basal and Tax-mediated transcription	basal transcription|Tax-mediated transcription
+delta- and kappa-opioid receptors	delta-opioid receptor|kappa-opioid receptor
+thymic and peripheral T lymphocytes	thymic T lymphocyte|peripheral T lymphocyte
+AP-1- and NF-AT/AP-1-binding sites	AP-1-binding site|NF-AT/AP-1-binding site
+murine and human p40 genes	murine p40 gene|human p40 gene
+murine and human p40 promoter regions	murine p40 promoter region|human p40 promoter region
+hematopoietic and non-hematopoietic cells	hematopoietic cell|non-hematopoietic cell
+5'- and 3'-ends	5'-end|3'-end
+Morphologic and cytofluorometry analysis	morphologic analysis|cytofluorometry analysis
+T helper 1 (Th1) and T helper 2 (Th2) cells	T helper 1 (Th1) cell|T helper 2 (Th2) cell
+Thr102 and- 104	Thr102|Thr104
+Th1 and Th2 clones	Th1 clone|Th2 clone
+transcriptional and post-transcriptional levels	transcriptional level|post-transcriptional level
+upstream and downstream sequences	upstream sequence|downstream sequence
+OM10.1 and Ach2 cells	OM10.1 cell|Ach2 cell
+HpaII and Hha I sites	HpaII site|Hha I site
+transcriptional and posttranslational levels	transcriptional level|posttranslational level
+activated T and B lymphocytes	activated T lymphocyte|activated B lymphocyte
+FasL transcription and expression	FasL transcription|FasL expression
+heparin-like, and therefore cytokine-binding, GAGs	heparin-like GAG|therefore cytokine-binding, GAG
+nervous and immune systems	nervous system|immune system
+physico-chemical and functional parameters	physico-chemical parameter|functional parameter
+BP- 14, 18, 19 kDs	BP- 14 kD |BP- 18 kD|BP- 19 kD
+splenic and brain cells	splenic cell|brain cell
+pim-1, and IRF-1 GAS elements	pim-1 element|IRF-1 GAS element
+IL-2- and IFNgamma-dependent transcription	IL-2-dependent transcription|IFNgamma-dependent transcription
+CD4(+) and CD8(+) subsets	CD4(+) subset|CD8(+) subset
+various synthetic or natural agonists	various synthetic agonist|various natural agonist
+allergic and atopic immune responses	allergic immune response|atopic immune response
+interferon alpha- and interferon gamma- induced genes	interferon alpha- induced gene|interferon gamma- induced gene
+IFNgamma- and IFNalpha-induced gene expression	IFNgamma-induced gene expression|IFNalpha-induced gene expression
+IFNalpha- and IFNgamma-inducible genes	IFNalpha-inducible gene|IFNgamma-inducible gene
+IFNalpha- and IFNgamma-induced DNA binding complexes	IFNalpha-induced DNA binding complex|IFNgamma-induced DNA binding complex
+primary and secondary immune responses	primary immune response|secondary immune response
+IL-1 receptor type I and type II gene expression	IL-1 receptor type I gene expression|IL-1 receptor type II gene expression
+type I and type II IL-1R gene expression	type I IL-1R gene expression|type II IL-1R gene expression
+basal and IL-4/IL-13-induced IL-1R gene expression	basal IL-1R gene expression|IL-4/IL-13-induced IL-1R gene expression
+IL-1RI and IL-1RII mRNA levels	IL-1RI mRNA level|IL-1RII mRNA level
+Th1 and Th2 cells	Th1 cell|Th2 cell
+CREB, CTF, OTF-1, OFT-2, and NF-kappa B genes	CREB gene|CTF gene|OTF-1 gene|OFT-2 gene|NF-kappa B gene
+ERK1/2 and p38 cascades	ERK1/2  cascade|p38 cascade
+LPS- and IL-1beta-induced IL-6 production	LPS-induced IL-6 production|IL-1beta-induced IL-6 production
+BcLF1 and BFRF3 promoters	BcLF1  promoter|BFRF3 promoter
+core- and O-side chain-specific mAbs	core-specific mAb|O-side chain-specific mAb
+anti-inflammatory and proinflammatory functions	anti-inflammatory function|proinflammatory function
+element-specific and common complexes	element-specific complex|common complex
+c-fos, c-jun, and NF kappa B mRNA	c-fos mRNA|c-jun mRNA|NF kappa B mRNA
+Fetal and neonatal lymphocytes	fetal lymphocyte|neonatal lymphocyte
+fetal and term neonatal cord bloods	fetal cord blood|term neonatal cord blood
+NFATp and NFATc family members	NFATp family member|NFATc family member
+neoplastic and normal B cells	neoplastic B cell|normal B cell
+benign, and malignant tumors	benign tumor|malignant tumor
+-70 to -65 and -121 to -103 regions	-70 to -65 region|-121 to -103 region
+CD11c and CD11b promoters	CD11c promoter|CD11b promoter
+GATA and CACCC sites	GATA site|CACCC site
+H5 promoter and enhancer	H5 promoter|H5 enhancer
+cyclin E-Cdk2- and cyclin A-Cdk2-dependent phosphorylation	cyclin E-Cdk2-dependent phosphorylation|cyclin A-Cdk2-dependent phosphorylation
+Cdk2 and Id-bHLH functions	Cdk2 function|Id-bHLH function
+AP-1 and CREB/ATF proteins	AP-1 protein|CREB/ATF protein
+c-Rel and p65 subunits	c-Rel subunit|p65 subunit
+sites 1, 2, and 3	site 1|site 2|site 3
+STATs 3 and 5	STAT 3|STAT 5
+XPB and XPD genes	XPB gene|XPD gene
+XP-B and XP-D cells	XP-B cell| XP-D cell
+XP-B and XP-D lymphoblastoid cells	XP-B lymphoblastoid cell|XP-D lymphoblastoid cell
+murine and human cDNAs	murine cDNA|human cDNA
+Murine and human MZF-2 proteins	murine MZF-2 protein|human MZF-2 protein
+MZF-1 and MZF-2 mRNAs	MZF-1 mRNA|MZF-2 mRNA
+lineage and stage-specific expression	lineage-specific expression|stage-specific expression
+hypercortisolemic and cortisol-resistant patients	hypercortisolemic patient|cortisol-resistant patient
+plasma and urinary cortisol concentrations	plasma cortisol concentration|urinary cortisol concentration
+IFN-gamma and IL-2 mRNA accumulation	IFN-gamma mRNA accumulation|IL-2 mRNA accumulation
+TSG101 and FHIT genes	TSG101 gene|FHIT gene
+truncated TSG101 and FHIT transcripts	truncated TSG101 transcript|truncated FHIT transcript
+human and rat T lymphocytes	human T lymphocyte|rat T lymphocyte
+antitumor, antiinflammatory, and antiinfectious activities	antitumor activity|antiinflammatory activity|antiinfectious activity
+heavy and light chain genes	heavy chain gene|light chain gene
+gamma and lambda genes	gamma gene|lambda gene
+type A and type B EBV carriers	type A EBV carrier|type B EBV carrier
+B and not T cells	B cell|T cell
+Fas and CD23 expression	Fas expression|CD23 expression
+I kappa B alpha and I kappa B beta stability	I kappa B alpha stability|I kappa B beta stability
+type A and one with type B EBV	type A   EBV |one with type B EBV
+Polyclonal and clonal CTL	polyclonal CTL|clonal CTL
+phase-1 and -2 neutrophil adhesion responses	phase-1 neutrophil adhesion response|phase-2 neutrophil adhesion response
+tumor necrosis factor (TNF) receptors I (p55) and II (p75)	tumor necrosis factor (TNF) receptor I (p55)|tumor necrosis factor (TNF) receptor II (p75)
+IL-2- and IL-7-induced activation	IL-2-induced activation|IL-7-induced activation
+nuclear matrix and nonmatrix compartments	nuclear matrix compartment|nuclear nonmatrix compartment
+ATF1- and CREB-induced trans-activation	ATF1-induced trans-activation|CREB-induced trans-activation
+distal and proximal promoter elements	distal promoter element|proximal promoter element
+HLA-DQ and DR haplotypes	HLA-DQ haplotype|DR haplotype
+male and female subjects	male subject|female subject
+human and mouse lymphocytes	human lymphocyte|mouse lymphocyte
+big T and small t allele	big T allele|small t allele
+extracellular and intracellular pH	extracellular pH|intracellular pH
+HL-60 and NB4 cells	HL-60 cell|NB4 cell
+tumor necrosis factor-alpha and interleukin-1 beta genes	tumor necrosis factor-alpha gene|interleukin-1 beta gene
+tumor necrosis factor (TNF)- and Fas-mediated apoptosis	tumor necrosis factor (TNF)-mediated apoptosis|Fas-mediated apoptosis
+TNF- and anti-Fas-induced activation	TNF-induced activation|anti-Fas-induced activation
+TNF- and/or anti-Fas- induced cell death	TNF-induced cell death|anti-Fas-induced cell death
+B and T cells	B cell|T cell
+Ets and SP1 motifs	Ets motif|SP1 motif
+noncanonical Egr and Sp1 binding sites	noncanonical Egr binding site|noncanonical Sp1 binding site
+HLA-DMA and HLA-DMB gene expression	HLA-DMA gene expression|HLA-DMB gene expression
+X and Y boxes	X box|Y box
+hepatocyte nuclear factor-3alpha, -3beta, -3gamma, -4gamma, and -6	hepatocyte nuclear factor-3alpha|hepatocyte nuclear factor-3beta|hepatocyte nuclear factor-3gamma|hepatocyte nuclear factor-4gamma|hepatocyte nuclear factor-6
+HNF-3alpha, -3beta, -3gamma, -4gamma, and -6	HNF-3alpha|HNF-3beta|HNF-3gamma|HNF-4gamma|HNF-6
+tumor necrosis factor alpha (TNF-alpha) and IL-6 mRNAs	tumor necrosis factor alpha (TNF-alpha) mRNA|IL-6 mRNA
+TNF-alpha and IL-6 mRNAs	TNF-alpha mRNA|IL-6 mRNA
+granulocytic and monocytic lineages	granulocytic lineage|monocytic lineage
+TNF-alpha- and NF-kappaB-dependent mechanism	TNF-alpha-dependent mechanism|NF-kappaB-dependent mechanism
+hematopoietic and epithelial cells	hematopoietic cell|epithelial cell
+NFkappaB, AP1 and ETS-like binding motifs	NFkappaB-like binding motif|AP1-like binding motif|ETS-like binding motif
+CRE and POS sites	CRE site|POS site
+AP-1- and NF-kappaB-binding sites	AP-1-binding site|NF-kappaB-binding site
+AP-1- and NF-kappaB factor-binding elements	AP-1-binding element|NF-kappaB factor-binding element
+IL-12 and B7.1 cDNAs	IL-12 cDNA|B7.1 cDNA
+IFN-alpha and IFN-gamma stimulation	IFN-alpha stimulation|IFN-gamma stimulation
+E2A and PBX1 genes	E2A gene|PBX1 gene
+GABP alpha and -beta	GABP alpha|GABP -beta
+Egr-1 and kappaB3 sites	Egr-1 site|kappaB3 site
+CRE and kappaB3 sites	CRE site|kappaB3 site
+Th0, Th1, and Th2 clones	Th0 clone|Th1 clone|Th2 clone
+IFN-alpha and -beta	IFN-alpha|IFN-beta
+N- and C- terminal SH2 domains	N- terminal SH2 domain|C- terminal SH2 domain
+CD45RA and CD45R0 T helper subsets	CD45RA T helper subset|CD45R0 T helper subset
+primary CD45RA and CD45R0 CD4+ T cell subsets	primary CD45RA CD4+ T cell subset|primary CD45R0 CD4+ T cell subset
+serine/threonine phosphatases-1 and -2A	serine/threonine phosphatase-1|serine/threonine phosphatase-2A
+CREB/ATF and Sp1 factors	CREB/ATF factor|Sp1 factor
+human GM-CSF receptor alpha and beta subunits	human GM-CSF receptor alpha subunit|human GM-CSF receptor beta subunit
+GM-CSFRalpha and beta	GM-CSFRalpha|GM-CSFRbeta
+alpha and delta gene segments	alpha gene segment|delta gene segment
+viral gene expression and replication	viral gene expression|viral gene replication
+viral transcription initiation and elongation	viral transcription initiation|viral transcription elongation
+tumor necrosis factor alpha-induced and protein kinase C (PKC)-dependent activation	tumor necrosis factor alpha-induced activation|protein kinase C (PKC)-dependent activation
+Rel, Fos, and Jun proteins	Rel protein|Fos protein|Jun protein
+HLA-DR, -DQ, and -DP	HLA-DR|HLA-DQ|HLA-DP
+extracellular and transmembrane domains	extracellular domain|transmembrane domain
+CREB/ATF and SRF pathways	CREB/ATF pathway|SRF pathway
+PyG and AT boxes	PyG box|AT box
+PyG and GC boxes	PyG box|GC box
+EBF and E47 binding sites	EBF binding site|E47 binding site
+cytoplasmic and transmembrane domains	cytoplasmic domain|transmembrane domain
+c-fos and c-myc proto-oncogenes	c-fos proto-oncogene|c-myc proto-oncogene
+nonproductive (latent) and productive (lytic) infections	nonproductive (latent) infection|productive (lytic) infection
+immediate early and early proteins	immediate early protein|early protein
+alpha- and beta- herpesvirus systems	alpha-herpesvirus system|beta- herpesvirus system
+homotypic aggregation and proliferation	homotypic aggregation|homotypic proliferation
+murine Th1 and Th2 cells	murine Th1 cell|murine Th2 cell
+Th1- and Th2- specific gene expression	Th1- specific gene expression|Th2- specific gene expression
+Th1- and Th2-type cytokines	Th1-type cytokine|Th2-type cytokine
+CD3 and CD28 molecules	CD3 molecule|CD28 molecule
+human and mouse primary T lymphocytes	human primary T lymphocyte|mouse primary T lymphocyte
+medium and large-sized arteries	medium-sized artery|large-sized artery
+IL-2, IL-1beta, and IL-6 mRNA	IL-2 mRNA|IL-1beta mRNA|IL-6 mRNA
+Western and supershift analyses	Western analyses|supershift analyses
+functional Jun and Fos proteins	functional Jun protein|functional Fos protein
+vertebral and hip bone density	vertebral bone density|hip bone density
+human and murine T-ALL cell lines	human T-ALL cell line|murine T-ALL cell line
+cytoplasmic and nuclear membranes	cytoplasmic membrane|nuclear membrane
+Sp1 and CREB binding site oligonucleotides	Sp1 binding site oligonucleotide|CREB binding site oligonucleotide
+U1B and U2 formation	U1B formation|U2 formation
+Lineage- and stage-specific expression	Lineage-specific expression|stage-specific expression
+primitive and definitive hematopoiesis	primitive hematopoiesis|definitive hematopoiesis
+normal and leukemic hematopoiesis	normal hematopoiesis|leukemic hematopoiesis
+fetal and adult hematopoietic populations	fetal hematopoietic population|adult hematopoietic population
+activated T lymphoid and monocytic cells	activated T lymphoid cell|activated monocytic cell
+T lymphoblastoid (Jurkat) and monocytic (U937) cell lines	T lymphoblastoid (Jurkat) cell line|monocytic (U937) cell line
+lymphocytic, hemopoietic systems	lymphocytic system|hemopoietic system
+AP-1 and Sp1 proteins	AP-1 protein|Sp1 protein
+unstimulated and LPS-stimulated cells	unstimulated cell|LPS-stimulated cell
+immune and endocrine systems	immune system|endocrine system
+immune and nervous systems	immune system|nervous system
+lymphocytic, monocytic, neuronal, and glial cell origin	lymphocytic cell origin|monocytic cell origin|neuronal cell origin|glial cell origin
+naive and memory T cells	naive T cell|memory T cell
+growth- and cell cycle-controlling genes	growth-controlling gene|cell cycle-controlling gene
+c-fos and/or c-jun mRNA	c-fos mRNA|c-jun mRNA
+resting and stimulated T cells	resting T cell|stimulated T cell
+c-jun TRE and c-fos SRE binding complexes	c-jun TRE binding complex|c-fos SRE binding complex
+T and B cell function	T cell function|B cell function
+coronary and carotid arteries	coronary artery|carotid artery
+CAT and IL-6 luciferase assays	CAT assay|IL-6 luciferase assay
+Nuclear Rel-A and c-Rel protein complexes	Nuclear Rel-A protein complex|Nuclear c-Rel protein complex
+p50/p65 and p50/c-Rel complexes	p50/p65 complex|p50/c-Rel complex
+p65, p50, and c-Rel activities	p65 activity|p50 activity|c-Rel activity
+CD4- and CD8-positive thymocytes	CD4-positive thymocyte|CD8-positive thymocyte
+p65 and c-Rel complexes	p65 complex|c-Rel complex
+erythroid and/or megakaryocytic lineages	erythroid lineage|megakaryocytic lineage
+erythroid and megakaryocytic differentiation	erythroid differentiation|megakaryocytic differentiation
+human and mouse cells	human cell|mouse cell
+PU.1, Ikaros and GATA-3 genes	PU.1 gene|Ikaros gene|GATA-3 gene
+B and T lymphoid lineages	B lymphoid lineage|T lymphoid lineage
+B and T lymphocyte function	B lymphocyte function|T lymphocyte function
+virus-encoded and cellular proteins	virus-encoded protein|cellular protein
+membrane-bound and cytosolic enzyme	membrane-bound enzyme|cytosolic enzyme
+follicular, mixed small and large cell lymphomas	follicular cell lymphoma|mixed small cell lymphoma|large cell lymphoma
+Jak1, Jak2, Jak3, and Fes tyrosine kinases	Jak1 tyrosine kinase|Jak2 tyrosine kinase|Jak3 tyrosine kinase|Fes tyrosine kinase
+cis- and transacting factors	cisacting factor|transacting factor
+human inflammatory and immunological diseases	human inflammatory disease|human immunological disease
+anti-inflammatory and immunosuppressive effects	anti-inflammatory effect|immunosuppressive effect
+CD3 and CD28 receptors	CD3 receptor|CD28 receptor
+p50/p65 and p50/RelB heterodimers	p50/p65 heterodimer|p50/RelB heterodimer
+Oct and NFAT elements	Oct element|NFAT element
+Oct- and NFATp/c-binding sites	Oct-binding site|NFATp/c-binding site
+Oct and NFAT family proteins	Oct family protein|NFAT family protein
+wild-type and dl337-infected cells	wild-type cell|dl337-infected cell
+proliferation and cytotoxicity assays	proliferation assay|cytotoxicity assay
+Residues 432, 435, 437, 438, and 440	residue 432|residue 435|residue 437|residue 438|residue 440
+position P1, P4, P6, P7, and P9	position P1|position P4|position P6|position P7|position P9
+residues 431, 433, 434, and 436	residue 431|residue 433|residue 434|residue 436
+positions P 1, P2, P3, and P5	position P1|position P2|position P3|position P5
+binding and signal transducing component	binding component|signal transducing component
+p105 and p100 inhibitors	p105 inhibitor|p100 inhibitor
+pro-, pre-, and mature B-cell lines	pro-B-cell line|pre-B-cell line|mature B-cell line
+cytotoxic and NF-kappa B activation	cytotoxic activation|NF-kappa B activation
+serines 32 and 36	serine 32|serine 36
+Tax-expressing and type I human T-cell leukemia virus-infected human T cells	Tax-expressing human T cell|type I human T-cell leukemia virus-infected human T cell
+Tax-expressing and HTLV-I-transformed T cells	Tax-expressing T cell|HTLV-I-transformed T cell
+Ets and NF-kappaB/NFAT proteins	Ets protein|NF-kappaB/NFAT protein
+Ets and NF-kappaB/NFAT families	Ets family|NF-kappaB/NFAT family
+NF-kappaB/NFAT and Ets binding sites	NF-kappaB/NFAT binding site|Ets binding site
+human immunodeficiency viruses types 1 and 2	human immunodeficiency virus type 1|human immunodeficiency virus type 2
+HIV-1 and HIV-2 enhancers	HIV-1 enhancer|HIV-2 enhancer
+immunosuppressive and antiviral therapies	immunosuppressive therapy|antiviral therapy
+(8;21)(q22;q22) and (3;21)(q26;q22) translocations	(8;21)(q22;q22) translocation|(3;21)(q26;q22) translocation
+inflammatory and immunoregulatory responses	inflammatory response|immunoregulatory response
+CD8+ and CD4+ T cells	CD8+ T cell|CD4+ T cell
+positions -30, -44, -213, and -579	position -30|position -44|position -213|position -579
+adenovirus E1A and hexon genes	adenovirus E1A gene|hexon gene
+E1A and hexon primers	E1A primer|hexon primer
+promyelocyte and late-myeloblast-like cell lines	promyelocyte cell line|late-myeloblast-like cell line
+myeloid-cell-specific c-mim and human myeloperoxidase promoters	myeloid-cell-specific c-mim promoter|human myeloperoxidase promoter
+CD4+ and CD8+ T cells	CD4+ T cell|CD8+ T cell
+IL-2 and IL-2R genes	IL-2 gene|IL-2R gene
+CD4+ and CD8+ T cell subpopulations	CD4+ T cell subpopulation|CD8+ T cell subpopulation
+owl monkey and cotton-top tamarin receptors	owl monkey receptor|cotton-top tamarin receptor
+human, squirrel monkey, owl monkey, and cotton-top tamarin receptors	human receptor|squirrel monkey receptor|owl monkey receptor|cotton-top tamarin receptor
+IL-2, -4, -7, -9, and -15	IL-2|IL-4|IL-7|IL-9|IL -15
+Ig-silenced (common) and Ig-expressing (rare) hybrids	Ig-silenced (common) hybrid|Ig-expressing (rare) hybrid
+monocytic and erythroid differentiation	monocytic differentiation|erythroid differentiation
+lymphocyte development and homeostasis	lymphocyte development|lymphocyte homeostasis
+T cell and B cell specification	T cell specification|B cell specification
+lymphoid-restricted and structurally related gene	lymphoid-restricted gene|structurally related gene
+tumor necrosis factor receptor-associated factors (TRAFs) 1, 2, 3, 5, and 6	tumor necrosis factor receptor-associated factors (TRAFs) 1|tumor necrosis factor receptor-associated factors (TRAFs) 2|tumor necrosis factor receptor-associated factors (TRAFs) 3|tumor necrosis factor receptor-associated factors (TRAFs) 5|tumor necrosis factor receptor-associated factors (TRAFs) 6
+TRAFs 1, 2, 3, and 5	TRAF 1|TRAF 2|TRAF 3|TRAF 5
+P1, P2, and P4 NFAT elements	P1 NFAT element|P2 NFAT element|P4 NFAT element
+c-Jun and GST-pi expression	c-Jun expression|GST-pi expression
+c-Jun- and GST-pi-positive plasma cells	c-Jun-positive plasma cell|GST-pi-positive plasma cell
+allergic and parasitic disorders	allergic disorder|parasitic disorder
+CREB and ATF1 proteins	CREB protein|ATF1 protein
+CD4+ and CD8+ T lymphocytes	CD4+ T lymphocyte|CD8+ T lymphocyte
+homogeneous CD4+ and CD8+ lymphocytes	homogeneous CD4+ lymphocyte|homogeneous CD8+ lymphocyte
+T rosetting CD4+ and CD8+ T lymphocytes	T rosetting CD4+ T lymphocyte |T rosetting CD8+ T lymphocyte
+BZLF1 and BRLF1 immediate-early transcripts	BZLF1 immediate-early transcript|BRLF1 immediate-early transcript
+T-cell and dendritic cell development	T-cell development|dendritic cell development
+I kappa B alpha and IL-2 gene expression	I kappa B alpha gene expression|IL-2 gene expression
+herbimycin A and Rp-cAMP- sensitive pathway	herbimycin A sensitive pathway|Rp-cAMP- sensitive pathway
+IL-4 receptor subunits alpha and gamma	IL-4 receptor subunit alpha|IL-4 receptor subunit gamma
+interleukin (IL)-8 and -6	interleukin (IL)-8|interleukin (IL) -6
+TNF- and cytokine-receptor	TNF-receptor|cytokine-receptor
+AP-1 and Ikaros sites	AP-1 site|Ikaros site
+NGAL mRNA and protein levels	NGAL mRNA level|NGAL protein level
+immature and mature normal myeloid cells	immature normal myeloid cell|mature normal myeloid cell
+vimentin mRNA and protein levels	vimentin mRNA level|vimentin protein level
+immunoblot and immunofluorescence assays	immunoblot assay|immunofluorescence assay
+heat- and cadmium-pretreated cells	heat-pretreated cell|cadmium-pretreated cell
+AES peptides G75 (128-135) and G76 (128-135) (L128G)	AES peptide G75 (128-135) (L128G)|AES peptide G76 (128-135) (L128G)
+PML transcript and protein expression	PML transcript expression|PML protein expression
+IL-10 and TGF-beta gene promoters	IL-10 gene promoter|TGF-beta gene promoter
+calcineurin-dependent and independent pathways	calcineurin-dependent pathway|calcineurin-independent pathway
+eosinophil and neutrophil differentiation	eosinophil differentiation|neutrophil differentiation
+E1A N-terminal and Stat1 C-terminal residues	E1A N-terminal residue|Stat1 C-terminal residue
+antiestrogens H1285 and ICI 182,780	antiestrogen H1285|antiestrogen ICI 182,780
+p50 and p65 proteins	p50 protein|p65 protein
+TAL1- and LMO-dependent transcriptional activation	TAL1-dependent transcriptional activation|LMO-dependent transcriptional activation
+nervous and immune tissues	nervous tissue|immune tissue
+immune or inflammatory response	immune response|inflammatory response
+synovial and peripheral T cells	synovial T cell|peripheral T cell
+NF-E2 and tandem GATA binding sites	NF-E2 binding site|tandem GATA binding site
+NF-E2 and tandem, inverted GATA binding sites	NF-E2 binding site|tandem, inverted GATA binding site
+NF-E2 and tandem GATA sites	NF-E2 site|tandem GATA site
+human HSs 2 and 3	human HS 2|human HS 3
+NF-E2 and GATA sites	NF-E2 site|GATA site
+erythroid differentiation and maturation	erythroid differentiation|erythroid maturation
+CIITA and MHC class II gene expression	CIITA gene expression|MHC class II gene expression
+macrophage and epithelial cell lines	macrophage cell line|epithelial cell line
+mouse macrophage and fibrosarcoma cell lines	mouse macrophage cell line|mouse fibrosarcoma cell line
+eutopic and ectopic endometrium	eutopic endometrium|ectopic endometrium
+EBV nuclear proteins 2, 3, 4, and 6 genes	EBV nuclear protein 2 gene|EBV nuclear protein 3 gene|EBV nuclear protein 4 gene|EBV nuclear protein 6 gene
+EBV nuclear proteins 3 and 6	EBV nuclear protein 3|EBV nuclear protein 6
+Flow cytometric and morphological analyses	flow cytometric analysis|morphological analysis
+p40 and p35 mRNA	p40 mRNA|p35 mRNA
+p40 and p70 production	p40 production|p70 production
+c-fos and c-jun mRNA expression	c-fos mRNA expression|c-jun mRNA expression
+activated cord and adult lymphocytes	activated cord lymphocyte|adult lymphocyte
+c-fos and c-jun expression	c-fos expression|c-jun expression
+basic leucine zipper (bZIP) DNA-binding and protein dimerization domain	basic leucine zipper (bZIP) DNA-binding domain|basic leucine zipper (bZIP) protein dimerization domain
+estrogen-dependent and tissue-specific regulation	estrogen-dependent regulation|tissue-specific regulation
+primary human T and NK cells	primary human T cell|primary human NK cell
+human peripheral blood T and NK cell activation	human peripheral blood T cell activation|human  NK cell activation
+C epsilon-, Fc gamma RI-, and SIE GAS motif	C epsilon-GAS motif|Fc gamma RI-GAS motif|SIE GAS motif
+IL-2, -7, and -15	IL-2|IL-7|IL -15
+voltage-gated and calcium-activated K+ channels	voltage-gated K+ channel|calcium-activated K+ channel
+lymphocyte Ca2+ and Cl- channels	lymphocyte Ca2+ channel|lymphocyte Cl- channel
+type- and differentiation-specific expression	type-specific expression|differentiation-specific expression
+immediate-early and early classes of viral genes	immediate-early class of viral gene|early class of viral gene
+tetanus toxoid specific and HLA-DR-restricted T lymphocytes	tetanus toxoid specific T lymphocyte|HLA-DR-restricted T lymphocyte
+Th1 and Th2 effector functions	Th1 effector function|Th2 effector function
+PKC/Ras- and CaM/CN-mediated pathways	PKC/Ras-mediated pathway|CaM/CN-mediated pathway
+non-transformed murine Th1 and Th2 clones	non-transformed murine Th1 clone|non-transformed murine Th2 clone
+NF-kappaB-dependent and -independent signaling pathways	NF-kappaB-dependent signaling pathway|NF-kappaB-independent signaling pathway
+viral and host cellular factors	viral factor|host cellular factor
+neonatal and adult T cells	neonatal T cell|adult T cell
+transcription and differentiation factors	transcription factor|differentiation factor
+B and T cell differentiation	B cell differentiation|T cell differentiation
+B and T cell activation	B cell activation|T cell activation
+nonstimulated Ramos and Jurkat cells	nonstimulated Ramos cell|nonstimulated Jurkat cell
+transcription, differentiation and proliferation factors	transcription factor|differentiation factor|proliferation factor
+Interleukin 2 and 15	interleukin 2|interleukin 15
+patient's elbow and genital regions	patient's elbow region|patient's genital region
+tumor necrosis factor alpha (TNF-alpha)- and phorbol 12-myristate 13-acetate (PMA)-induced HIV-1 replication	tumor necrosis factor alpha (TNF-alpha)-induced HIV-1 replication|phorbol 12-myristate 13-acetate (PMA)-induced HIV-1 replication
+TNF-alpha- and PMA-stimulated U1 cells	TNF-alpha-stimulated U1 cell|PMA-stimulated U1 cell
+p50/p65- and c-Rel- responsive promoters	p50/p65- responsive promoter|c-Rel- responsive promoter
+bronchial and alveolar cells	bronchial cell|alveolar cell
+fatty acid and lipid metabolism	fatty acid metabolism|lipid metabolism
+zinc finger and POU families	zinc finger familiy|POU familiy
+Interleukin-4 and -13	interleukin-4|interleukin-13
+IL-4- and IFN-gamma-activated factors	IL-4-activated factor|IFN-gamma-activated factor
+T lymphocyte differentiation and activation	T lymphocyte differentiation|T lymphocyte activation
+exons 2, 5 and 7	exon 2|exon 5|exon 7
+exons 2 and 7	exon 2|exon 7
+haematopoietic and solid tumours	haematopoietic tumour|solid tumour
+IL-5 and IL-4 genes	IL-5 gene|IL-4 gene
+positions -585 and -650	position -585|position -650
+EBV-positive and EBV-negative primary effusion lymphoma cell lines	EBV-positive primary effusion lymphoma cell line|EBV-negative primary effusion lymphoma cell line
+calcium- and calmodulin- dependent phosphatase	calcium- dependent phosphatase|calmodulin- dependent phosphatase
+CD45RO+ and CD45RA+ T cell subsets	CD45RO+ T cell subset|CD45RA+ T cell subset
+memory (CD45RO+) and naive (CD45RA+) T cell subsets	memory (CD45RO+) T cell subset|naive (CD45RA+) T cell subset
+memory and naive T cell subsets	memory T cell subset|naive T cell subset
+memory and naive T cells	memory T cell|naive T cell
+memory and naive T cells subsets	memory T cell subset|naive T cell subset
+insulin-dependent and -independent PI 3-kinase activation	insulin-dependent PI 3-kinase activation|insulin-independent PI 3-kinase activation
+human adenovirus type 5 early regions E1A and E1B	human adenovirus type 5 early region E1A|human adenovirus type 5 early region E1B
+cross-prime E1A- and E1B-specific CTLs	cross-prime E1A-specific CTL|cross-prime E1B-specific CTL
+lymphoblastoid T-cell-line-expressing wild-type and mutated CD4 receptors	lymphoblastoid T-cell-line-expressing wild-type CD4 receptor|lymphoblastoid T-cell-line-expressing mutated CD4 receptor
+wild-type and mutated receptors	wild-type receptor|mutated receptor
+specific and non-specific immunoreaction	specific immunoreaction|non-specific immunoreaction
+p35 and p40 chains	p35 chain|p40 chain
+control and infected cells	control cell|infected cell
+delta and beta 5' flanking regions	delta 5' flanking region|beta 5' flanking region
+repressor proteins BP1 and BP2	repressor protein BP1|repressor protein BP2
+tetanus toxoid (TT)- and myelin basic protein (MBP)-specific human T cell lines	tetanus toxoid (TT)-specific human T cell line|myelin basic protein (MBP)-specific human T cell line
+murine and human tumor cell lines	murine tumor cell line|human tumor cell line
+RA receptors alpha, beta, and gamma	RA receptor alpha|RA receptor beta|RA receptor gamma
+RA receptor alpha, beta, and gamma	RA receptor alpha|RA receptor beta|RA receptor gamma
+HTLV-1-infected and Tax-expressing T-cell lines	HTLV-1-infected T-cell line|Tax-expressing T-cell line
+TNF-alpha and IL-1 signaling pathways	TNF-alpha signaling pathway|IL-1 signaling pathway
+TRAF2 and TRAF6 adaptors	TRAF2 adaptor|TRAF6 adaptor
+erythroid and nonerythroid cells	erythroid cell|nonerythroid cell
+MEL and NIH3T3 cells	MEL cell|NIH3T3 cell
+MCP-1 and ICAM-1 promoter-dependent transcription	MCP-1 promoter-dependent transcription|ICAM-1 promoter-dependent transcription
+STAT1alpha and IP-10 expression	STAT1alpha expression|IP-10 expression
+gamma-globin and erythroid-specific 5-aminolevulinate synthetase transcripts	gamma-globin transcript|erythroid-specific 5-aminolevulinate synthetase transcript
+Oct-1 and OCA-B function	Oct-1 function|OCA-B function
+IL-2Ralpha and beta chains	IL-2Ralpha chain|IL-2Rbeta chain
+Sp1 and Ap2 binding site/s	Sp1 binding site|Ap2 binding site
+SLA-DR and SLA-DQ expression	SLA-DR expression|SLA-DQ expression
+constitutive SLA-DR and SLA-DQ antigen expression	constitutive SLA-DR antigen expression|constitutive SLA-DQ antigen expression
+TGF-alpha and TGF-beta1 expression	TGF-alpha expression|TGF-beta1 expression
+TGF-alpha and -beta1	TGF-alpha|TGF-beta1
+CALM and MLL rearrangements	CALM rearrangement|MLL rearrangement
+B- and T-lymphocyte development	B-lymphocyte development|T-lymphocyte development
+B- and T- lymphocyte development	B- lymphocyte development|T- lymphocyte development
+IL-1- and IL-18-mediated function	IL-1-mediated function|IL-18-mediated function
+metallothionein enhancer and promoter regions	metallothionein enhancer region|metallothionein promoter region
+c-fos, c-jun, c-myc, junB, and fra-1 mRNAs	c-fos mRNA|c-jun mRNA|c-myc mRNA|junB mRNA|fra-1 mRNA
+fetal and adult Hb synthesis	fetal Hb synthesis|adult Hb synthesis
+embryonic, fetal, and adult Hb synthesis	embryonic Hb synthesis|fetal Hb synthesis|adult Hb synthesis
+primary human NK and T cells	primary human NK cell|primary human T cell
+human B cell and monocyte functions	human B cell function|human monocyte function
+IL-2-induced NK cytolytic and proliferative activities	IL-2-induced NK cytolytic activity|IL-2-induced NK proliferative activity
+NK and T cell activation	NK cell activation|T cell activation
+fetal and adult B-lymphopoiesis	fetal B-lymphopoiesis|adult B-lymphopoiesis
+humoral and CD8 responses	humoral response|CD8 response
+genes UL49 and UL50	gene UL49|gene UL50
+possible T and natural killer cells	possible T cell|possible natural killer cell
+possible T-cell and natural killer (T/NK) populations	possible T-cell population|possible natural killer (T/NK) population
+CD4+, CD8+ and CD56+ cell populations	CD4+ cell population|CD8+ cell population|CD56+ cell population
+clinical and molecular remission	clinical remission|molecular remission
+human glial cells and lymphocytes	human glial cell|human lymphocyte
+neuroglial and lymphocytic origin	neuroglial origin|lymphocytic origin
+LEF-1 and distal NF-kappaB transcription factor binding sites	LEF-1 binding site|distal NF-kappaB transcription factor binding site
+CNS and immune system origin	CNS origin|immune system origin
+polyclonal and clonal CD3-CD16+ natural killer(NK) cell lines	polyclonal CD3-CD16+ natural killer(NK) cell line|clonal CD3-CD16+ natural killer(NK) cell line
+AP-1, NF-AT, and NF-kB motifs	AP-1 motif|NF-AT motif|NF-kB motif
+nuclear and cytoplasmic components	nuclear component|cytoplasmic component
+55- and 85-kDa proteins	55-kDa protein|85-kDa protein
+SRE- and NF-Y-binding sites	SRE-binding site|NF-Y-binding site
+SRE- and NF-Y-binding site	SRE-binding site|NF-Y-binding site
+human T-cell leukemia virus type I (HTLV-I) and HTLV-II Tax proteins	human T-cell leukemia virus type I (HTLV-I) Tax protein|HTLV-II Tax protein
+HTLV-I and HTLV-II Tax	HTLV-I Tax|HTLV-II Tax
+PTHrP and IL2R alpha promoters	PTHrP promoter|IL2R alpha promoter
+CD3 antigen- and CD2 antigen-derived signals	CD3 antigen-derived signal|CD2 antigen-derived signal
+NF-AT1, AP-1, and NF-kB sites	NF-AT1 site|AP-1 site |NF-kB site
+erythroid and megakaryocytic transcription factors	erythroid transcription factor|megakaryocytic transcription factor
+erythroid, mast and megakaryocyte lineages	erythroid lineage|mast lineage|megakaryocyte lineage
+CD2 and CD28 adhesion molecules	CD2 adhesion molecule|CD28 adhesion molecule
+proIL-1 beta and the simian virus 40 enhancer elements	proIL-1 beta enhancer element|simian virus 40 enhancer element
+resting and stimulated granulocytes	resting granulocyte|stimulated granulocyte
+carcinoma and lymphoid cells	carcinoma cell|lymphoid cell
+extracellular and transmembrane regions	extracellular region|transmembrane region
+AP-1- and octamer-binding proteins	AP-1-binding protein|octamer-binding protein
+CD3 and CD2 receptor stimulation	CD3 receptor stimulation|CD2 receptor stimulation
+AP-2 and Sp1 binding motifs	AP-2 binding motif|Sp1 binding motif
+human T and B lymphocytes	human T lymphocyte|human B lymphocyte
+T and B cells	T cell|B cell
+Jun and Fos proteins	Jun protein|Fos protein
+human T- and B-cell lines	human T-cell line|human B-cell line
+nuclear factor kappa B (NF-kappa B)- and Sp1-binding sites	nuclear factor kappa B (NF-kappa B)-binding site|Sp1-binding site
+rat and mouse TIS11 genes	rat TIS11 gene|mouse TIS11 gene
+human and mouse genomic sequences	human genomic sequence|mouse genomic sequence
+cis- and trans-acting elements	cis-acting element|trans-acting element
+wild-type and class II-deficient B cells	wild-type  B cell|class II-deficient B cell
+H9 and CEM cells	H9 cell|CEM cell
+protein-tyrosine kinase inhibitors genistein and herbimycin A	protein-tyrosine kinase inhibitor genistein|protein-tyrosine kinase inhibitor herbimycin A
+Epo and erythroid differentiation	Epo differentiation|erythroid differentiation
+beta- and gamma- globin genes	beta- globin gene|gamma- globin gene
+beta- and gamma-specific antibodies	beta-specific antibody|gamma-specific antibody
+protein phosphatase 1 and 2A inhibitors	protein phosphatase 1|protein phosphatase 2A inhibitor
+Protein phosphatases 1 and 2A	protein phosphatase 1|protein phosphatase 2A
+erythroid, megakaryocytic, and mastocytic/basophilic lineages	erythroid lineage|megakaryocytic lineage|mastocytic/basophilic lineage
+GATA-1 and tal-1 genes	GATA-1 gene|tal-1 gene
+erythroid and megakaryocytic terminal maturation	erythroid terminal maturation|megakaryocytic terminal maturation
+tal-1 and GATA-1 genes	tal-1 gene|GATA-1 gene
+most primitive and committed progenitors cells	most primitivecell|committed progenitors cell
+erythroid, megakaryocytic, and basosophilic lineages	erythroid lineage|megakaryocytic lineage|basosophilic lineage
+major histocompatibility complex classes I and II	major histocompatibility complex classes I|major histocompatibility complex classes II
+MHC I and II	MHC I|MHC II
+CD14 and CD23 expression	CD14 expression|CD23 expression
+basal, PMA-, and RA-inducible CD23 expression	basal CD23 expression|PMA-inducible CD23 expression|RA-inducible CD23 expression
+VitD3 -and the PMA-induced CD14 expression	VitD3-induced CD14 expression|PMA-induced CD14 expression
+CD14 and CD23 gene expression	CD14 gene expression|CD23 gene expression
+human B cell proliferation and differentiation	human B cell proliferation|human B cell differentiation
+inflammatory and immune mediated reactions	inflammatory reaction|immune mediated reaction
+T lymphocytic and mononuclear phagocytic lineage	T lymphocytic lineage|mononuclear phagocytic lineage
+pre-B and B lymphocyte-specific mb-1 gene	pre-B lymphocyte-specific mb-1 gene|B lymphocyte-specific mb-1 gene
+c-jun and c-fos messenger RNA	c-jun messenger RNA|c-fos messenger RNA
+c-fos and c-jun messenger RNA	c-fos messenger RNA|c-jun messenger RNA
+c-fos and the c-jun mRNA expression	c-fos mRNA expression|c-jun mRNA expression
+HIV-1- and interleukin 2-directed gene expression	HIV-1-directed gene expression|interleukin 2-directed gene expression
+HIV-1 and interleukin 2 promoters	HIV-1 promoter|interleukin 2 promoter
+c-fos, c-jun and jun B proto-oncogenes	c-fos proto-oncogene|c-jun proto-oncogene|jun B proto-oncogene
+c-jun and jun B mRNA expression	c-jun mRNA expression|jun B mRNA expression
+human and mouse CD19 genes	human CD19 gene|mouse CD19 gene
+USF- and Sp1-regulated promoters	USF-regulated promoter|Sp1-regulated promoter
+tissue-, promoter-, and factor-specific coactivator	tissue-specific coactivator|promoter-specific coactivator|factor-specific coactivator
+erythroid, megakaryocyte and mast cell populations	erythroid cell population|megakaryocyte cell population|mast cell population
+immunoglobulin and interleukin-2 genes	immunoglobulin gene|interleukin-2 gene
+nontransformed human and mouse T cells	nontransformed human T cell|nontransformed mouse T cell
+topoisomerases I and II	topoisomerase I|topoisomerase II
+ER+ and ER- cells	ER+ cell|ER- cell
+control, E2-treated, and TAM-treated ER+ and ER- cells	control ER+ cell|control ER- cell|E2-treated ER+ cell|E2-treated ER- cell|TAM-treated ER+ cell|TAM-treated ER- cell
+phosphatases 1 and 2A	phosphatase 1|phosphatase 2A
+multiple DNA binding homo- and heterodimer complexes	multiple DNA binding homo-dimer complex|multiple DNA binding heterodimer complex
+1st and the 2nd exon	1st exon|2nd exon
+Plasma cortisol and aldosterone levels	plasma cortisol level|aldosterone level
+multiple positive and negative transcriptional regulatory elements	multiple positive transcriptional regulatory element|multiple negative transcriptional regulatory element
+human T and monocytic cell lines	human T cell line|monocytic cell line
+unstimulated and PMA- or TNF-stimulated cells	unstimulated cell|PMA-stimulated cell|TNF-stimulated cell
+p50- and c-Rel-selected sequences	p50-selected sequence|c-Rel-selected sequence
+p65 -and p50-selected motifs	p65-selected motif|p50-selected motif
+PKC isoenzymes alpha and beta	PKC isoenzyme alpha|PKC isoenzyme beta
+normal and malignant cells	normal cell|malignant cell
+basal and PMA induced activity	basal activity|PMA induced activity
+AP-2- and AP-1- like consensus sequences	AP-2-like consensus sequence|AP-1- like consensus sequence
+basal and PMA-induced promoter activity	basal promoter activity|PMA-induced promoter activity
+type 1 and 2A protein phosphatases	type 1 protein phosphatase|2A protein phosphatase
+IL-2 and IL-4 genes	IL-2 gene|IL-4 gene
+c-fos and c-jun gene transcription	c-fos gene transcription|c-jun gene transcription
+proto-oncogenes c-jun and c-fos	proto-oncogene c-jun|proto-oncogene c-fos
+growth hormone and prolactin genes	growth hormone gene|prolactin gene
+c-Fos and Jun immunoreactivity	c-Fos immunoreactivity|Jun immunoreactivity
+glucocorticoid and beta-adrenergic receptors	glucocorticoid receptor|beta-adrenergic receptor
+Y, X1, and X2 boxes	Y box|X1 box|X2 box
+X1 and X2 box protein-DNA interactions	X1 box protein-DNA interaction|X2 box protein-DNA interaction
+estrogen type I (high affinity, low capacity) and type II (low affinity, high capacity) binding sites	estrogen type I (high affinity, low capacity) binding site|estrogen type II (low affinity, high capacity) binding site
+alpha and beta isozymes	alpha isozyme|beta isozyme
+NFAT and Oct sites	NFAT site|Oct site
+gluco- and mineralocorticoid receptors	gluco-corticoid receptor|mineralocorticoid receptor
+red cell, platelet and granulocyte antibodies	red cell antibody|platelet antibody|granulocyte antibody
+B- and T-cell development	B-cell development|T-cell development
+lymphocyte and macrophage receptor isoforms	lymphocyte receptor isoform|macrophage receptor isoform
+glucocorticoid and mineralocorticoid receptors	glucocorticoid receptor|mineralocorticoid receptor
+glucocorticoid and mineralocorticoid binding sites	glucocorticoid binding site|mineralocorticoid binding site
+IFN-beta and IFN-alpha RNA	IFN-beta RNA|IFN-alpha RNA
+cytoplasmic and/or nuclear receptor	cytoplasmicreceptor|nuclear receptor
+CD3 and CD25 (IL-2R) receptors	CD3 receptor|CD25 (IL-2R) receptor
+binding, reconstitution and cotransfection experiments	binding experiments|reconstitution experiments|cotransfection experiments
+Cellular immune and cytokine pathways	cellular immune pathway|cellular cytokine pathway
+TF and other inflammatory genes	TF gene|other inflammatory gene
+phytohemagglutinin- and phorbol ester-activated Jurkat cells	phytohemagglutinin-activated Jurkat cell|phorbol ester-activated Jurkat cell
+T cell activation and growth	T cell activation|T cell growth
+human and murine interleukin-2 enhancers	human interleukin-2 enhancer|murine interleukin-2 enhancer
+resting and activated T cells	resting T cell|activated T cell
+erythroid and non-erythroid nuclear proteins	erythroid nuclear protein|non-erythroid nuclear protein
+NF-AT and AP-1 sites	NF-AT site|AP-1 site
+Jurkat and NC2.10 induction	Jurkat indunction|NC2.10 induction
+85, 75, and 54 kDa	85 kDa|75 kDa|54 kDa
+normal and dex-resistant CEM cells	normal CEM cell|dex-resistant CEM cell
+M-CSF and c-fms expression	M-CSF expression|c-fms expression
+c-rel and v-rel (proto)oncogenes	c-rel (proto)oncogene|v-rel (proto)oncogene
+c- and v-rel	c-rel|v-rel
+corticosteroid-sensitive (CS) and corticosteroid-resistant (CR) asthmatic subjects	corticosteroid-sensitive (CS)asthmatic subject|corticosteroid-resistant (CR) asthmatic subject
+sensitive and resistant patients	sensitive patient|resistant patient
+c-jun and c-fos early response genes	c-jun early response gene|c-fos early response gene
+c-jun and c-fos mRNA levels	c-jun mRNA level|c-fos mRNA level
+lamin A, lamin C, and vimentin transcripts	lamin A transcript|lamin C transcript|vimentin transcript
+c-jun and c-fos expression	c-jun expression|c-fos expression
+AP-1, AP-2, and NF kappa B sequence	AP-1 sequence|AP-2 sequence|NF kappa B sequence
+human and murine TNF genes	human TNF gene|murine TNF gene
+IgM, IgD, kappa L chain, and lambda L chain expression	IgM expression|IgD expression|kappa L chain expression|lambda L chain expression
+kappa and lambda L chain mRNA levels	kappa  L chain mRNA level|lambda L chain mRNA level
+mu and gamma mRNA	mu mRNA|gamma mRNA
+Murine and human T-lymphocyte GATA-3 factors	murine T-lymphocyte GATA-3 factor|human T-lymphocyte GATA-3 factor
+human and murine GATA-3 factors	human GATA-3 factor|murine GATA-3 factor
+murine and human factors	murine factor|human factor
+murine and human GATA-3 proteins	murine GATA-3 protein|human GATA-3 protein
+proliferating and nonproliferating hematopoietic cells	proliferating hematopoietic cell|nonproliferating hematopoietic cell
+c-jun, jun B and jun D mRNA	c-junmRNA|jun B mRNA|jun D mRNA
+c-jun, jun B and jun D transcripts	c-jun transcript|jun B transcript|jun D transcript
+human herpesvirus 6 (HHV-6) strains GS and Z-29	human herpesvirus 6 (HHV-6) strain GS|human herpesvirus 6 (HHV-6) strain Z-29
+CREB- and NF-kappa B-like factors	CREB-like factor|NF-kappa B-like factor
+stimulated T and B cell lines	stimulated T cell line|stimulated B cell line
+estrogen and progesterone receptors	estrogen receptor|progesterone receptor
+Ki-67 and p-145 antigens	Ki-67 antigen|p-145 antigen
+blood and pleural effusions	blood effusion|pleural effusion
+TCR beta and TCR delta enhancers	TCR beta enhancer|TCR delta enhancer
+jun and fos gene expression	jun gene expression|fos gene expression
+jun and fos early response genes	jun early response gene|fos early response gene
+IL-2 and the IL-2-R alpha genes	IL-2 gene|IL-2-R alpha gene
+IL-2 and IL-2-R alpha genes	IL-2 gene|IL-2-R alpha gene
+IL-2 and IL-2-R alpha promoters	IL-2 promoter|IL-2-R alpha promoter
+c-fos and c-jun transcripts	c-fos transcript|c-jun transcript
+TPA-induced c-fos and c-jun gene expression	TPA-induced c-fos gene expression|TPA-induced  c-jun gene expression
+autoradiographic and immunohistochemical techniques	autoradiographic technique|immunohistochemical technique
+jun and fos gene family members	jun gene family member|fos gene family member
+type 1 and 2A phosphatases	type 1 phosphatase|type 2A phosphatase
+jun and fos family	jun family|fos family
+CD3-epsilon and T cell receptor alpha enhancers	CD3-epsilon enhancer|T cell receptor alpha enhancer
+Murine and human TCF-1	murine TCF-1|human TCF-1
+Recombinant murine and human TCF-1	recombinant murine TCF-1|recombinant human TCF-1
+TCR-alpha and CD3-epsilon enhancers	TCR-alpha enhancer|CD3-epsilon enhancer
+mammalian and Drosophila homeodomains	mammalian homeodomain|Drosophila homeodomain
+E4 and the octamerlike motifs	E4 motif|octamerlike motif
+human T or B cell activation and proliferation	human T cell activation|human B cell activation|human T cell proliferation|human B cell proliferation
+B and T lymphocyte activation	B lymphocyte activation|T lymphocyte activation
+early and transient hyperpolarization	early hyperpolarization|transient hyperpolarization
+B and T lymphocyte activation and mitogenesis	B lymphocyte activation|T lymphocyte activation|B lymphocyte mitogenesis|T lymphocyte mitogenesis
+B and T lymphocyte	B lymphocyte|T lymphocyte
+cathepsin B, L, and D	cathepsin B|cathepsin L|cathepsin D
+S2, S1, S1', and S2' subsites	S2 subsite|S1 subsite|S1' subsite|S2' subsite
+cathepsin B and L	cathepsin B|cathepsin L
+NF-kappa B and Sp1 binding sites	NF-kappa B binding site|Sp1 binding site
+NF-kappa B and Sp1 elements	NF-kappa B element|Sp1 element
+52 and 45 kilodaltons (kD)	52 kilodaltons (kD)|45 kilodaltons (kD)
+PRDII and tetrahexamer binding proteins	PRDII binding protein|tetrahexamer binding protein
+human chromosomes 11p15 and 11p13	human chromosome 11p15|human chromosome 11p13
+Human and mouse Rhom-2	Human Rhom-2|mouse Rhom-2
+purified human monocytes and macrophages	purified human monocytes|purified human macrophage
+nuclear protein-dependent and independent complexes	nuclear protein-dependent complex| nuclear protein-independent complex
+human immunodeficiency virus and beta interferon promoters	human immunodeficiency virus promoter|beta interferon promoter
+U937 and Jurkat T lymphoid cells	U937 cell|Jurkat T lymphoid cell
+Megakaryocytic and erythrocytic lineages	megakaryocytic lineage|erythrocytic lineage
+megakaryocytic and erythroid cell lines	megakaryocytic cell line|erythroid cell line
+erythrocytic and the megakaryocytic lineages	erythrocytic lineage|megakaryocytic lineage
+erythrocytic and megakaryocytic lineages	erythrocytic lineage|megakaryocytic lineage
+erythroblastic and megakaryoblastic permanent cell lines	erythroblastic permanent cell line|megakaryoblastic permanent cell line
+protein synthesis-dependent and -independent pathways	protein synthesis-dependent pathway|protein synthesis-independent pathway
+T- and 0-lymphocytes	T-lymphocyte|0-lymphocyte
+protein and RNA synthesis	protein synthesis|RNA synthesis
+Stage I and II breast cancer patients	stage I breast cancer patient|stage II breast cancer patient
+water and electrolyte balances	water balance|electrolyte balance
+intracellular Na+, K+ and Ca2+ concentrations	intracellular Na+ concentration|intracellular K+ concentration|intracellular Ca2+ concentration
+water and electrolyte balance	water balance|electrolyte balance
+EBV transcription factors R and Z	EBV transcription factor R|EBV transcription factor Z
+hyper- and hypothyroidism	hyperthyroidism|hypothyroidism
+hyper- and hypothyroid patients	hyperthyroid patient|hypothyroid patient
+Transcriptional and post-transcriptional regulation	transcriptional regulation|post-transcriptional regulation
+tissue-specific late histone H2A-2 and H2B-2 genes	tissue-specific late histone H2A-2 gene|tissue-specific late histone H2B-2 gene
+pre-B- and mature B-cell stages	pre-B-cell stage|mature B-cell stage
+immunoglobulin and class II major histocompatibility (MHC) genes	immunoglobulin gene|class II major histocompatibility (MHC) gene
+blood plasma triidothyronine and thyroxine concentration	blood plasma triidothyronine concentration|blood plasma thyroxine concentration
+Cardiac and adrenergic diseases	cardiac disease|adrenergic disease
+cytoskeletal, and extracellular matrix genes	cytoskeletal gene|extracellular matrix gene
+actin and fibronectin receptor mRNA	actin mRNA|fibronectin receptor mRNA
+mature and immature T-cell lines	mature T-cell line|immature T-cell line
+immunoglobulin heavy- and light-chain genes	immunoglobulin heavy-chain gene|immunoglobulin light-chain gene
+octamer and heptamer sites	octamer site|heptamer site
+B-cell and HeLa-cell extracts	B-cell extract|HeLa-cell extract
+interleukin-2 receptor alpha-chain and interleukin-2 genes	interleukin-2 receptor alpha-chain gene|interleukin-2 gene
+cis- and trans-rotamers	cis-rotamer|trans-rotamer
+c-fos, c-jun, and EGR2 mRNA	c-fos mRNA|c-jun mRNA|EGR2 mRNA
+c-fos, c-jun, EGR2, and PDGF(B) mRNA	c-fos mRNA|c-jun mRNA|EGR2 mRNA|PDGF(B) mRNA
+IgA+ and IgG+ plasma cells	IgA+ plasma cell|IgG+ plasma cell
+CD8+ and CD4+ cells	CD8+ cell|CD4+ cell
+c-erbB2, int-2, and c-myc gene amplification	c-erbB2 gene amplification|int-2 gene amplification|c-myc gene amplification
+cell-type-specific and ubiquitous transcriptional regulators	cell-type-specific transcriptional regulator|ubiquitous transcriptional regulator
+premenopausal and postmenopausal patients	premenopausal patient|postmenopausal patient
+32, 36 to 42 and 110 kD proteins	32 kD protein|36 to 42 kD protein|110 kD protein
+immunoglobulin heavy and kappa light chain gene enhancers	immunoglobulin heavy chain gene enhancer|immunoglobulin kappa light chain gene enhancer
+heavy and kappa light chain enhancers	heavy chain enhancer|kappa light chain enhancer
+abnormal cAMP and cAMP-phosphodiesterase activity	abnormal cAMP activity|abnormal cAMP-phosphodiesterase activity
+interleukin-1 and MHC class II genes	interleukin-1 gene|MHC class II gene
+human glioblastoma and neuroblastoma cell lines	human glioblastoma cell line|human neuroblastoma cell line
+serum-supplemented and serum-free cultures	serum-supplemented culture|serum-free culture
+human peripheral mononuclear and polymorphonuclear leucocytes	human peripheral mononuclear leucocyte|human peripheral polymorphonuclear leucocyte
+mononuclear (MNL) and polymorphonuclear (PML) leucocytes	mononuclear (MNL) leucocyte|polymorphonuclear (PML) leucocyte
+intracellular sodium and potassium concentrations	intracellular sodium concentration|intracellular potassium concentration
+c-fos and c-jun mRNA levels	c-fos mRNA level|c-jun mRNA level
+pre-B (Hyon) and T (DND-41) cell lines	pre-B (Hyon) cell line|T (DND-41) cell line
+acute and chronic HBV infection	acute HBV infection|chronic HBV infection
+immunofluorescence and immunoblot assays	immunofluorescence assay|immunoblot assay
+70- and 90-kilodalton heat shock proteins	70-kilodalton heat shock protein|90-kilodalton heat shock protein
+untransformed progestin, estrogen, androgen, and glucocorticoid receptor complexes	untransformed progestin receptor complex|untransformed estrogen receptor complex|untransformed androgen receptor complex|untransformed glucocorticoid receptor complex
+rabbit uterine and liver cytosols	rabbit uterine cytosol|rabbit  liver cytosol
+70- and 90-kDa heat shock proteins	70-kDa heat shock protein|90-kDa heat shock protein
+follicular and luteal phases	follicular phase|luteal phase
+cytosolic and nuclear compartments	cytosolic compartment|nuclear compartment
+nonhematopoietic and hematopoietic cell lines	nonhematopoietic cell line|hematopoietic cell line
+biochemical and cell biological properties	biochemical property|cell biological property
+NFATp- and NFATc- specific antibodies	NFATp- specific antibody|NFATc- specific antibody
+nuclear and cytoplasmic extracts	nuclear extract|cytoplasmic extract
+c-fos, c-myc, p53 and the hybrid bcr/abl mRNA levels	c-fos mRNA level|c-myc mRNA level|p53 mRNA level|hybrid bcr/abl mRNA level
+monocyte and lymphocyte counts	monocyte count|lymphocyte count
+IL-2 receptor (IL-2R) beta and gamma chains	IL-2 receptor (IL-2R) beta chain|IL-2 receptor (IL-2R) gamma chain
+Jak 1 and 3	Jak 1|Jak 3
+T cell receptor alpha and -beta	T cell receptor alpha|T cell receptor -beta
+protein and mRNA levels	protein level|mRNA level
+constitutive and inducible expression	constitutive expression|inducible expression
+basal and phorbol 12-myristate 13-acetate-inducible transcription	basal transcription|phorbol 12-myristate 13-acetate-inducible transcription
+animal and human populations	animal population|human population
+Helices I and II	helix I|helix II
+cellular and viral anti-apoptotic proteins	cellular anti-apoptotic protein|viral anti-apoptotic protein
+normal and neoplastic T-lineage lymphocytes	normal T-lineage lymphocyte|neoplastic T-lineage lymphocyte
+NF kappa B and IL-2 levels	NF kappa B level|IL-2 level
+T- acute and chronic leukemias	T- acute leukemia|T- chronic leukemia
+myelomonocytic and eosinophilic cells	myelomonocytic cell|eosinophilic cell
+Nb2 and C196 T cell lines	Nb2 T cell line|C196 T cell line
+PRL- and IL-2-induced factors	PRL-induced factor|IL-2-induced factor
+thyroid hormone receptors (TR) alpha and beta	thyroid hormone receptors (TR) alpha|thyroid hormone receptors (TR) beta
+hypo-, eu -and hyperthyroid patients	hypothyroid patient|euthyroid patient|hyperthyroid patient
+positive and negative cis-acting DNA elements	positive cis-acting DNA element|negative cis-acting DNA element
+pro-B, pre-B, and mature B cells	pro-B cell|pre-B cell|mature B cell
+N- and C-terminal residues	N-terminal residue|C-terminal residue
+mouse and human BOB.1/OBF.1	mouse BOB.1/OBF.1|human BOB.1/OBF.1
+NH2- and COOH-terminal domains	NH2-terminal domain|COOH-terminal domain
+proximal and remote positions	proximal position|remote position
+tarsal and bulbar conjunctival biopsies	tarsal conjunctival biopsy|bulbar conjunctival biopsy
+severe and symptomatic VKC	severe VKC|symptomatic VKC
+tarsal and bulbar conjunctiva	tarsal conjunctiva|bulbar conjunctiva
+constitutive and IFN inducible expression	constitutive expression|IFN inducible expression
+type 1 and 2 T helper cell cytokine production	type 1 T helper cell cytokine production|type 2 T helper cell cytokine production
+Stat1 and Stat3 transcriptional activity	Stat1 transcriptional activity|Stat3 transcriptional activity
+myeloid and B cell extracts	myeloid extract|B cell extract
+transcriptional and post-transcription regulation	transcriptional regulation|post-transcription regulation
+concanavalin A (Con A)- and phytohemagglutinin (PHA)-induced T-cell proliferation	concanavalin A (Con A)-induced T-cell proliferation|phytohemagglutinin (PHA)-induced T-cell proliferation
+PKC- and Ca(2+)-dependent signal transduction pathways	PKC-dependent signal transduction pathway|Ca(2+)-dependent signal transduction pathway
+Ca(2+)- and PKC-dependent pathways	Ca(2+)-dependent pathway|PKC-dependent pathway
+anti-inflammatory and immunosuppressive agents	anti-inflammatory agent|immunosuppressive agent
+interleukin 2 (IL-2), gamma interferon, and granulocyte-macrophage colony-stimulating factor mRNA levels	interleukin 2 (IL-2) mRNA level|gamma interferon mRNA level|granulocyte-macrophage colony-stimulating factor mRNA level
+Oct1 and NF-AT DNA binding activity	Oct1 DNA binding activity|NF-AT DNA binding activity
+pre and postmenopausal women	premenopausal woman|postmenopausal woman
+Id2 and Id3 mRNA	Id2 mRNA|Id3 mRNA
+human T-cell leukemia virus type I (HTLV-I) (ATL-1k, MT-2, S-LB1) and type II (Mo)	human T-cell leukemia virus type I (HTLV-I) (ATL-1k, MT-2, S-LB1)|human T-cell leukemia virus type II (Mo)
+quiescent and stimulated cells	quiescent cell|stimulated cell
+mitogen- and anti-CD3-treated peripheral blood lymphocytes	mitogen-treated peripheral blood lymphocyte|anti-CD3-treated peripheral blood lymphocyte
+LEF-1 and Ets-1 sites	LEF-1 site|Ets-1 site

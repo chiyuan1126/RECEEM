@@ -1,0 +1,126 @@
+70% stenoses of the left circumflex and oblique marginal artery	70% stenoses of left circumflex marginal artery|70% stenoses of left oblique marginal artery
+a calcium and glucagon drip	calcium drip|glucagon drip
+a decreased and sluggish flow within the right and left hepatic veins	decreased flow within left hepatic veins|decreased flow within right hepatic veins|sluggish flow within left hepatic veins|sluggish flow within right hepatic veins
+a diet of thin liquids and soft solids	diet of thin liquids|diet of soft solids
+a head and neck ct scan , non-contrast	head ct scan|neck ct scan
+a hip and arm fracture	hip fracture|arm fracture
+a large right and small left pleural effusion	large right pleural effusion|small left pleural effusion
+a pins and needle feeling in the face , hands and feet bilaterally	pins feeling in face bilaterally|pins feeling in hands bilaterally|pins feeling in feet bilaterally|needle in face bilaterally|needle feeling in hands bilaterally|needle in feet bilaterally
+acute major or minor vascular territorial infarction	acute major vascular territorial infarction|acute minor vascular territorial infarction
+acute or chronic infarction	acute infarction|chronic infarction
+acute st or t wave changes	acute st changes|acute t wave changes
+acutely and chronically ill	acutely ill|chronically ill
+an abdomen and pelvis ct	abdomen ct|pelvis ct
+an aquired defect of the right nasal ala and medial cheek region	aquired defect of right nasal ala region|aquired defect of medial cheek region
+an early bilateral upper extermity contracture at the elbows and wrists	early bilateral upper extermity contracture at elbows|early bilateral upper extermity contracture at wrists
+an intramedullary rod and side plate	intramedullary rod|intramedullary side plate
+any bleeding or clotting disorders	bleeding disorders|clotting disorders
+any extra or intracranial hemorrhage	extracranial hemorrhage|intracranial hemorrhage
+ap and lateral compression	ap compression|lateral compression
+apical mid and septal akinesis	apical akinesis|mid akinesis|septal akinesis
+aquired deformity of the right ala / nose and medial cheek	aquired deformity of right ala / nose|aquired deformity of medial cheek
+auditory , visual or tactile hallucinations	auditory hallucinations|visual hallucinations|tactile hallucinations
+bilateral crackles at bases and mid lungs	bilateral crackles at bases|bilateral crackles at mid
+black or bloody stools	black stools|bloody stools
+blood , urine , wound , and pleural fluid cultures	blood cultures|urine cultures|wound cultures|pleural fluid cultures
+blood , urine and sputum culutres	blood culutres|urine culutres|sputum culutres
+bowel or bladder incontinence	bowel incontinence|bladder incontinence
+burns on hands and arms	burns on hands|burns on arms
+c4-c5 , c5-c6 , anterior microdiscectomy and fusion	c4-c5 anterior microdiscectomy and fusion|c5-c6 anterior microdiscectomy and fusion
+c4-c5 and c5-c6 anterior diskectomy	c4-c5 anterior diskectomy|c5-c6 anterior diskectomy
+change in bowel or urinary habits	change in bowel habits|change in urinary habits
+chf signs or symptoms	chf signs|chf symptoms
+clonidine patch and oral	clonidine patch|clonidine oral
+conventional and ct virtual colonoscopy	conventional colonoscopy|ct virtual colonoscopy
+crackles at base and mid-lungs bilaterally	crackles at base-lungs bilaterally|crackles at mid-lungs bilaterally
+ct of head and neck	ct of head|ct of neck
+ct of the abdomen and pelvis	ct of abdomen|ct of pelvis
+decreased attenuation in the periventricular and subcortical white matter	decreased attenuation in periventricular white matter|decreased attenuation in subcortical white matter
+diastolic and systolic dysfunction	diastolic dysfunction|systolic dysfunction
+dilatation and curettage	dilatation|curettage
+electrolytes or mineral abnormalities	electrolytes abnormalities|mineral abnormalities
+elevated right and left sided filling pressures	elevated right sided filling pressures|left sided filling pressures
+elevations in i , avl , and v1 through v2	elevations in i|elevations in avl|elevations in v1 through v2
+fluid and gas in the endometrial cavity	fluid in endometrial cavity|gas in endometrial cavity
+fluid layering at the apices and the pleural spaces	fluid layering at apices spaces|fluid layering at pleural spaces
+foul smelling or colorful drainage	foul smelling drainage|colorful drainage
+free air and free fluid in the pelvis and abdomen	free air in pelvis|free fluid in pelvis|free air in abdomen|free fluid in abdomen
+gpc in pairs and clusters	gpc in pairs|gpc in clusters
+gram-positive cocci in pairs and clusters	gram-positive cocci in pairs|gram-positive cocci in clusters
+gross soilage with bile and gastric contents	gross soilage with bile contents|gross soilage with gastric contents
+hands and feet notably tremulous	hands notably tremulous|feet notably tremulous
+head , ears , eyes , nose and throat	head|ears|eyes|nose|throat
+head , eyes , ears , nose , and throat examination	head examination|eyes examination|ears examination|nose examination|throat examination
+head , eyes , ears , nose and throat examination	head examination|eyes examination|ears examination|nose examination|throat examination
+head and neck examination	head examination|neck examination
+head or neck trauma	head trauma|neck trauma
+heavy calcification of the aorta and sma and its branches	heavy calcification of aorta|heavy calcification of sma|heavy calcification of branches
+her chest and cardiovascular examinations	chest examinations|cardiovascular examinations
+his radial and dp pulses	radial pulses|dp pulses
+hypo or hyperglycemia	hypoglycemia|hyperglycemia
+hypokinesis of the lower half of septum and apex	hypokinesis of lower half of septum|hypokinesis of lower half of apex
+inability to eat or drink	inability to eat|inability to drink
+inferior and inferolateral hypokinesis	inferior hypokinesis|inferolateral hypokinesis
+inferolateral , inferior and mid septal hypokinesis	inferolateral hypokinesis|inferior hypokinesis|mid septal hypokinesis
+infl A and B	infl a|infl b
+injuries to her shoulder and hip	injuries to shoulder|injuries to hip
+internal and external drainage	internal drainage|external drainage
+intraaxial or extraaxial hemorrhage	intraaxial hemorrhage|extraaxial hemorrhage
+left forarm and right knee abrasions	left forarm abrasions|right knee abrasions
+left forearm and wrist series	left forearm series|left wrist series
+left lower extremity and left upper extremity weaker	left lower extremity weaker|left upper extremity weaker
+linear and burn scars	linear scars|burn scars
+loss of bowel or bladder function	loss of bowel function|loss of bladder function
+loss of normal respiratory variations , wave forms and the intrahepatic portion normal	loss of normal respiratory variations|loss of normal wave forms|intrahepatic portion normal
+lv and rv function	lv function|rv function
+major arterial or venous injury	major arterial injury|major venous injury
+maximal bp and hr control	maximal bp control|maximal hr control
+mild intercostal and sternal retractions	mild intercostal retractions|mild sternal retractions
+minimally displaced , comminuted fractures of the left c7 and t1 transverse processes	minimally displaced of left c7 transverse|minimally displaced of left t1 transverse|comminuted fractures of left c7 transverse processes|comminuted fractures of left t1 transverse processes
+minimally displaced and comminuted fractures through the left c7 and t1 transverse processes	minimally displaced through c7 transverse processes|minimally displaced through t1 transverse processes|comminuted fractures through c7 transverse processes|comminuted fractures through t1 transverse processes
+moderately elevated right and left sided filling pressures	moderately elevated right sided filling pressures|moderately elevated left sided filling pressures
+motor , sensory , and vascular examinations	motor examinations|sensory examinations|vascular examinations
+mucosal thickening in the ethmoid and sphenoid sinuses	mucosal thickening in ethmoid sinuses|mucosal thickening in sphenoid sinuses
+multiple calcifications in the body and tail of the pancreas	multiple calcifications in body of pancreas|multiple calcifications in tail of pancreas
+necrosis of the heels and posterior calf	necrosis of heels|necrosis of posterior calf
+new and continuing nausea	new nausea|continuing nausea
+new inferior and inferolateral wall motion abnormalities	new inferior wall motion abnormalities|new inferolateral wall motion abnormalities
+old lad and new st depressions in v1-v4	old lad in v1-v4|new st depressions in v1-v4
+opacification of the posterior nasal cavity and nasopharynx posterior	opacification of posterior nasal cavity|opacification of nasopharynx posterior
+opacification of the visualized left mastoid air cells and mastoid tip	opacification of visualized left mastoid air cells|opacification of visualized left mastoid tip
+opacified and sclerotic left mastoid air cells	opacified left mastoid air cells|sclerotic left mastoid air cells
+pa and lateral chest	pa chest|lateral chest
+pa and lateral views of the chest	pa views of chest|lateral views of chest
+pain and anti-nausea meds	pain meds|anti-nausea meds
+pain in her r arm and hip	pain in r arm|pain in r hip
+pain in r arm and r hip	pain in r arm|pain in r hip
+painful bullae on hands and arm	painful bullae on hands|painful bullae on arm
+partial vertebrectomy of l3 and l4	partial vertebrectomy of l3|partial vertebrectomy of l4
+persistent bifrontal and right parietal hemorrhagic contusions	persistent bifrontal hemorrhagic contusions|persistent right parietal hemorrhagic contusions
+persistent unchanged l mid and lower lung field airspace disease	persistent unchanged l mid lung field airspace disease|persistent unchanged l lower lung field airspace disease
+positive blood and urine cultures	positive blood cultures|positive urine cultures
+r humerus and r hip fx	r humerus fx|r hip fx
+right foot and femur series	right foot series|right femur series
+right tibia / fibula , ap and lateral views	right tibia ap views|right tibia lateral views|right fibula ap views|right fibula lateral views
+significant lower extremity and scrotum edema	significant lower extremity edema|significant scrotum edema
+signs and symptoms	signs|symptoms
+six proximal and two distal screws	six proximal screws|two distal screws
+soft and liquid diet	soft diet|liquid diet
+split thickness and full thickness skin grafting	split thickness skin grafting|full thickness skin grafting
+st depressions in ii , iii , and avf	st depressions in ii|st depressions in iii|st depressions in avf
+st or t wave changes	st wave changes|t wave changes
+st or tw changes	st changes|tw changes
+stents to lad and 3rd om	stents to lad|stents to 3rd om
+strict monitoring of ins and outs	strict monitoring of ins|strict monitoring of outs
+supporting lines and tubes	supporting lines|supporting tubes
+supporting tubes and lines	supporting tubes|supporting lines
+susceptibility artifact in the left temporal lobe , right frontal lobe , and the splenius of the corpus collasum	susceptibility artifact in left temporal lobe|susceptibility artifact in right frontal lobe|splenius of the corpus collasum
+systolic and diastolic congestive heart failure	systolic congestive heart failure|diastolic congestive heart failure
+the left forearm and right lower leg wound	left forearm wound|right lower leg wound
+thrombus within the left and right hepatic veins	thrombus within left hepatic veins|thrombus within right hepatic veins
+tiny foci artifact within the cerebellum and base of the pons	tiny foci artifact within cerebellum|tiny foci artifact within base of pons
+ttp of lumbar spine and paraspinal muscles	ttp of lumbar spine|ttp of paraspinal muscles
+viral , fungal and atypical mycobacterial infections	viral infections|fungal infections|atypical mycobacterial infections
+viscous lidocaine swish and swallow	viscous lidocaine swish|viscous lidocaine swallow
+visual and auditory hallucinations	visual hallucinations|auditory hallucinations
+x-ray of the hands and wrist	x-ray of hands|x-ray of wrist
